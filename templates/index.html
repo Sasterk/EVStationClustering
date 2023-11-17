@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Machine Learning Predictions</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/predictive-model">Predictive Model</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/analysis">Analysis</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Centered Text with Styling -->
+    <div class="center-text">
+        <h1 class="header-text">Electric Vehicle Charging Stations</h1>
+    </div>
+
+    <div class="content-wrapper">
+        <div class="image-container">
+            <div class="image-content">
+                <img src="{{ url_for('static', filename='assets/ev-station.jpg') }}" alt="EV Station">
+            </div>
+        </div>
+    </div>
+
+    <!-- Other content can be placed here -->
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        // JavaScript code remains the same
+    </script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+body {
+    background-color: #f8f9fa; /* Light grey background color */
+    font-family: 'Arial', sans-serif; /* Change font if needed */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.header {
+    text-align: center;
+    margin: 50px 0; /* Adjust the top and bottom margin */
+    color: #333; /* Text color */
+}
+
+.image-container {
+    max-width: 800px; /* Limit the width of the container */
+    margin: 0 auto; /* Center the container */
+    padding: 20px; /* Add padding around the container */
+    border-radius: 8px; /* Rounded corners */
+    overflow: hidden; /* Hide content that goes beyond container */
+    background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/pw_maze_white.png'); /* Background image */
+    background-repeat: repeat; /* Repeat the background */
+    float: left; /* Move the container to the left */
+    margin-right: 30px; /* Add space on the right of the container */
+}
+
+.image-content {
+    position: relative; /* Position relative for child elements */
+}
+
+/* Adjustments for the image inside the container */
+.image-content img {
+    width: 100%; /* Ensure the image fills its container */
+    display: block; /* Remove default inline display */
+}
+
+.header-text {
+    text-align: center;
+    margin-top: 20px; /* Adjust this value as needed */
+    /* Additional styles for the text can be added here */
+}
