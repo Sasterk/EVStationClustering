@@ -18,7 +18,7 @@ body {
     border-radius: 8px; /* Rounded corners */
     overflow: hidden; /* Hide content that goes beyond container */
     background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/pw_maze_white.png'); /* Background image */
-    background-repeat: repeat; /* Repeat the background */
+    background-repeat: no-repeat; /* Prevent background image from repeating */
     float: left; /* Move the container to the left */
     margin-right: 30px; /* Add space on the right of the container */
 }
@@ -34,7 +34,25 @@ body {
 }
 
 .header-text {
-    text-align: center;
-    margin-top: 20px; /* Adjust this value as needed */
-    /* Additional styles for the text can be added here */
+    font-family: 'Arial', sans-serif; /* Use a common sans-serif font */
+    font-weight: 600; /* Adjust font weight for a slightly bold appearance */
+    font-size: 36px; /* Set an appropriate font size */
+    text-transform: capitalize; /* Capitalize the text */
+    /* Additional styles for spacing, margin, color, etc. can be added here */
 }
+
+.center-text {
+    text-align: center; /* Center-align the header text */
+    margin-top: 50px; /* Adjust top margin as needed */
+}
+
+body.gradient-background {
+    background: linear-gradient(to bottom, #ffffff, #d8f5df); /* White to pale green gradient */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed; /* Fix the background in place */
+    background-repeat: no-repeat; /* Prevent background from repeating */
+    background-size: cover; /* Cover the entire body */
+}
+

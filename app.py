@@ -10,14 +10,17 @@ def index():
 # Route for the Predictive Model page
 @app.route('/predictive-model')
 def predictive_model():
-    # You can add relevant data or logic here for the Predictive Model page
     return render_template('predictive_model.html')
 
 # Route for the Analysis page
 @app.route('/analysis')
 def analysis():
-    # You can add relevant data or logic here for the Analysis page
     return render_template('analysis.html')
+
+# Route for the Bios page
+@app.route('/bios')
+def bios():
+    return render_template('bios.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
