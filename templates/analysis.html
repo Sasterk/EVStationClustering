@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Machine Learning Predictions</title>
+    <title>Analysis</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -25,26 +25,40 @@
                 <a class="nav-link" href="/analysis">Analysis</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/bios">Bios</a>
+                <a class="nav-link" href="/team">Meet The Team</a>
             </li>
         </ul>
     </div>
 </nav>
 
-    <body class="gradient-background">
+<body class="gradient-background"></body>
 
-    <!-- Centered Text with Styling -->
-    <div class="center-text">
-        <h1 class="header-text">Analysis</h1>
-    </div>
+<!-- Centered Text with Styling -->
+<div class="center-text">
+    <h1 class="header-text">Analysis</h1>
+</div>
 
 
-    <!-- Other content can be placed here -->
+<div class="container mt-4">
+    <div class='tableauPlaceholder' id='viz1701138485394'>
+<!-- Tableau Embed Code -->
+        <div class='tableauPlaceholder' id='viz1701138485394' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;8N&#47;8NRHFC33D&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;8NRHFC33D' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;8N&#47;8NRHFC33D&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+            <script type='text/javascript'>
+                var divElement = document.getElementById('viz1701138485394');
+                var vizElement = divElement.getElementsByTagName('object')[0];
+                vizElement.style.width='100%';
+                vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+                var scriptElement = document.createElement('script');
+                scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+                vizElement.parentNode.insertBefore(scriptElement, vizElement);
+            </script>
+        </div>
+</div>
 
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<!-- Bootstrap and other scripts -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 </body>
 </html>

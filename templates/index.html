@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Machine Learning Predictions</title>
+    <title>Electric Vehicle Charging Stations Project</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -25,7 +25,7 @@
                 <a class="nav-link" href="/analysis">Analysis</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/bios">Bios</a>
+                <a class="nav-link" href="/team">Meet The Team</a>
             </li>
         </ul>
     </div>
@@ -38,13 +38,25 @@
         <h1 class="header-text">Electric Vehicle Charging Stations</h1>
     </div>
 
+
     <div class="content-wrapper">
-        <div class="image-container">
-            <div class="image-content">
-                <img src="{{ url_for('static', filename='assets/ev-station.jpg') }}" alt="EV Station">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="image-container">
+                    <div class="image-content">
+                        <img src="{{ url_for('static', filename='assets/ev-station.jpg') }}" alt="EV Station">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="text-content">
+                    <h2>Welcome to Our Project</h2>
+                    <p>Welcome to our innovative project at the intersection of machine learning and sustainable technology! Our endeavor focuses on harnessing the power of predictive modeling to determine optimal locations for electric vehicle (EV) charging stations. Using sophisticated machine learning algorithms, we analyze diverse census data predictors to identify and map out strategic areas for these stations. Our goal is to enhance accessibility and convenience for EV users while contributing to a greener future. Join us on this exciting journey where technology meets sustainability!</p>
+                </div>
             </div>
         </div>
     </div>
+
 
     <!-- Other content can be placed here -->
 

@@ -18,9 +18,9 @@ def analysis():
     return render_template('analysis.html')
 
 # Route for the Bios page
-@app.route('/bios')
+@app.route('/team')
 def bios():
-    return render_template('bios.html')
+    return render_template('team.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
