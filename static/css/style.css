@@ -118,3 +118,36 @@ body.gradient-background {
 .text-content h2 {
     margin-bottom: 20px;
 }
+.predictive-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.predictive-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.predictive-form input[type="number"],
+.predictive-form input[type="text"],
+.predictive-form input[type="submit"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.predictive-form input[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+.predictive-form input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.header-text {
+    margin-bottom: 100px;
+}
