@@ -1,0 +1,6304 @@
+City,Fuel Type Code,State,EV Total Port Count (Beta)
+8900 e. buckeye ave.,ELEC,WA,2.0
+abbeville,ELEC,SC,2.0
+abbott,ELEC,TX,8.0
+aberdeen,ELEC,SD,89.0
+abesecon,ELEC,NJ,4.0
+abilene,ELEC,TX,23.0
+abingdon,ELEC,VA,28.0
+abington,ELEC,PA,6.0
+abita springs,ELEC,LA,4.0
+absecon,ELEC,NJ,2.0
+acampo,ELEC,CA,4.0
+accokeek,ELEC,MD,4.0
+acme,ELEC,MI,6.0
+acton,ELEC,MA,27.0
+acushnet,ELEC,MA,2.0
+acworth,ELEC,GA,21.0
+ada,ELEC,OK,39.0
+adairsville,ELEC,GA,23.0
+addison,ELEC,IL,27.0
+adel,ELEC,IA,2.0
+adelphi,ELEC,MD,2.0
+adrian,ELEC,MI,2.0
+afton,ELEC,VA,5.0
+agawam,ELEC,MA,14.0
+agoura,ELEC,CA,4.0
+agoura hills,ELEC,CA,55.0
+aguilar,ELEC,CO,1.0
+ahwahnee,ELEC,CA,10.0
+aiea,ELEC,HI,16.0
+aiken,ELEC,SC,10.0
+ainsworth,ELEC,NE,2.0
+airway heights,ELEC,WA,15.0
+ajo,ELEC,AZ,4.0
+akron,ELEC,OH,80.0
+akwesasne,ELEC,NY,6.0
+alabaster,ELEC,AL,4.0
+alachua,ELEC,FL,12.0
+alameda,ELEC,CA,145.0
+"alameda, ca",ELEC,CA,2.0
+alamo,ELEC,NV,1.0
+alamo heights,ELEC,TX,4.0
+alamogordo,ELEC,NM,5.0
+alamosa,ELEC,CO,10.0
+alanson,ELEC,MI,3.0
+albany,ELEC,OR,554.0
+albemarle,ELEC,NC,4.0
+albert lea,ELEC,MN,18.0
+albertville,ELEC,AL,5.0
+albia,ELEC,IA,2.0
+albion,ELEC,NY,14.0
+albuquerque,ELEC,NM,189.0
+alcoa,ELEC,TN,10.0
+alderson,ELEC,WV,1.0
+aledo,ELEC,TX,1.0
+alexander,ELEC,NC,2.0
+alexander city,ELEC,AL,6.0
+alexandria,ELEC,VA,266.0
+algoma,ELEC,WI,2.0
+algona,ELEC,IA,2.0
+algonquin,ELEC,IL,20.0
+alhambra,ELEC,CA,104.0
+alice,ELEC,TX,11.0
+aliceville,ELEC,AL,1.0
+alington,ELEC,VA,3.0
+aliquippa,ELEC,PA,1.0
+aliso viejo,ELEC,CA,59.0
+allegan,ELEC,MI,6.0
+allen,ELEC,NE,29.0
+allen park,ELEC,MI,24.0
+allendale charter township,ELEC,MI,6.0
+allentown,ELEC,PA,120.0
+allenwood,ELEC,PA,2.0
+allston,ELEC,MA,19.0
+alma,ELEC,CO,8.0
+almont,ELEC,CO,7.0
+aloha,ELEC,OR,3.0
+alpena,ELEC,MI,2.0
+alpharetta,ELEC,GA,183.0
+alpine,ELEC,CA,15.0
+alsip,ELEC,IL,4.0
+alston,ELEC,MA,1.0
+alta,ELEC,UT,1.0
+altamont,ELEC,NY,30.0
+altamonte springs,ELEC,FL,18.0
+altavista,ELEC,VA,4.0
+alto,ELEC,GA,2.0
+alton,ELEC,IL,11.0
+altoona,ELEC,PA,46.0
+altos hills,ELEC,CA,16.0
+alturas,ELEC,CA,10.0
+altus,ELEC,OK,2.0
+altus afb,ELEC,OK,6.0
+alva,ELEC,OK,2.0
+alvarado,ELEC,TX,14.0
+alvin,ELEC,TX,4.0
+alys beach,ELEC,FL,4.0
+amagansett,ELEC,NY,4.0
+amana,ELEC,IA,3.0
+amarillo,ELEC,TX,52.0
+ambler,ELEC,PA,25.0
+ambridge,ELEC,PA,4.0
+amelia island,ELEC,FL,2.0
+amenia,ELEC,NY,10.0
+amer cyn,ELEC,CA,3.0
+american canyon,ELEC,CA,8.0
+american falls,ELEC,ID,1.0
+american fork,ELEC,UT,12.0
+americus,ELEC,GA,3.0
+amerst,ELEC,NY,2.0
+amery,ELEC,WI,5.0
+ames,ELEC,IA,29.0
+amesbury,ELEC,MA,31.0
+amherst,ELEC,NY,116.0
+amity,ELEC,OR,5.0
+amityville,ELEC,NY,13.0
+ammon,ELEC,ID,1.0
+amsterdam,ELEC,NY,44.0
+anacortes,ELEC,WA,23.0
+anacostia naval station,ELEC,DC,1.0
+anadarko,ELEC,OK,8.0
+anaheim,ELEC,CA,605.0
+anahola,ELEC,HI,2.0
+anchorage,ELEC,AK,18.0
+ancram,ELEC,NY,4.0
+andalusia,ELEC,AL,4.0
+anderson,ELEC,SC,25.0
+andes,ELEC,NY,2.0
+andover,ELEC,MN,32.0
+andrews afb,ELEC,MD,31.0
+angel fire,ELEC,NM,2.0
+angels camp,ELEC,CA,2.0
+angola,ELEC,IN,19.0
+angwin,ELEC,CA,2.0
+ankeny,ELEC,IA,12.0
+ann arbo,ELEC,MI,2.0
+ann arbor,ELEC,MI,186.0
+annadale-on- hudson,ELEC,NY,4.0
+annandale,ELEC,MN,14.0
+annapolis,ELEC,MD,237.0
+annapolis junction,ELEC,MD,47.0
+anniston,ELEC,AL,7.0
+ansonia,ELEC,CT,4.0
+ansted,ELEC,WV,4.0
+antelope,ELEC,CA,1.0
+anthem,ELEC,AZ,4.0
+anthony,ELEC,TX,2.0
+antigo,ELEC,WI,2.0
+antioch,ELEC,CA,55.0
+antlers,ELEC,OK,4.0
+anza,ELEC,CA,8.0
+apache junction,ELEC,AZ,4.0
+apalachicola,ELEC,FL,11.0
+apex,ELEC,NC,15.0
+apollo beach,ELEC,FL,8.0
+apopka,ELEC,FL,26.0
+apple valley,ELEC,CA,6.0
+appleton,ELEC,WI,42.0
+appleton city,ELEC,MO,1.0
+aptos,ELEC,CA,14.0
+aquebogue,ELEC,NY,1.0
+aquinnah,ELEC,MA,4.0
+aransas pass,ELEC,TX,3.0
+arbovale,ELEC,WV,2.0
+arbutus,ELEC,MD,6.0
+arcade,ELEC,NY,2.0
+arcadia,ELEC,CA,55.0
+arcata,ELEC,CA,25.0
+archbold,ELEC,OH,3.0
+archdale,ELEC,NC,14.0
+archer heights,ELEC,IL,4.0
+arco,ELEC,ID,6.0
+arcola,ELEC,IL,2.0
+arden,ELEC,NC,22.0
+arden hills,ELEC,MN,1.0
+ardmore,ELEC,PA,34.0
+arecibo,ELEC,PR,1.0
+argonne,ELEC,IL,2.0
+arkadelphia,ELEC,AR,10.0
+arkansas city,ELEC,KS,1.0
+arkville,ELEC,NY,2.0
+arleta,ELEC,CA,1.0
+arlington,ELEC,TX,645.0
+arlington  heights,ELEC,IL,4.0
+arlington heights,ELEC,IL,20.0
+arnold,ELEC,MD,10.0
+arroyo grande,ELEC,CA,27.0
+artesia,ELEC,NM,15.0
+arundel,ELEC,ME,2.0
+arvada,ELEC,CO,45.0
+arvin,ELEC,CA,110.0
+asbury,ELEC,MO,2.0
+asbury park,ELEC,NJ,10.0
+ashburn,ELEC,VA,108.0
+ashburnham,ELEC,MA,4.0
+asheboro,ELEC,NC,23.0
+asheville,ELEC,NC,172.0
+ashford,ELEC,WA,8.0
+ashland,ELEC,OR,119.0
+ashland city,ELEC,TN,2.0
+ashton,ELEC,ID,4.0
+ashwaubenon,ELEC,WI,8.0
+aspen,ELEC,CO,72.0
+astoira,ELEC,OR,4.0
+aston,ELEC,PA,2.0
+astoria,ELEC,OR,37.0
+atascadero,ELEC,CA,30.0
+atchison,ELEC,KS,2.0
+atco,ELEC,NJ,2.0
+athena,ELEC,OR,2.0
+athens,ELEC,GA,129.0
+atherton,ELEC,CA,24.0
+athol,ELEC,MA,8.0
+atkins,ELEC,VA,8.0
+atlanta,ELEC,GA,1870.0
+atlantic city,ELEC,NJ,33.0
+atlantic highlands,ELEC,NJ,2.0
+atmore,ELEC,AL,1.0
+atoka,ELEC,OK,1.0
+attica,ELEC,OH,8.0
+attleboro,ELEC,MA,10.0
+atwater,ELEC,CA,29.0
+au sable charter township,ELEC,MI,4.0
+au sable forks,ELEC,NY,2.0
+aubrey,ELEC,TX,2.0
+auburn,ELEC,WA,246.0
+auburn hills,ELEC,MI,90.0
+augusta,ELEC,GA,106.0
+aulander,ELEC,NC,2.0
+aurora,ELEC,CO,329.0
+austell,ELEC,GA,4.0
+austin,ELEC,TX,1460.0
+austinburg,ELEC,OH,1.0
+austintown,ELEC,OH,1.0
+avalon,ELEC,NJ,3.0
+avenal,ELEC,CA,2.0
+avenel,ELEC,NJ,14.0
+aventura,ELEC,FL,115.0
+aventure,ELEC,FL,4.0
+averill park,ELEC,NY,2.0
+avila beach,ELEC,CA,5.0
+avoca,ELEC,IA,2.0
+avon,ELEC,CO,94.0
+avon lake,ELEC,OH,6.0
+avon park,ELEC,FL,8.0
+avondale,ELEC,AZ,37.0
+avondale estates,ELEC,GA,2.0
+ayer,ELEC,MA,10.0
+azle,ELEC,TX,2.0
+aztec,ELEC,NM,2.0
+azusa,ELEC,CA,44.0
+babb,ELEC,MT,2.0
+babylon,ELEC,NY,4.0
+bad axe,ELEC,MI,7.0
+baden,ELEC,PA,4.0
+baileys harbor,ELEC,WI,5.0
+baileyville,ELEC,ME,8.0
+bainbridge island,ELEC,WA,16.0
+baiting hollow,ELEC,NY,4.0
+baker,ELEC,CA,71.0
+baker city,ELEC,OR,9.0
+bakerfield,ELEC,CA,2.0
+bakersfield,ELEC,CA,227.0
+bakersville,ELEC,NC,2.0
+bal harbor,ELEC,FL,8.0
+bal harbour,ELEC,FL,12.0
+bala cynwyd,ELEC,PA,10.0
+balch springs,ELEC,TX,2.0
+balcones heights,ELEC,TX,4.0
+baldwin,ELEC,WI,9.0
+baldwin park,ELEC,CA,58.0
+baldwin place,ELEC,NY,1.0
+baldwinsville,ELEC,NY,40.0
+ball ground,ELEC,GA,2.0
+ballinger,ELEC,TX,1.0
+ballston,ELEC,NY,4.0
+ballston lake,ELEC,NY,2.0
+ballston spa,ELEC,NY,68.0
+ballwin,ELEC,MO,7.0
+bally,ELEC,PA,2.0
+baltimore,ELEC,MD,921.0
+bamberg,ELEC,SC,5.0
+bandera,ELEC,TX,5.0
+bandon,ELEC,OR,22.0
+bangalore,ELEC,KA,1.0
+bangor,ELEC,ME,26.0
+banks,ELEC,OR,4.0
+banner elk,ELEC,NC,6.0
+banning,ELEC,CA,14.0
+bannockburn,ELEC,IL,4.0
+bar harbor,ELEC,ME,32.0
+baraboo,ELEC,WI,8.0
+barboursville,ELEC,WV,5.0
+bardonia,ELEC,NY,4.0
+bardstown,ELEC,KY,11.0
+barkhamsted,ELEC,CT,2.0
+barnard,ELEC,VT,16.0
+barnegat,ELEC,NJ,8.0
+barnegat township,ELEC,NJ,2.0
+barnstable,ELEC,MA,42.0
+barre,ELEC,VT,12.0
+barrington,ELEC,IL,35.0
+barron,ELEC,WI,1.0
+barstow,ELEC,CA,127.0
+bartlesville,ELEC,OK,15.0
+bartlett,ELEC,TN,17.0
+bartonsville,ELEC,PA,10.0
+bartow,ELEC,FL,9.0
+basalt,ELEC,CO,25.0
+basking ridge,ELEC,NJ,55.0
+bass harbor,ELEC,ME,1.0
+bastrop,ELEC,TX,23.0
+batavia,ELEC,OH,33.0
+batesville,ELEC,MS,18.0
+bath,ELEC,NY,11.0
+baton rouge,ELEC,LA,107.0
+battle creek,ELEC,MI,49.0
+battle ground,ELEC,WA,6.0
+battle mountain,ELEC,NV,4.0
+baxter,ELEC,MN,15.0
+baxter springs,ELEC,KS,4.0
+bay city,ELEC,MI,34.0
+bay harbor,ELEC,MI,4.0
+bay harbor islands,ELEC,FL,6.0
+bay lake,ELEC,FL,12.0
+bay minette,ELEC,AL,1.0
+bay pines,ELEC,FL,1.0
+bay point,ELEC,CA,2.0
+bay shore,ELEC,NY,35.0
+bay village,ELEC,OH,4.0
+bayamón,ELEC,PR,1.0
+bayberry,ELEC,NY,2.0
+bayfield,ELEC,CO,7.0
+bayport,ELEC,NY,5.0
+bayshore,ELEC,NY,6.0
+bayside,ELEC,NY,5.0
+baytown,ELEC,TX,42.0
+beach haven,ELEC,NJ,9.0
+beachwood,ELEC,OH,6.0
+beacon,ELEC,NY,24.0
+beacon falls,ELEC,CT,2.0
+bealeton,ELEC,VA,8.0
+bean station,ELEC,TN,2.0
+bear,ELEC,DE,10.0
+bear mountain,ELEC,NY,2.0
+bear valley,ELEC,CA,2.0
+beatrice,ELEC,NE,8.0
+beatty,ELEC,NV,10.0
+beaufort,ELEC,SC,17.0
+beaumont,ELEC,TX,88.0
+beaver,ELEC,UT,39.0
+beaver creek,ELEC,CO,11.0
+beaver dam,ELEC,WI,14.0
+beaver falls,ELEC,PA,2.0
+beavercreek,ELEC,OH,29.0
+beaverton,ELEC,OR,276.0
+becket,ELEC,MA,4.0
+beckley,ELEC,WV,4.0
+bedford,ELEC,TX,77.0
+bedford heights,ELEC,OH,3.0
+bedford hills,ELEC,NY,11.0
+bedminster,ELEC,NJ,12.0
+bee cave,ELEC,TX,14.0
+beebe,ELEC,AR,2.0
+beech island,ELEC,SC,3.0
+beeville,ELEC,TX,2.0
+bel air,ELEC,MD,61.0
+belair,ELEC,MD,2.0
+belcamp,ELEC,MD,2.0
+belchertown,ELEC,MA,2.0
+belfair,ELEC,WA,4.0
+belfast,ELEC,ME,8.0
+belgrade,ELEC,MT,10.0
+bell,ELEC,CA,8.0
+bell gardens,ELEC,CA,1.0
+bellaire,ELEC,MI,2.0
+bellbrook,ELEC,OH,4.0
+belle chasse,ELEC,LA,26.0
+belle mead,ELEC,NJ,4.0
+belle plaine,ELEC,KS,6.0
+belle vernon,ELEC,PA,7.0
+bellefontaine,ELEC,OH,6.0
+bellefonte,ELEC,PA,21.0
+belleville,ELEC,MI,10.0
+bellevue,ELEC,WA,633.0
+bellflower,ELEC,CA,43.0
+bellingham,ELEC,WA,108.0
+bellmawr,ELEC,NJ,3.0
+bellmead,ELEC,TX,28.0
+bellmore,ELEC,NY,4.0
+bellows falls,ELEC,VT,3.0
+bellville,ELEC,OH,2.0
+bellvue,ELEC,CO,4.0
+belmont,ELEC,NC,77.0
+beloit,ELEC,WI,3.0
+belpre,ELEC,OH,2.0
+belton,ELEC,MO,36.0
+beltsville,ELEC,MD,25.0
+belvedere,ELEC,CA,5.0
+belvedere tiburon,ELEC,CA,14.0
+belvidere,ELEC,IL,5.0
+bemidji,ELEC,MN,23.0
+benbrook,ELEC,TX,4.0
+bend,ELEC,OR,113.0
+benicia,ELEC,CA,8.0
+bennett,ELEC,CO,6.0
+bennettsville,ELEC,SC,2.0
+bennington,ELEC,VT,26.0
+bensalem,ELEC,PA,55.0
+bensenville,ELEC,IL,2.0
+benson,ELEC,NC,14.0
+bentleyville,ELEC,PA,1.0
+benton,ELEC,AR,10.0
+benton city,ELEC,WA,3.0
+benton harbor,ELEC,MI,34.0
+bentonville,ELEC,AR,93.0
+berea,ELEC,KY,23.0
+bergen,ELEC,NY,4.0
+bergenfield,ELEC,NJ,1.0
+berkeley,ELEC,CA,183.0
+berkeley heights,ELEC,NJ,9.0
+berkeley springs,ELEC,WV,11.0
+berkley,ELEC,MI,6.0
+berlin,ELEC,CT,39.0
+bernalillo,ELEC,NM,4.0
+bernard,ELEC,ME,1.0
+bernards,ELEC,NJ,7.0
+bernardsville,ELEC,NJ,2.0
+berne,ELEC,IN,1.0
+berryville,ELEC,VA,5.0
+berthoud,ELEC,CO,12.0
+berwick,ELEC,PA,2.0
+berwyn,ELEC,PA,16.0
+berwyn heights,ELEC,MD,4.0
+bessemer,ELEC,AL,8.0
+bessemer city,ELEC,NC,4.0
+bethany,ELEC,MO,12.0
+bethany beach,ELEC,DE,12.0
+bethel,ELEC,VT,24.0
+bethel park,ELEC,PA,8.0
+bethesda,ELEC,MD,198.0
+bethlehem,ELEC,PA,71.0
+bettendorf,ELEC,IA,16.0
+betterton,ELEC,MD,2.0
+beulah,ELEC,ND,2.0
+beverly,ELEC,MA,78.0
+beverly hills,ELEC,CA,126.0
+bevington,ELEC,IA,2.0
+bexley,ELEC,OH,5.0
+biddeford,ELEC,ME,17.0
+big bear lake,ELEC,CA,15.0
+big flats,ELEC,NY,2.0
+big pine key,ELEC,FL,8.0
+big pool,ELEC,MD,4.0
+big rapids,ELEC,MI,14.0
+big sky,ELEC,MT,16.0
+big spring,ELEC,TX,19.0
+big stone gap,ELEC,VA,4.0
+big sur,ELEC,CA,17.0
+big timber,ELEC,MT,4.0
+bigfork,ELEC,MT,1.0
+biglake,ELEC,TX,2.0
+biglerville,ELEC,PA,1.0
+billerica,ELEC,MA,14.0
+billings,ELEC,MT,39.0
+biloxi,ELEC,MS,36.0
+bingen,ELEC,WA,3.0
+binger,ELEC,OK,4.0
+bingham farms,ELEC,MI,4.0
+binghamton,ELEC,NY,43.0
+birch run,ELEC,MI,7.0
+birchwood,ELEC,WI,1.0
+bird in hand,ELEC,PA,8.0
+birmingham,ELEC,AL,148.0
+bisbee,ELEC,AZ,9.0
+biscoe,ELEC,NC,2.0
+bishop,ELEC,CA,51.0
+bismarck,ELEC,ND,21.0
+bixby,ELEC,OK,1.0
+black hawk,ELEC,CO,15.0
+black mountain,ELEC,NC,5.0
+black river falls,ELEC,WI,16.0
+blackfoot,ELEC,ID,8.0
+blacklick,ELEC,OH,1.0
+blacksburg,ELEC,VA,44.0
+blackshear,ELEC,GA,2.0
+blackstone,ELEC,VA,6.0
+blackville,ELEC,SC,2.0
+blackwell,ELEC,OK,12.0
+bladensburg,ELEC,MD,7.0
+blaine,ELEC,MN,33.0
+blair,ELEC,NE,6.0
+blairsville,ELEC,GA,5.0
+blakely,ELEC,PA,1.0
+blakeslee,ELEC,PA,12.0
+blanch,ELEC,NC,2.0
+blanchard,ELEC,MI,2.0
+blanchester,ELEC,OH,2.0
+blanco,ELEC,TX,3.0
+blanding,ELEC,UT,4.0
+blasdell,ELEC,NY,4.0
+blauvelt,ELEC,NY,2.0
+bloomer,ELEC,WI,1.0
+bloomfield,ELEC,NJ,45.0
+bloomfield hills,ELEC,MI,8.0
+bloomfield township,ELEC,MI,2.0
+blooming prairie,ELEC,MN,3.0
+bloomingdale,ELEC,IL,18.0
+bloomington,ELEC,IL,219.0
+bloomsburg,ELEC,PA,24.0
+blossburg,ELEC,PA,4.0
+blossvale,ELEC,NY,4.0
+blountville,ELEC,TN,2.0
+blowing rock,ELEC,NC,20.0
+blue ash,ELEC,OH,36.0
+blue bell,ELEC,PA,12.0
+blue earth,ELEC,MN,7.0
+blue eye,ELEC,MO,10.0
+blue hill,ELEC,ME,13.0
+blue jay,ELEC,CA,1.0
+blue lake,ELEC,CA,15.0
+blue point,ELEC,NY,2.0
+blue ridge,ELEC,GA,5.0
+blue springs,ELEC,MO,36.0
+bluefield,ELEC,WV,4.0
+bluemont,ELEC,VA,2.0
+bluff,ELEC,UT,6.0
+bluffdale,ELEC,UT,2.0
+bluffton,ELEC,SC,14.0
+blythe,ELEC,CA,18.0
+blytheville,ELEC,AR,2.0
+blythewood,ELEC,SC,6.0
+boardman,ELEC,OH,16.0
+boaz,ELEC,AL,5.0
+boca raton,ELEC,FL,247.0
+bock,ELEC,MN,1.0
+bodega bay,ELEC,CA,5.0
+boerne,ELEC,TX,8.0
+bohemia,ELEC,NY,2.0
+boiling spring,ELEC,PA,2.0
+boiling springs,ELEC,SC,1.0
+boise,ELEC,ID,165.0
+boligee,ELEC,AL,2.0
+bolingbrook,ELEC,IL,55.0
+bolivar,ELEC,MO,8.0
+bolton,ELEC,NY,14.0
+bolton landing,ELEC,NY,4.0
+bondurant,ELEC,IA,1.0
+bonita springs,ELEC,FL,10.0
+bonners ferry,ELEC,ID,5.0
+bonney lake,ELEC,WA,2.0
+boone,ELEC,NC,61.0
+boonsboro,ELEC,MD,2.0
+boonton,ELEC,NJ,11.0
+boonville,ELEC,MO,5.0
+boothbay,ELEC,ME,4.0
+boothbay harbor,ELEC,ME,3.0
+boothwyn,ELEC,PA,8.0
+borden,ELEC,IN,2.0
+bordentown,ELEC,NJ,2.0
+boron,ELEC,CA,4.0
+borough park,ELEC,NY,20.0
+borrego springs,ELEC,CA,4.0
+bossier city,ELEC,LA,7.0
+boston,ELEC,MA,1114.0
+boswell,ELEC,PA,1.0
+bothell,ELEC,WA,68.0
+bottineau,ELEC,ND,2.0
+boulder,ELEC,CO,442.0
+boulder city,ELEC,NV,6.0
+bound brook,ELEC,NJ,5.0
+bourbonnais,ELEC,IL,6.0
+bourne,ELEC,MA,13.0
+bow,ELEC,NH,11.0
+bowie,ELEC,MD,139.0
+bowling green,ELEC,OH,60.0
+bowman,ELEC,ND,1.0
+bowmansville,ELEC,PA,8.0
+box elder,ELEC,SD,4.0
+boxborough,ELEC,MA,10.0
+boxford,ELEC,MA,6.0
+boyce,ELEC,VA,2.0
+boyertown,ELEC,PA,6.0
+boyne city,ELEC,MI,6.0
+boyne falls,ELEC,MI,2.0
+boynton beach,ELEC,FL,55.0
+bozeman,ELEC,MT,23.0
+braddock,ELEC,PA,13.0
+bradenton,ELEC,FL,60.0
+bradenton beach,ELEC,FL,5.0
+bradford,ELEC,NH,10.0
+bradley,ELEC,IL,9.0
+brady,ELEC,TX,1.0
+brainerd,ELEC,MN,8.0
+braintree,ELEC,MA,35.0
+branchburg,ELEC,NJ,19.0
+branchport,ELEC,NY,5.0
+brandon,ELEC,MS,29.0
+brandywine,ELEC,DE,20.0
+branford,ELEC,CT,33.0
+branson,ELEC,MO,46.0
+brantley,ELEC,AL,2.0
+braselton,ELEC,GA,25.0
+brattleboro,ELEC,VT,44.0
+brawley,ELEC,CA,3.0
+brazoria,ELEC,TX,4.0
+brea,ELEC,CA,165.0
+breaux bridge,ELEC,LA,6.0
+breckenridge,ELEC,CO,100.0
+breese,ELEC,IL,1.0
+breezewood,ELEC,PA,28.0
+breinigsville,ELEC,PA,4.0
+bremen,ELEC,GA,5.0
+bremerton,ELEC,WA,50.0
+brenham,ELEC,TX,8.0
+brentwood,ELEC,MO,165.0
+bretton woods,ELEC,NH,6.0
+brevard,ELEC,NC,7.0
+brewer,ELEC,ME,11.0
+brewster,ELEC,NY,15.0
+brewton,ELEC,AL,1.0
+brian head,ELEC,UT,2.0
+brick,ELEC,NJ,5.0
+bridgehampton,ELEC,NY,6.0
+bridgeport,ELEC,CT,55.0
+bridgeton,ELEC,NJ,2.0
+bridgeview,ELEC,IL,2.0
+bridgeville,ELEC,PA,11.0
+bridgewater,ELEC,NJ,66.0
+bridgewater township,ELEC,NJ,6.0
+bridgman,ELEC,MI,1.0
+bridgton,ELEC,ME,4.0
+brigantine,ELEC,NJ,4.0
+brigham city,ELEC,UT,10.0
+brighton,ELEC,CO,64.0
+brimley,ELEC,MI,1.0
+brinkley,ELEC,AR,8.0
+brisbane,ELEC,CA,107.0
+bristol,ELEC,TN,81.0
+bristow,ELEC,OK,8.0
+broad run,ELEC,VA,2.0
+broadview,ELEC,IL,2.0
+broadview heights,ELEC,OH,17.0
+broadway denver,ELEC,CO,7.0
+brockport,ELEC,NY,20.0
+brockton,ELEC,MA,45.0
+broken arrow,ELEC,OK,42.0
+broken bow,ELEC,NE,2.0
+bronson,ELEC,FL,4.0
+bronx,ELEC,NY,102.0
+bronxville,ELEC,NY,8.0
+brook park,ELEC,OH,6.0
+brookfield,ELEC,WI,25.0
+brookhaven,ELEC,MS,21.0
+brookings,ELEC,OR,8.0
+brooklin,ELEC,ME,2.0
+brookline,ELEC,MA,16.0
+brooklyn,ELEC,NY,490.0
+brooklyn center,ELEC,MN,2.0
+brooklyn park,ELEC,MN,32.0
+brooks,ELEC,CA,9.0
+brookshire,ELEC,TX,15.0
+brooksville,ELEC,FL,28.0
+brooktondale,ELEC,NY,2.0
+broomfield,ELEC,CO,132.0
+broussard,ELEC,LA,2.0
+brown deer,ELEC,WI,1.0
+browning,ELEC,MT,5.0
+brownstown,ELEC,IN,2.0
+brownsville,ELEC,TX,25.0
+browntown,ELEC,WI,2.0
+brownville,ELEC,NE,2.0
+bruceton mills,ELEC,WV,3.0
+brunswick,ELEC,GA,85.0
+brush,ELEC,CO,10.0
+bryan,ELEC,TX,18.0
+bryant,ELEC,AL,2.0
+bryn mawr,ELEC,PA,6.0
+bryson city,ELEC,NC,4.0
+buchanan,ELEC,MI,1.0
+buckeye,ELEC,AZ,20.0
+buckfield,ELEC,ME,1.0
+buckhannon,ELEC,WV,4.0
+bucksport,ELEC,ME,3.0
+bucyrus,ELEC,OH,3.0
+buda,ELEC,TX,4.0
+budd lake,ELEC,NJ,1.0
+buellton,ELEC,CA,12.0
+buena park,ELEC,CA,64.0
+buena ventura lakes,ELEC,FL,2.0
+buena vista,ELEC,CO,7.0
+buffalo,ELEC,NY,386.0
+buffalo grove,ELEC,IL,30.0
+buford,ELEC,GA,90.0
+bunker hill,ELEC,IN,1.0
+burbank,ELEC,CA,262.0
+burdett,ELEC,NY,2.0
+burdette,ELEC,NY,2.0
+burgaw,ELEC,NC,4.0
+burien,ELEC,WA,23.0
+burkburnett,ELEC,TX,2.0
+burke,ELEC,VA,6.0
+burleson,ELEC,TX,18.0
+burley,ELEC,ID,12.0
+burlingame,ELEC,CA,140.0
+burlington,ELEC,NC,277.0
+burney,ELEC,CA,8.0
+burns,ELEC,OR,4.0
+burns harbor,ELEC,IN,3.0
+burnsville,ELEC,MN,29.0
+burnt hills,ELEC,NY,4.0
+burr ridge,ELEC,IL,18.0
+burrillville,ELEC,RI,10.0
+burton,ELEC,OH,4.0
+burtonsville,ELEC,MD,4.0
+bushkill,ELEC,PA,3.0
+bushnell,ELEC,FL,4.0
+butler,ELEC,NJ,9.0
+butner,ELEC,NC,3.0
+butte,ELEC,MT,10.0
+buttonwillow,ELEC,CA,31.0
+buxton,ELEC,NC,7.0
+buzzards bay,ELEC,MA,5.0
+bwi airport,ELEC,MD,4.0
+byers,ELEC,CO,2.0
+byhalia,ELEC,MS,3.0
+byrdstown,ELEC,TN,2.0
+byron,ELEC,CA,9.0
+byron center,ELEC,MI,10.0
+caballo,ELEC,NM,2.0
+cabazon,ELEC,CA,59.0
+cabins,ELEC,WV,2.0
+cable,ELEC,WI,2.0
+cabot,ELEC,AR,12.0
+cadillac,ELEC,MI,19.0
+caguas,ELEC,PR,1.0
+calabasas,ELEC,CA,55.0
+calabash,ELEC,NC,1.0
+calais,ELEC,ME,4.0
+caldwell,ELEC,ID,8.0
+caledonia,ELEC,MI,3.0
+calera,ELEC,AL,18.0
+calexico,ELEC,CA,1.0
+calhoun,ELEC,GA,6.0
+california,ELEC,MD,23.0
+california city,ELEC,CA,4.0
+calimesa,ELEC,CA,22.0
+calistoga,ELEC,CA,42.0
+callahan,ELEC,FL,2.0
+callicoon,ELEC,NY,2.0
+calmar,ELEC,IA,2.0
+calumet,ELEC,OK,17.0
+calumet city,ELEC,IL,1.0
+calverton,ELEC,NY,1.0
+camano,ELEC,WA,4.0
+camarillo,ELEC,CA,94.0
+camas,ELEC,WA,15.0
+cambria,ELEC,CA,15.0
+cambridge,ELEC,MA,556.0
+cambridge springs,ELEC,PA,2.0
+camden,ELEC,ME,31.0
+cameron,ELEC,MO,8.0
+cameron park,ELEC,CA,14.0
+camilla,ELEC,GA,2.0
+camp hill,ELEC,PA,14.0
+camp murray,ELEC,WA,2.0
+camp pendleton,ELEC,CA,44.0
+camp springs,ELEC,MD,6.0
+camp verde,ELEC,AZ,1.0
+campbell,ELEC,CA,129.0
+campbellsville,ELEC,KY,2.0
+campo,ELEC,CA,10.0
+"campo rico, canóvanas",ELEC,PR,1.0
+campton,ELEC,KY,3.0
+canaan,ELEC,NY,2.0
+canal winchester,ELEC,OH,6.0
+canandaigua,ELEC,NY,23.0
+canastota,ELEC,NY,20.0
+canby,ELEC,OR,3.0
+candler,ELEC,NC,4.0
+canfield,ELEC,OH,4.0
+cannon ball,ELEC,ND,6.0
+cannon beach,ELEC,OR,17.0
+cannon falls,ELEC,MN,3.0
+canoga park,ELEC,CA,35.0
+canonsburg,ELEC,PA,6.0
+cantil,ELEC,CA,2.0
+canton,ELEC,CT,123.0
+cantwell,ELEC,AK,2.0
+canyon,ELEC,WY,5.0
+canyon country,ELEC,CA,3.0
+canyon lake,ELEC,TX,4.0
+canyon point,ELEC,UT,3.0
+canyonville,ELEC,OR,4.0
+cape canaveral,ELEC,FL,4.0
+cape carteret,ELEC,NC,2.0
+cape coral,ELEC,FL,15.0
+cape elizabeth,ELEC,ME,11.0
+cape girardeau,ELEC,MO,24.0
+cape may,ELEC,NJ,19.0
+cape may court house,ELEC,NJ,14.0
+capital heights,ELEC,MD,2.0
+capitol heights,ELEC,MD,18.0
+capitola,ELEC,CA,26.0
+captiva,ELEC,FL,4.0
+captiva island,ELEC,FL,2.0
+carbondale,ELEC,IL,27.0
+cardiff by the sea,ELEC,CA,6.0
+carefree,ELEC,AZ,2.0
+caribou,ELEC,ME,1.0
+carl junction,ELEC,MO,4.0
+carle place,ELEC,NY,18.0
+carlin,ELEC,NV,3.0
+carlinville,ELEC,IL,2.0
+carlisle,ELEC,PA,45.0
+carlsbad,ELEC,CA,183.0
+carlton,ELEC,OR,12.0
+carmel,ELEC,IN,59.0
+carmel by the sea,ELEC,CA,1.0
+carmel hamlet,ELEC,NY,4.0
+carmel valley,ELEC,CA,8.0
+carmel-by-the-sea,ELEC,CA,22.0
+carmichael,ELEC,CA,7.0
+carneys point township,ELEC,NJ,2.0
+carnot-moon,ELEC,PA,2.0
+caro,ELEC,MI,1.0
+carol stream,ELEC,IL,2.0
+carpentersville,ELEC,IL,1.0
+carpinteria,ELEC,CA,7.0
+carrabassett valley,ELEC,ME,6.0
+carrboro,ELEC,NC,16.0
+carrizo springs,ELEC,TX,10.0
+carrizozo,ELEC,NM,5.0
+carroll,ELEC,IA,9.0
+carrollton,ELEC,GA,30.0
+carson,ELEC,CA,74.0
+carson city,ELEC,NV,46.0
+carteret,ELEC,NJ,4.0
+cartersville,ELEC,GA,18.0
+carterville,ELEC,IL,24.0
+carthage,ELEC,TN,15.0
+cary,ELEC,NC,265.0
+caryville,ELEC,TN,2.0
+casa grande,ELEC,AZ,25.0
+cascade,ELEC,MI,4.0
+cascade locks,ELEC,OR,2.0
+casco,ELEC,ME,2.0
+cashiers,ELEC,NC,2.0
+cashton,ELEC,WI,4.0
+casper,ELEC,WY,7.0
+cass lake,ELEC,MN,2.0
+cassadaga,ELEC,NY,2.0
+casselberry,ELEC,FL,6.0
+cassellberry,ELEC,FL,2.0
+cassopolis,ELEC,MI,3.0
+castaic,ELEC,CA,25.0
+castille,ELEC,NY,2.0
+castine,ELEC,ME,6.0
+castle creek,ELEC,NY,4.0
+castle dale,ELEC,UT,2.0
+castle hayne,ELEC,NC,6.0
+castle pines,ELEC,CO,4.0
+castle rock,ELEC,WA,40.0
+castleton,ELEC,VT,2.0
+castleton-on-hudson,ELEC,NY,14.0
+castro valley,ELEC,CA,14.0
+castroville,ELEC,CA,6.0
+catalina,ELEC,AZ,3.0
+catano,ELEC,PR,1.0
+cathedral city,ELEC,CA,35.0
+cathlamet,ELEC,WA,3.0
+catonsville,ELEC,MD,18.0
+catoosa,ELEC,OK,12.0
+catskill,ELEC,NY,6.0
+cattaraugus,ELEC,NY,2.0
+cave city,ELEC,KY,6.0
+cave creek,ELEC,AZ,3.0
+cavendish,ELEC,VT,4.0
+cayce,ELEC,SC,13.0
+cayucos,ELEC,CA,4.0
+cazadero,ELEC,CA,2.0
+cazenovia,ELEC,NY,7.0
+cañon city,ELEC,CO,6.0
+cecilton,ELEC,MD,1.0
+cedar city,ELEC,UT,38.0
+cedar falls,ELEC,IA,12.0
+cedar grove,ELEC,NJ,7.0
+cedar hill,ELEC,TX,10.0
+cedar knolls,ELEC,NJ,2.0
+cedar lake,ELEC,IN,5.0
+cedar park,ELEC,TX,77.0
+cedar rapids,ELEC,IA,51.0
+cedarburg,ELEC,WI,2.0
+cedaredge,ELEC,CO,2.0
+cedartown,ELEC,GA,12.0
+cedarville,ELEC,OH,5.0
+celebration,ELEC,FL,30.0
+celina,ELEC,TX,8.0
+celoron,ELEC,NY,2.0
+centennial,ELEC,CO,68.0
+center,ELEC,TX,2.0
+center line,ELEC,MI,2.0
+center lovell,ELEC,ME,2.0
+center moriches,ELEC,NY,4.0
+center point,ELEC,IA,1.0
+center valley,ELEC,PA,12.0
+centereach,ELEC,NY,15.0
+centerville,ELEC,OH,50.0
+central,ELEC,LA,2.0
+central city,ELEC,CO,3.0
+central islip,ELEC,NY,10.0
+central lake,ELEC,MI,2.0
+central point,ELEC,OR,3.0
+central san jose,ELEC,CA,2.0
+central square,ELEC,NY,4.0
+central valley,ELEC,NY,24.0
+centralia,ELEC,IL,29.0
+centreville,ELEC,VA,23.0
+ceres,ELEC,CA,15.0
+cerritos,ELEC,CA,85.0
+chadds ford,ELEC,PA,3.0
+chadron,ELEC,NE,4.0
+chalfont,ELEC,PA,4.0
+chalmette,ELEC,LA,2.0
+chamberlain,ELEC,SD,6.0
+chambersburg,ELEC,PA,20.0
+chamblee,ELEC,GA,22.0
+champaign,ELEC,IL,82.0
+championsgate,ELEC,FL,6.0
+champlain,ELEC,NY,8.0
+champlin,ELEC,MN,4.0
+chandler,ELEC,AZ,204.0
+channahon,ELEC,IL,1.0
+channel view,ELEC,TX,2.0
+channelview,ELEC,TX,11.0
+chantilly,ELEC,VA,51.0
+chanute,ELEC,KS,2.0
+chapel hill,ELEC,NC,72.0
+chappaqua,ELEC,NY,15.0
+chappell,ELEC,NE,1.0
+chardon,ELEC,OH,4.0
+charlemont,ELEC,MA,2.0
+charles city,ELEC,IA,6.0
+charles town,ELEC,WV,17.0
+charleston,ELEC,SC,130.0
+charlestown,ELEC,IN,2.0
+charlevoix,ELEC,MI,7.0
+charlotte,ELEC,NC,778.0
+charlotte hall,ELEC,MD,1.0
+charlottesville,ELEC,VA,109.0
+charlton,ELEC,MA,29.0
+chatauqua,ELEC,NY,1.0
+chatham,ELEC,NJ,14.0
+chatham township,ELEC,NJ,4.0
+chatsworth,ELEC,CA,29.0
+chatt hills,ELEC,GA,2.0
+chattanooga,ELEC,TN,190.0
+chazy,ELEC,NY,3.0
+cheboygan,ELEC,MI,7.0
+cheboygen,ELEC,MI,1.0
+cheektowaga,ELEC,NY,22.0
+chehalis,ELEC,WA,16.0
+chelan,ELEC,WA,17.0
+chelmsford,ELEC,MA,38.0
+chelsea,ELEC,MA,22.0
+cheltenham,ELEC,MD,2.0
+cheney,ELEC,WA,4.0
+chentilly,ELEC,VA,2.0
+cheraw,ELEC,SC,2.0
+cherokee,ELEC,NC,25.0
+"cherokee,",ELEC,NC,1.0
+cherry hill,ELEC,NJ,43.0
+cherry point,ELEC,NC,2.0
+cherry valley,ELEC,IL,10.0
+cherryville,ELEC,NC,2.0
+chesapeake,ELEC,VA,40.0
+chesapeake beach,ELEC,MD,8.0
+chesapeake city,ELEC,MD,2.0
+cheshire,ELEC,CT,17.0
+chester,ELEC,VA,43.0
+chester springs,ELEC,PA,14.0
+chesterbrook,ELEC,PA,8.0
+chesterfield,ELEC,MO,24.0
+chesterton,ELEC,IN,14.0
+chestertown,ELEC,MD,29.0
+chestnut hill,ELEC,MA,11.0
+cheverly,ELEC,MD,7.0
+cheviot,ELEC,OH,2.0
+chevy chase,ELEC,MD,34.0
+cheyenne,ELEC,WY,20.0
+chicago,ELEC,IL,887.0
+chicago heights,ELEC,IL,3.0
+chicago ridge,ELEC,IL,8.0
+chickamauga,ELEC,GA,1.0
+chickasha,ELEC,OK,30.0
+chico,ELEC,CA,104.0
+chicopee,ELEC,MA,32.0
+chiefland,ELEC,FL,4.0
+childress,ELEC,TX,10.0
+chillicothe,ELEC,OH,25.0
+chilmark,ELEC,MA,4.0
+china township,ELEC,MI,1.0
+chincoteague,ELEC,VA,4.0
+chincoteague island,ELEC,VA,2.0
+chino,ELEC,CA,11.0
+chino hills,ELEC,CA,35.0
+chipley,ELEC,FL,12.0
+chippewa falls,ELEC,WI,3.0
+chisholm,ELEC,MN,4.0
+chittenango,ELEC,NY,10.0
+chittenden,ELEC,VT,1.0
+choctaw,ELEC,OK,1.0
+chouteau,ELEC,OK,2.0
+chowchilla,ELEC,CA,28.0
+christiansburg,ELEC,VA,21.0
+christmas valley,ELEC,OR,1.0
+chubbuck,ELEC,ID,4.0
+chugiak,ELEC,AK,8.0
+chula vista,ELEC,CA,172.0
+church creek,ELEC,MD,2.0
+churchville,ELEC,NY,4.0
+cicero,ELEC,NY,12.0
+cincinatti,ELEC,OH,2.0
+cincinnati,ELEC,OH,357.0
+cinnaminson,ELEC,NJ,8.0
+circleville,ELEC,OH,4.0
+cisco,ELEC,TX,8.0
+citrus heights,ELEC,CA,20.0
+city of industry,ELEC,CA,159.0
+city of orange,ELEC,NJ,8.0
+city of the village of clarkston,ELEC,MI,4.0
+clackamas,ELEC,OR,25.0
+clanton,ELEC,AL,3.0
+clara city,ELEC,MN,2.0
+clare,ELEC,MI,26.0
+claremont,ELEC,CA,52.0
+claremore,ELEC,OK,12.0
+clarence,ELEC,NY,1.0
+clarendon,ELEC,VT,4.0
+clarinda,ELEC,IA,2.0
+clarion,ELEC,PA,6.0
+clark,ELEC,NJ,4.0
+clarkdale,ELEC,AZ,1.0
+clarkesville,ELEC,GA,2.0
+clarks summit,ELEC,PA,4.0
+clarksburg,ELEC,WV,20.0
+clarkston,ELEC,WA,10.0
+clarkstown,ELEC,NY,4.0
+clarksville,ELEC,TN,56.0
+clatskanie,ELEC,OR,4.0
+claverack-red mills,ELEC,NY,2.0
+clay,ELEC,NY,10.0
+claycomo,ELEC,MO,17.0
+claymont,ELEC,DE,22.0
+claysburg,ELEC,PA,8.0
+clayton,ELEC,GA,58.0
+clayville,ELEC,NY,2.0
+cle elum,ELEC,WA,27.0
+clear lake,ELEC,IA,4.0
+clear spring,ELEC,MD,6.0
+clearfield,ELEC,UT,25.0
+clearlake,ELEC,CA,3.0
+clearwater,ELEC,FL,100.0
+clearwater beach,ELEC,FL,7.0
+cleburne,ELEC,TX,5.0
+clemmons,ELEC,NC,12.0
+clemson,ELEC,SC,6.0
+cleona,ELEC,PA,2.0
+clermont,ELEC,FL,31.0
+cleveland,ELEC,OH,184.0
+clfton park,ELEC,NY,2.0
+clifton,ELEC,NJ,36.0
+clifton forge,ELEC,VA,1.0
+clifton heights,ELEC,PA,2.0
+clifton park,ELEC,NY,178.0
+clifton springs,ELEC,NY,10.0
+clines corner,ELEC,NM,4.0
+clinton,ELEC,NC,72.0
+clinton corners,ELEC,NY,8.0
+clinton township,ELEC,MI,12.0
+clinton twp,ELEC,MI,5.0
+clintonville,ELEC,WI,4.0
+clio,ELEC,CA,2.0
+clive,ELEC,IA,10.0
+cloquet,ELEC,MN,2.0
+closter,ELEC,NJ,4.0
+cloudcroft,ELEC,NM,2.0
+clover,ELEC,SC,2.0
+cloverdale,ELEC,CA,8.0
+clovis,ELEC,CA,141.0
+clute,ELEC,TX,2.0
+clyde,ELEC,NC,33.0
+coachella,ELEC,CA,3.0
+coalinga,ELEC,CA,80.0
+coalville,ELEC,UT,11.0
+coarsegold,ELEC,CA,8.0
+coatesville,ELEC,PA,6.0
+cobleskill,ELEC,NY,4.0
+cochran,ELEC,GA,2.0
+cockeysville,ELEC,MD,34.0
+cocoa,ELEC,FL,42.0
+cocoa beach,ELEC,FL,11.0
+coconut creek,ELEC,FL,41.0
+coconut grove,ELEC,FL,21.0
+cody,ELEC,WY,6.0
+coeur d'alene,ELEC,ID,34.0
+coeur'd alene,ELEC,ID,1.0
+coffee creek,ELEC,CA,2.0
+cohasset,ELEC,MA,16.0
+cohoes,ELEC,NY,77.0
+cohutta,ELEC,GA,2.0
+colby,ELEC,KS,18.0
+colchester,ELEC,VT,29.0
+cold spring,ELEC,NY,2.0
+cold spring harbor,ELEC,NY,2.0
+coldwater,ELEC,MI,20.0
+colebrook,ELEC,NH,6.0
+coleman,ELEC,WI,5.0
+colerain township,ELEC,OH,2.0
+colfax,ELEC,CA,18.0
+college corner,ELEC,OH,4.0
+college park,ELEC,MD,178.0
+college place,ELEC,WA,5.0
+college station,ELEC,TX,40.0
+collegedale,ELEC,TN,8.0
+collegeville,ELEC,PA,4.0
+colleyville,ELEC,TX,4.0
+collierville,ELEC,TN,2.0
+collingswood,ELEC,NJ,4.0
+collinsville,ELEC,IL,12.0
+colma,ELEC,CA,16.0
+colmar,ELEC,PA,4.0
+colmar manor,ELEC,MD,6.0
+coloma,ELEC,WI,1.0
+colonial beach,ELEC,VA,3.0
+colonial heights,ELEC,VA,16.0
+colonie,ELEC,NY,18.0
+colorado city,ELEC,TX,9.0
+colorado springs,ELEC,CO,211.0
+colton,ELEC,CA,31.0
+columbia,ELEC,SC,472.0
+columbia city,ELEC,IN,1.0
+columbiana,ELEC,OH,4.0
+columbus,ELEC,OH,746.0
+colusa,ELEC,CA,12.0
+colville,ELEC,WA,5.0
+colwich,ELEC,KS,2.0
+comanche,ELEC,OK,5.0
+comfort,ELEC,TX,4.0
+commack,ELEC,NY,4.0
+commerce,ELEC,CA,121.0
+commerce charter township,ELEC,MI,8.0
+commerce city,ELEC,CO,40.0
+commerce township,ELEC,MI,2.0
+compton,ELEC,CA,18.0
+comstock,ELEC,NY,2.0
+comstock park,ELEC,MI,5.0
+concan,ELEC,TX,1.0
+concord,ELEC,CA,188.0
+concordia,ELEC,MO,9.0
+concordville,ELEC,PA,4.0
+concrete,ELEC,WA,2.0
+condon,ELEC,OR,2.0
+conifer,ELEC,CO,10.0
+connell,ELEC,WA,2.0
+connellsville,ELEC,PA,2.0
+conover,ELEC,NC,4.0
+conroe,ELEC,TX,31.0
+conshohocken,ELEC,PA,60.0
+conway,ELEC,AR,55.0
+conyers,ELEC,GA,12.0
+cook,ELEC,MN,7.0
+cooke city,ELEC,MT,2.0
+cookeville,ELEC,TN,31.0
+cookson,ELEC,OK,2.0
+coon rapids,ELEC,IA,7.0
+cooper landing,ELEC,AK,2.0
+coopersburg,ELEC,PA,4.0
+cooperstown,ELEC,NY,13.0
+coopersville,ELEC,MI,2.0
+coos bay,ELEC,OR,27.0
+copalis crossing,ELEC,WA,1.0
+copemish,ELEC,MI,4.0
+copiague,ELEC,NY,12.0
+coplay,ELEC,PA,2.0
+copley,ELEC,OH,2.0
+coppell,ELEC,TX,41.0
+copper harbor,ELEC,MI,6.0
+copper mountain,ELEC,CO,2.0
+copperopolis,ELEC,CA,12.0
+coral gables,ELEC,FL,190.0
+coral springs,ELEC,FL,14.0
+coralville,ELEC,IA,29.0
+coram,ELEC,MT,2.0
+coraopolis,ELEC,PA,8.0
+corbin,ELEC,KY,4.0
+corcoran,ELEC,CA,2.0
+cordele,ELEC,GA,31.0
+cordova,ELEC,AK,6.0
+corfu,ELEC,NY,2.0
+corinth,ELEC,TX,11.0
+cornelia,ELEC,GA,7.0
+cornelius,ELEC,NC,12.0
+corning,ELEC,CA,23.0
+cornwall,ELEC,NY,2.0
+corolla,ELEC,NC,2.0
+corona,ELEC,CA,102.0
+corona del mar,ELEC,CA,2.0
+coronado,ELEC,CA,96.0
+corpus christi,ELEC,TX,61.0
+corsicana,ELEC,TX,12.0
+corte madera,ELEC,CA,18.0
+cortez,ELEC,CO,4.0
+cortland,ELEC,NY,15.0
+cortlandt,ELEC,NY,2.0
+corvallis,ELEC,OR,58.0
+corydon,ELEC,IN,3.0
+coshocton,ELEC,OH,6.0
+costa mesa,ELEC,CA,219.0
+cotati,ELEC,CA,9.0
+cottage grove,ELEC,MN,24.0
+cottleville,ELEC,MO,4.0
+cottondale,ELEC,AL,9.0
+cottonwood,ELEC,AZ,21.0
+cotulla,ELEC,TX,2.0
+cougar,ELEC,WA,1.0
+coulee city,ELEC,WA,1.0
+coulee dam,ELEC,WA,1.0
+counce,ELEC,TN,2.0
+council bluffs,ELEC,IA,17.0
+country club hills,ELEC,IL,8.0
+countryside,ELEC,IL,7.0
+coupeville,ELEC,WA,4.0
+coventry,ELEC,CT,8.0
+covina,ELEC,CA,34.0
+covington,ELEC,LA,72.0
+coweta,ELEC,OK,2.0
+coxsackie,ELEC,NY,10.0
+crafton,ELEC,PA,1.0
+craftsbury common,ELEC,VT,7.0
+craig,ELEC,CO,14.0
+cramerton,ELEC,NC,2.0
+cranberry,ELEC,PA,6.0
+cranberry township,ELEC,PA,16.0
+cranbury,ELEC,NJ,11.0
+crane,ELEC,IN,1.0
+cranford,ELEC,NJ,15.0
+cranston,ELEC,RI,30.0
+crater lake,ELEC,OR,2.0
+crawfordsville,ELEC,IN,4.0
+crawfordville,ELEC,FL,14.0
+creede,ELEC,CO,1.0
+creighton,ELEC,MO,4.0
+crescent,ELEC,OR,10.0
+crescent city,ELEC,CA,35.0
+cresco,ELEC,IA,4.0
+cresson,ELEC,PA,2.0
+crested butte,ELEC,CO,29.0
+creston,ELEC,CA,3.0
+crestview,ELEC,FL,8.0
+crestwood,ELEC,KY,3.0
+creswell,ELEC,OR,8.0
+crete,ELEC,IL,4.0
+creve coeur,ELEC,MO,8.0
+cripple creek,ELEC,CO,7.0
+crisfield,ELEC,MD,4.0
+crivitz,ELEC,WI,2.0
+crofton,ELEC,MD,6.0
+cromwell,ELEC,CT,3.0
+crookston,ELEC,MN,4.0
+crosby,ELEC,MN,3.0
+cross plains,ELEC,WI,2.0
+crossett,ELEC,AR,2.0
+crossville,ELEC,TN,28.0
+croton-on-hudson,ELEC,NY,4.0
+crown point,ELEC,NY,14.0
+crownsville,ELEC,MD,7.0
+crozet,ELEC,VA,8.0
+crystal falls,ELEC,MI,1.0
+crystal lake,ELEC,IL,12.0
+crystal river,ELEC,FL,17.0
+cuero,ELEC,TX,7.0
+cullman,ELEC,AL,9.0
+cullowhee,ELEC,NC,11.0
+culpeper,ELEC,VA,3.0
+culver,ELEC,IN,4.0
+culver city,ELEC,CA,283.0
+cumberland,ELEC,ME,43.0
+cumberland center,ELEC,ME,2.0
+cumming,ELEC,GA,27.0
+cupertino,ELEC,CA,273.0
+custer,ELEC,WA,37.0
+cutchogue,ELEC,NY,3.0
+cutler bay,ELEC,FL,12.0
+cuyahoga falls,ELEC,OH,17.0
+cypress,ELEC,TX,84.0
+cypress gardens,ELEC,FL,2.0
+d'iberville,ELEC,MS,16.0
+dacono,ELEC,CO,2.0
+dacula,ELEC,GA,6.0
+dade city,ELEC,FL,8.0
+dagsboro,ELEC,DE,5.0
+dahlgren,ELEC,VA,8.0
+dahlonega,ELEC,GA,16.0
+dalhart,ELEC,TX,1.0
+dallas,ELEC,TX,660.0
+dalton,ELEC,GA,14.0
+daly city,ELEC,CA,99.0
+damariscotta,ELEC,ME,6.0
+damascus,ELEC,VA,4.0
+dana point,ELEC,CA,8.0
+danbury,ELEC,CT,53.0
+danforth,ELEC,ME,2.0
+dania,ELEC,FL,2.0
+dania beach,ELEC,FL,26.0
+daniels,ELEC,WV,4.0
+danielson,ELEC,CT,2.0
+dannebrog,ELEC,NE,2.0
+dansville,ELEC,NY,12.0
+danvers,ELEC,MA,50.0
+danville,ELEC,KY,61.0
+daphne,ELEC,AL,15.0
+darien,ELEC,CT,43.0
+darien center,ELEC,NY,1.0
+darlington,ELEC,MD,12.0
+darnestown,ELEC,MD,2.0
+darrington,ELEC,WA,2.0
+dartmouth,ELEC,MA,26.0
+dateland,ELEC,AZ,44.0
+davenport,ELEC,IA,68.0
+davidson,ELEC,NC,10.0
+davie,ELEC,FL,74.0
+davis,ELEC,CA,201.0
+davison,ELEC,MI,3.0
+dawsonville,ELEC,GA,36.0
+dayton,ELEC,OH,181.0
+daytona,ELEC,FL,12.0
+daytona beach,ELEC,FL,118.0
+daytona beach shores,ELEC,FL,4.0
+de funiak springs,ELEC,FL,5.0
+de queen,ELEC,AR,2.0
+de soto,ELEC,IA,2.0
+deadwood,ELEC,SD,8.0
+dearborn,ELEC,MI,37.0
+dearborn heights,ELEC,MI,2.0
+death valley,ELEC,CA,4.0
+debary,ELEC,FL,1.0
+decatur,ELEC,AL,90.0
+deckerville,ELEC,MI,2.0
+decorah,ELEC,IA,10.0
+dedham,ELEC,MA,20.0
+deep river,ELEC,CT,2.0
+deer island,ELEC,OR,4.0
+deer isle,ELEC,ME,2.0
+deer park,ELEC,CA,25.0
+deer river,ELEC,MN,2.0
+deerfield,ELEC,IL,11.0
+deerfield beach,ELEC,FL,45.0
+defiance,ELEC,OH,2.0
+deforest,ELEC,WI,6.0
+defuniak springs,ELEC,FL,2.0
+dekalb,ELEC,IL,41.0
+dekalb junction,ELEC,NY,2.0
+del city,ELEC,OK,2.0
+del mar,ELEC,CA,22.0
+del monte forest,ELEC,CA,7.0
+del norte,ELEC,CO,3.0
+del rio,ELEC,TX,4.0
+del valle,ELEC,TX,8.0
+deland,ELEC,FL,14.0
+delano,ELEC,CA,14.0
+delanson,ELEC,NY,4.0
+delavan,ELEC,WI,3.0
+delaware,ELEC,OH,11.0
+delhi,ELEC,CA,9.0
+delhi charter township,ELEC,MI,4.0
+dell,ELEC,MT,4.0
+dellroy,ELEC,OH,4.0
+delmar,ELEC,NY,59.0
+delmont,ELEC,PA,2.0
+delphos,ELEC,OH,4.0
+delran,ELEC,NJ,1.0
+delray beach,ELEC,FL,77.0
+delta,ELEC,CO,3.0
+deltaville,ELEC,VA,2.0
+deltona,ELEC,FL,12.0
+demarest,ELEC,NJ,5.0
+deming,ELEC,NM,16.0
+demopolis,ELEC,AL,1.0
+denali national park and preserve,ELEC,AK,3.0
+denali park,ELEC,AK,2.0
+denham springs,ELEC,LA,2.0
+denison,ELEC,TX,14.0
+denmark,ELEC,ME,1.0
+dennis,ELEC,MA,1.0
+denton,ELEC,TX,76.0
+denver,ELEC,CO,1079.0
+denville,ELEC,NJ,19.0
+depew,ELEC,NY,7.0
+depoe bay,ELEC,OR,1.0
+deptford,ELEC,NJ,16.0
+deptford township,ELEC,NJ,2.0
+derby,ELEC,KS,3.0
+derby line,ELEC,VT,1.0
+deridder,ELEC,LA,1.0
+derry,ELEC,PA,2.0
+des moines,ELEC,IA,85.0
+des peres,ELEC,MO,1.0
+des plaines,ELEC,IL,26.0
+desert center,ELEC,CA,2.0
+desert hot springs,ELEC,CA,4.0
+desoto,ELEC,TX,6.0
+destin,ELEC,FL,20.0
+detroit,ELEC,MI,349.0
+detroit lakes,ELEC,MN,3.0
+devens,ELEC,MA,2.0
+devils lake,ELEC,ND,4.0
+devils tower,ELEC,WY,1.0
+devon,ELEC,PA,12.0
+dewey,ELEC,AZ,4.0
+dewey beach,ELEC,DE,2.0
+dewitt,ELEC,MI,5.0
+dexter,ELEC,MI,9.0
+dfw airport,ELEC,TX,32.0
+diamond bar,ELEC,CA,99.0
+dickinson,ELEC,ND,23.0
+dickson,ELEC,TN,21.0
+dighton,ELEC,MA,6.0
+dillard,ELEC,GA,2.0
+dillon,ELEC,CO,56.0
+dillon beach,ELEC,CA,1.0
+dillsboro,ELEC,NC,1.0
+dillsburg,ELEC,PA,2.0
+dinosaur,ELEC,CO,2.0
+dinuba,ELEC,CA,2.0
+district heights,ELEC,MD,18.0
+district of columbia,ELEC,DC,1.0
+divide,ELEC,CO,2.0
+dix hills,ELEC,NY,4.0
+dixon,ELEC,CA,13.0
+dobbs ferry,ELEC,NY,14.0
+dobson,ELEC,NC,13.0
+dodge city,ELEC,KS,3.0
+dolores,ELEC,CO,3.0
+donora,ELEC,PA,2.0
+doral,ELEC,FL,76.0
+dorchester,ELEC,MA,4.0
+dorset,ELEC,VT,4.0
+dothan,ELEC,AL,24.0
+douglas,ELEC,WY,15.0
+douglas city,ELEC,CA,2.0
+douglassville,ELEC,PA,1.0
+douglasville,ELEC,GA,37.0
+douglasvilleq,ELEC,GA,4.0
+dover,ELEC,OH,69.0
+dover plains,ELEC,NY,2.0
+dowagiac,ELEC,MI,1.0
+dowell,ELEC,MD,3.0
+downers grove,ELEC,IL,24.0
+downey,ELEC,CA,233.0
+downieville,ELEC,CA,1.0
+downingtown,ELEC,PA,14.0
+downsville,ELEC,NY,2.0
+dows,ELEC,IA,8.0
+doyle,ELEC,CA,1.0
+doylestown,ELEC,PA,24.0
+dracut,ELEC,MA,4.0
+drakesboro,ELEC,KY,4.0
+draper,ELEC,UT,101.0
+dresden,ELEC,OH,2.0
+drexel hill,ELEC,PA,6.0
+driggs,ELEC,ID,2.0
+dripping springs,ELEC,TX,4.0
+drums,ELEC,PA,1.0
+dry ridge,ELEC,KY,2.0
+dryden,ELEC,NY,8.0
+duarte,ELEC,CA,13.0
+dublin,ELEC,CA,215.0
+dubois,ELEC,WY,10.0
+dubuque,ELEC,IA,28.0
+duck,ELEC,NC,10.0
+ducktown,ELEC,TN,4.0
+dudley,ELEC,NC,6.0
+dufur,ELEC,OR,3.0
+dulles,ELEC,VA,22.0
+duluth,ELEC,GA,126.0
+dumas,ELEC,TX,16.0
+dumfries,ELEC,VA,2.0
+dumont,ELEC,NJ,2.0
+duncan,ELEC,SC,3.0
+duncansville,ELEC,PA,2.0
+duncanville,ELEC,TX,10.0
+dundalk,ELEC,MD,12.0
+dundee,ELEC,OR,12.0
+dunedin,ELEC,FL,15.0
+dunkirk,ELEC,MD,10.0
+dunmore,ELEC,PA,2.0
+dunn,ELEC,NC,6.0
+dunnellon,ELEC,FL,2.0
+dunnigan,ELEC,CA,15.0
+dunseith,ELEC,ND,1.0
+dunsmuir,ELEC,CA,5.0
+dunwoody,ELEC,GA,21.0
+dupont,ELEC,WA,7.0
+duquesne,ELEC,PA,8.0
+durand,ELEC,MI,4.0
+durango,ELEC,CO,56.0
+durant,ELEC,OK,20.0
+durham,ELEC,NC,227.0
+dutch flat,ELEC,CA,2.0
+duxbury,ELEC,MA,4.0
+dwight,ELEC,IL,8.0
+dyer,ELEC,IN,3.0
+dyersburg,ELEC,TN,1.0
+e. palo alto,ELEC,CA,6.0
+eagan,ELEC,MN,47.0
+eagle,ELEC,CO,35.0
+eagle bay,ELEC,NY,2.0
+eagle mountain,ELEC,UT,2.0
+eagle nest,ELEC,NM,2.0
+eagle pass,ELEC,TX,4.0
+eagles mere,ELEC,PA,2.0
+eagleville,ELEC,PA,7.0
+early,ELEC,IA,4.0
+easley,ELEC,SC,2.0
+east alton,ELEC,IL,1.0
+east amherst,ELEC,NY,8.0
+east aurora,ELEC,NY,5.0
+east boothbay,ELEC,ME,11.0
+east boston,ELEC,MA,7.0
+east brookfield,ELEC,MA,4.0
+east brunswick,ELEC,NJ,51.0
+east cambridge,ELEC,MA,2.0
+east camden,ELEC,AR,2.0
+east dubuque,ELEC,IL,3.0
+east earl,ELEC,PA,4.0
+east ellijay,ELEC,GA,4.0
+east elmhurst,ELEC,NY,43.0
+east freetown,ELEC,MA,1.0
+east glacier park,ELEC,MT,2.0
+east granby,ELEC,CT,2.0
+east grand forks,ELEC,MN,2.0
+east grand rapids,ELEC,MI,4.0
+east greenbush,ELEC,NY,22.0
+east greenwich,ELEC,RI,24.0
+east griffin,ELEC,GA,2.0
+east haddam,ELEC,CT,1.0
+east hampton,ELEC,CT,32.0
+east hanover,ELEC,NJ,1.0
+east hartford,ELEC,CT,18.0
+east haven,ELEC,CT,15.0
+east highland park,ELEC,VA,8.0
+east jordan,ELEC,MI,2.0
+east kalispell,ELEC,MT,2.0
+east lansing,ELEC,MI,31.0
+east latrobe,ELEC,PA,1.0
+east liberty,ELEC,OH,9.0
+east liverpool,ELEC,OH,2.0
+east longmeadow,ELEC,MA,4.0
+east los angeles,ELEC,CA,6.0
+east lyme,ELEC,CT,4.0
+east meadow,ELEC,NY,5.0
+east norriton,ELEC,PA,3.0
+east norwich,ELEC,NY,3.0
+east orange,ELEC,NJ,2.0
+east palo alto,ELEC,CA,32.0
+east patchogue,ELEC,NY,2.0
+east peoria,ELEC,IL,10.0
+east peorria,ELEC,IL,6.0
+east petersburg,ELEC,PA,10.0
+east point,ELEC,GA,34.0
+east providence,ELEC,RI,39.0
+east rochester,ELEC,NY,22.0
+east rutherford,ELEC,NJ,20.0
+east saint louis,ELEC,IL,6.0
+east stroudsburg,ELEC,PA,4.0
+east syracuse,ELEC,NY,48.0
+east tawas,ELEC,MI,2.0
+east troy,ELEC,WI,1.0
+east wareham,ELEC,MA,2.0
+east wenatchee,ELEC,WA,7.0
+east windsor,ELEC,NJ,26.0
+east york,ELEC,PA,4.0
+eastampton township,ELEC,NJ,2.0
+eastchester,ELEC,NY,4.0
+eastham,ELEC,MA,11.0
+easthampton,ELEC,MA,30.0
+eastland,ELEC,TX,4.0
+easton,ELEC,CT,69.0
+eastpoint,ELEC,FL,2.0
+eastpointe,ELEC,MI,6.0
+eastport,ELEC,ME,4.0
+eastsound,ELEC,WA,5.0
+eastvale,ELEC,CA,16.0
+eatonton,ELEC,GA,1.0
+eatontown,ELEC,NJ,10.0
+eau claire,ELEC,WI,45.0
+ebensburg,ELEC,PA,3.0
+eden prairie,ELEC,MN,24.0
+edenton,ELEC,NC,2.0
+edgartown,ELEC,MA,7.0
+edgefield,ELEC,SC,2.0
+edgewater,ELEC,MD,65.0
+edgewater park,ELEC,NJ,2.0
+edgewood,ELEC,MD,11.0
+edina,ELEC,MN,51.0
+edinboro,ELEC,PA,4.0
+edinburg,ELEC,TX,4.0
+edinburgh,ELEC,IN,2.0
+edison,ELEC,NJ,67.0
+edisto beach,ELEC,SC,6.0
+edisto island,ELEC,SC,2.0
+edmond,ELEC,OK,69.0
+edmonds,ELEC,WA,22.0
+edmonston,ELEC,MD,2.0
+edwards,ELEC,CO,24.0
+edwardsville,ELEC,IL,26.0
+effingham,ELEC,IL,25.0
+egg harbor,ELEC,WI,7.0
+egg harbor city,ELEC,NJ,5.0
+egg harbor township,ELEC,NJ,31.0
+ehrenberg,ELEC,AZ,8.0
+ehrhardt,ELEC,SC,2.0
+ei campo,ELEC,TX,5.0
+el cajon,ELEC,CA,116.0
+el centro,ELEC,CA,41.0
+el cerrito,ELEC,CA,28.0
+el dorado,ELEC,KS,23.0
+el dorado hills,ELEC,CA,26.0
+el dorado ocl,ELEC,KS,4.0
+el jebel,ELEC,CO,5.0
+el mirage,ELEC,AZ,1.0
+el monte,ELEC,CA,70.0
+el paso,ELEC,TX,90.0
+el portal,ELEC,CA,10.0
+el prado,ELEC,NM,4.0
+el reno,ELEC,OK,12.0
+el rito,ELEC,NM,2.0
+el segundo,ELEC,CA,142.0
+el sobrante,ELEC,CA,2.0
+elbe,ELEC,WA,2.0
+elberton,ELEC,GA,3.0
+elburn,ELEC,IL,2.0
+eldersberg,ELEC,MD,1.0
+eldersburg,ELEC,MD,6.0
+eldred,ELEC,NY,6.0
+elephant butte,ELEC,NM,5.0
+elgin,ELEC,IL,57.0
+elizabeth,ELEC,NJ,60.0
+elizabeth city,ELEC,NC,12.0
+elizabethton,ELEC,TN,4.0
+elizabethtown,ELEC,KY,36.0
+elk,ELEC,CA,3.0
+elk city,ELEC,OK,11.0
+elk grove,ELEC,CA,172.0
+elk grove village,ELEC,IL,23.0
+elk horn,ELEC,IA,2.0
+elk rapids,ELEC,MI,7.0
+elk river,ELEC,MN,6.0
+elkader,ELEC,IA,2.0
+elkhart,ELEC,IN,26.0
+elkhart lake,ELEC,WI,1.0
+elkhorn,ELEC,WI,2.0
+elkin,ELEC,NC,12.0
+elkins,ELEC,WV,1.0
+elkins park,ELEC,PA,5.0
+elko,ELEC,NV,17.0
+elkridge,ELEC,MD,34.0
+elkton,ELEC,OR,50.0
+ellensburg,ELEC,WA,31.0
+ellenton,ELEC,FL,20.0
+ellenville,ELEC,NY,2.0
+ellenwood,ELEC,GA,11.0
+ellerbe,ELEC,NC,2.0
+ellicott city,ELEC,MD,45.0
+ellicottville,ELEC,NY,8.0
+ellington,ELEC,CT,8.0
+elliott city,ELEC,MD,4.0
+ellison bay,ELEC,WI,1.0
+ellisville,ELEC,MO,4.0
+ellsworth,ELEC,ME,15.0
+elma,ELEC,NY,4.0
+elmendorf,ELEC,TX,6.0
+elmer,ELEC,NJ,2.0
+elmhurst,ELEC,IL,22.0
+elmira,ELEC,NY,16.0
+elmore,ELEC,OH,2.0
+elmsford,ELEC,NY,4.0
+elmwood park,ELEC,IL,2.0
+elon,ELEC,NC,2.0
+eloy,ELEC,AZ,28.0
+elverson,ELEC,PA,11.0
+elwood,ELEC,NJ,8.0
+ely,ELEC,MN,6.0
+elyria,ELEC,OH,3.0
+emerald isle,ELEC,NC,2.0
+emeryville,ELEC,CA,82.0
+emlenton,ELEC,PA,2.0
+emmetsburg,ELEC,IA,2.0
+emmitsburg,ELEC,MD,4.0
+empire,ELEC,MI,3.0
+emporia,ELEC,KS,20.0
+encinal,ELEC,TX,4.0
+encinitas,ELEC,CA,31.0
+encino,ELEC,CA,15.0
+endicott,ELEC,NY,11.0
+enfield,ELEC,CT,9.0
+englewood,ELEC,FL,66.0
+enid,ELEC,OK,13.0
+ennis,ELEC,TX,32.0
+enola,ELEC,PA,8.0
+enon,ELEC,OH,2.0
+enosburg falls,ELEC,VT,2.0
+enterprise,ELEC,AL,8.0
+entiat,ELEC,WA,8.0
+enumclaw,ELEC,WA,10.0
+ephraim,ELEC,WI,8.0
+ephrata,ELEC,PA,32.0
+erick,ELEC,OK,4.0
+erie,ELEC,PA,95.0
+erlanger,ELEC,KY,12.0
+erving,ELEC,MA,9.0
+erwin,ELEC,TN,2.0
+escalante,ELEC,UT,7.0
+escalon,ELEC,CA,2.0
+escanaba,ELEC,MI,13.0
+escondido,ELEC,CA,82.0
+esparto,ELEC,CA,7.0
+essex,ELEC,VT,30.0
+essex fenner,ELEC,CA,4.0
+essex junction,ELEC,VT,2.0
+estacada,ELEC,OR,8.0
+estero,ELEC,FL,41.0
+estes park,ELEC,CO,45.0
+estherville,ELEC,IA,2.0
+estill,ELEC,SC,2.0
+etlan,ELEC,VA,2.0
+etowah,ELEC,TN,1.0
+euclid,ELEC,OH,4.0
+eufaula,ELEC,AL,4.0
+eugene,ELEC,OR,139.0
+euless,ELEC,TX,24.0
+eunice,ELEC,LA,2.0
+eure,ELEC,NC,1.0
+eureka,ELEC,CA,50.0
+eureka springs,ELEC,AR,13.0
+eustis,ELEC,FL,6.0
+evans,ELEC,GA,3.0
+evanston,ELEC,IL,70.0
+evansville,ELEC,IN,40.0
+evart,ELEC,MI,2.0
+everett,ELEC,WA,112.0
+evergreen,ELEC,CO,22.0
+evergreen park,ELEC,IL,14.0
+everman,ELEC,TX,3.0
+everson,ELEC,WA,1.0
+evesham,ELEC,NJ,2.0
+ewa beach,ELEC,HI,15.0
+ewen,ELEC,MI,1.0
+ewing,ELEC,NJ,9.0
+ewing township,ELEC,NJ,22.0
+excelsior,ELEC,MN,3.0
+excelsior springs,ELEC,MO,2.0
+exeter,ELEC,NH,15.0
+exmore,ELEC,VA,4.0
+exton,ELEC,PA,26.0
+fair haven,ELEC,NY,2.0
+fair lawn,ELEC,NJ,2.0
+fair oaks,ELEC,CA,21.0
+fair play,ELEC,SC,16.0
+fairbanks,ELEC,AK,2.0
+fairbon,ELEC,OH,1.0
+fairborn,ELEC,OH,15.0
+fairburn,ELEC,GA,10.0
+fairdale,ELEC,KY,2.0
+fairfax,ELEC,VA,153.0
+fairfield,ELEC,CA,357.0
+fairhope,ELEC,AL,10.0
+fairlawn,ELEC,OH,1.0
+fairlee,ELEC,VT,2.0
+fairless hills,ELEC,PA,2.0
+fairmont,ELEC,WV,12.0
+fairmount,ELEC,IN,4.0
+fairplay,ELEC,CO,2.0
+fairport,ELEC,NY,30.0
+fairview,ELEC,TX,3.0
+fairview heights,ELEC,IL,4.0
+fajardo,ELEC,PR,5.0
+falcon heights,ELEC,MN,2.0
+falconer,ELEC,NY,2.0
+fall city,ELEC,WA,1.0
+fall creek,ELEC,WI,2.0
+fall river,ELEC,MA,72.0
+fallbrook,ELEC,CA,32.0
+fallon,ELEC,NV,24.0
+falls church,ELEC,VA,79.0
+falls city,ELEC,OR,2.0
+falls creek,ELEC,PA,8.0
+fallston,ELEC,MD,10.0
+falmouth,ELEC,ME,34.0
+fanwood,ELEC,NJ,1.0
+fargo,ELEC,ND,36.0
+faribault,ELEC,MN,10.0
+farina,ELEC,IL,1.0
+farmers branch,ELEC,TX,32.0
+farmersville,ELEC,CA,8.0
+farmingdale,ELEC,NY,22.0
+farmington,ELEC,CT,96.0
+farmington hills,ELEC,MI,42.0
+farmingville,ELEC,NY,12.0
+farmville,ELEC,VA,14.0
+fate,ELEC,TX,1.0
+fayeteville,ELEC,AR,1.0
+fayette,ELEC,AL,1.0
+fayetteville,ELEC,NC,170.0
+fayston,ELEC,VT,9.0
+fe warren afb,ELEC,WY,3.0
+feasterville,ELEC,PA,2.0
+feasterville-trevose,ELEC,PA,5.0
+federal heights,ELEC,CO,1.0
+federal way,ELEC,WA,34.0
+federalsburg,ELEC,MD,5.0
+feeding hills,ELEC,MA,2.0
+felton,ELEC,CA,5.0
+fennimore,ELEC,WI,2.0
+fennville,ELEC,MI,6.0
+fenton,ELEC,MO,26.0
+fenwick island,ELEC,DE,2.0
+fergus falls,ELEC,MN,16.0
+fernan lake village,ELEC,ID,4.0
+fernandina,ELEC,FL,8.0
+fernandina beach,ELEC,FL,19.0
+ferndale,ELEC,MI,25.0
+fernley,ELEC,NV,16.0
+ferron,ELEC,UT,2.0
+festus,ELEC,MO,7.0
+fife,ELEC,WA,4.0
+fife lake,ELEC,MI,2.0
+fillmore,ELEC,CA,14.0
+fincastle,ELEC,VA,4.0
+findlay,ELEC,OH,21.0
+finksburg,ELEC,MD,5.0
+firebaugh,ELEC,CA,66.0
+firestone,ELEC,CO,2.0
+fish camp,ELEC,CA,11.0
+fish creek,ELEC,WI,4.0
+fishers,ELEC,IN,32.0
+fishkill,ELEC,NY,25.0
+fitchburg,ELEC,WI,42.0
+flagler,ELEC,CO,4.0
+flagler beach,ELEC,FL,1.0
+flagstaff,ELEC,AZ,157.0
+flanders,ELEC,NJ,6.0
+flat rock,ELEC,NC,10.0
+flatonia,ELEC,TX,12.0
+fleischmanns,ELEC,NY,2.0
+fleming island,ELEC,FL,5.0
+flemington,ELEC,NJ,24.0
+fletcher,ELEC,NC,10.0
+flinstone,ELEC,MD,2.0
+flint,ELEC,MI,17.0
+flint township,ELEC,MI,2.0
+flintstone,ELEC,MD,3.0
+floodwood,ELEC,MN,2.0
+florence,ELEC,AL,139.0
+floresville,ELEC,TX,4.0
+florham park,ELEC,NJ,14.0
+florida city,ELEC,FL,16.0
+florissant,ELEC,MO,4.0
+flossmoor,ELEC,IL,8.0
+flower mound,ELEC,TX,3.0
+flowery branch,ELEC,GA,12.0
+floyd,ELEC,VA,3.0
+floydada,ELEC,TX,2.0
+flushing,ELEC,NY,44.0
+fogelsville,ELEC,PA,1.0
+folcroft,ELEC,PA,4.0
+foley,ELEC,AL,13.0
+folsom,ELEC,CA,131.0
+fond du lac,ELEC,WI,33.0
+fontana,ELEC,CA,78.0
+fontana-on-geneva lake,ELEC,WI,1.0
+foothil ranch,ELEC,CA,4.0
+foothill ranch,ELEC,CA,4.0
+forest,ELEC,VA,4.0
+forest city,ELEC,NC,7.0
+forest grove,ELEC,OR,14.0
+forest heights,ELEC,MD,5.0
+forest hill,ELEC,MD,1.0
+forest hills,ELEC,NY,22.0
+forest lake,ELEC,MN,3.0
+forest park,ELEC,IL,10.0
+forestburgh,ELEC,NY,5.0
+forestville,ELEC,CA,4.0
+forked river,ELEC,NJ,4.0
+forks,ELEC,WA,20.0
+forney,ELEC,TX,5.0
+forrest city,ELEC,AR,11.0
+forsyth,ELEC,GA,9.0
+fort atkinson,ELEC,WI,1.0
+fort belvoir,ELEC,VA,6.0
+fort bragg,ELEC,CA,30.0
+fort cavazos,ELEC,TX,4.0
+fort collins,ELEC,CO,186.0
+fort davis,ELEC,TX,3.0
+fort dodge,ELEC,IA,5.0
+fort edward,ELEC,NY,4.0
+fort gibson,ELEC,OK,1.0
+fort hood,ELEC,TX,12.0
+fort irwin,ELEC,CA,64.0
+fort kent,ELEC,ME,4.0
+fort klamath,ELEC,OR,3.0
+fort knox,ELEC,KY,12.0
+fort lauderdale,ELEC,FL,287.0
+fort lawn,ELEC,SC,2.0
+fort leavenworth,ELEC,KS,1.0
+fort lee,ELEC,VA,33.0
+fort lewis,ELEC,WA,1.0
+fort loudon,ELEC,PA,2.0
+fort lupton,ELEC,CO,6.0
+fort madison,ELEC,IA,10.0
+fort meade,ELEC,MD,15.0
+fort meyers,ELEC,FL,20.0
+fort mill,ELEC,SC,29.0
+fort mitchell,ELEC,KY,5.0
+fort montgomery,ELEC,NY,4.0
+fort moore,ELEC,GA,98.0
+fort morgan,ELEC,CO,4.0
+fort myers,ELEC,FL,156.0
+fort myers beach,ELEC,FL,14.0
+fort payne,ELEC,AL,2.0
+fort pierce,ELEC,FL,41.0
+fort plain,ELEC,NY,2.0
+fort rucker,ELEC,AL,2.0
+fort scott,ELEC,KS,13.0
+fort smith,ELEC,AR,3.0
+fort stewart,ELEC,GA,31.0
+fort stockton,ELEC,TX,12.0
+fort valley,ELEC,GA,16.0
+fort walton beach,ELEC,FL,31.0
+fort washington,ELEC,PA,33.0
+fort wayne,ELEC,IN,133.0
+fort worth,ELEC,TX,375.0
+fortuna,ELEC,CA,23.0
+fossil,ELEC,OR,2.0
+foster,ELEC,OR,1.0
+foster city,ELEC,CA,39.0
+fostoria,ELEC,OH,3.0
+fountain,ELEC,CO,7.0
+fountain hills,ELEC,AZ,8.0
+fountain inn,ELEC,SC,2.0
+fountain valley,ELEC,CA,66.0
+four corners,ELEC,FL,2.0
+fowler,ELEC,CA,9.0
+fox lake,ELEC,IL,2.0
+foxborough,ELEC,MA,12.0
+foxfield,ELEC,CO,1.0
+frackville,ELEC,PA,3.0
+framingham,ELEC,MA,72.0
+franconia,ELEC,VA,4.0
+frankenmuth,ELEC,MI,6.0
+frankfort,ELEC,KY,32.0
+franklin,ELEC,TN,130.0
+franklin lakes,ELEC,NJ,8.0
+franklin park,ELEC,PA,23.0
+franklin square,ELEC,NY,2.0
+franklin township,ELEC,NJ,10.0
+frankston,ELEC,TX,1.0
+franksville,ELEC,WI,4.0
+franktown,ELEC,CO,2.0
+fraser,ELEC,CO,3.0
+frazer,ELEC,PA,2.0
+frederic,ELEC,WI,1.0
+frederick,ELEC,MD,103.0
+fredericksburg,ELEC,VA,71.0
+fredericktown,ELEC,OH,3.0
+fredonia,ELEC,NY,23.0
+fredrick,ELEC,OK,4.0
+freehold,ELEC,NJ,23.0
+freehold township,ELEC,NJ,8.0
+freeland,ELEC,WA,5.0
+freeport,ELEC,NY,23.0
+freetown,ELEC,MA,10.0
+fremont,ELEC,CA,392.0
+french camp,ELEC,CA,1.0
+french lick,ELEC,IN,3.0
+fresno,ELEC,CA,608.0
+friant,ELEC,CA,2.0
+friday harbor,ELEC,WA,12.0
+fridley,ELEC,MN,4.0
+friendsville,ELEC,TN,6.0
+friendswood,ELEC,TX,16.0
+frisco,ELEC,TX,178.0
+front royal,ELEC,VA,17.0
+frontenac,ELEC,MO,1.0
+frostburg,ELEC,MD,7.0
+fruita,ELEC,CO,4.0
+fryeburg,ELEC,ME,3.0
+ft lauderdale,ELEC,FL,16.0
+ft worth,ELEC,TX,4.0
+ft. lauderdale,ELEC,FL,3.0
+fullerton,ELEC,CA,209.0
+fulshear,ELEC,TX,18.0
+fulton,ELEC,MD,33.0
+fultonville,ELEC,NY,2.0
+fuquay varina,ELEC,NC,5.0
+furlong,ELEC,PA,2.0
+furnace creek,ELEC,CA,4.0
+gadsden,ELEC,AL,12.0
+gahanna,ELEC,OH,36.0
+gainesville,ELEC,GA,143.0
+"gainesville,",ELEC,FL,1.0
+gaithersburg,ELEC,MD,110.0
+galena,ELEC,IL,19.0
+galesburg,ELEC,IL,5.0
+galestown,ELEC,MD,2.0
+gallatin,ELEC,TN,9.0
+gallipolis,ELEC,OH,2.0
+galloway,ELEC,NJ,9.0
+gallup,ELEC,NM,12.0
+galt,ELEC,CA,10.0
+galveston,ELEC,TX,45.0
+galway,ELEC,NY,4.0
+gambier,ELEC,OH,17.0
+gambrills,ELEC,MD,7.0
+ganado,ELEC,TX,3.0
+gansevoort,ELEC,NY,14.0
+garberville,ELEC,CA,8.0
+garden city,ELEC,GA,75.0
+garden grove,ELEC,CA,28.0
+gardena,ELEC,CA,32.0
+gardendale,ELEC,AL,8.0
+gardiner,ELEC,MT,15.0
+gardner,ELEC,KS,8.0
+gardnerville,ELEC,NV,12.0
+garfield heights,ELEC,OH,1.0
+garland,ELEC,TX,52.0
+garner,ELEC,NC,17.0
+garnerville,ELEC,NY,16.0
+garrett,ELEC,IN,2.0
+garrettsville,ELEC,OH,3.0
+garrison,ELEC,NY,5.0
+garwood,ELEC,NJ,8.0
+gary,ELEC,IN,3.0
+gas city,ELEC,IN,2.0
+gaston,ELEC,OR,2.0
+gastonia,ELEC,NC,43.0
+gatesville,ELEC,TX,3.0
+gateway,ELEC,CO,2.0
+gatlinburg,ELEC,TN,11.0
+gaviota,ELEC,CA,1.0
+gaylord,ELEC,MI,22.0
+geismar,ELEC,LA,4.0
+geneseo,ELEC,IL,18.0
+geneva,ELEC,IL,44.0
+genoa,ELEC,OH,25.0
+george west,ELEC,TX,2.0
+georgetown,ELEC,DE,77.0
+georgetown township,ELEC,MI,4.0
+germantown,ELEC,MD,60.0
+gettysburg,ELEC,PA,22.0
+geyserville,ELEC,CA,24.0
+ghent,ELEC,NY,6.0
+giddings,ELEC,TX,8.0
+gig harbor,ELEC,WA,15.0
+gila bend,ELEC,AZ,22.0
+gilbert,ELEC,AZ,90.0
+gill,ELEC,MA,2.0
+gillette,ELEC,WY,8.0
+gilman,ELEC,IL,8.0
+gilroy,ELEC,CA,85.0
+girard,ELEC,OH,12.0
+girdwood,ELEC,AK,2.0
+gladstone,ELEC,OR,33.0
+gladwin,ELEC,MI,1.0
+glasgow,ELEC,KY,4.0
+glassboro,ELEC,NJ,17.0
+glastonbury,ELEC,CT,11.0
+glen,ELEC,NH,2.0
+glen allen,ELEC,VA,45.0
+glen arbor,ELEC,MI,2.0
+glen burnie,ELEC,MD,59.0
+glen cove,ELEC,NY,3.0
+glen ellen,ELEC,CA,7.0
+glen ellyn,ELEC,IL,20.0
+glen head,ELEC,NY,2.0
+glen mills,ELEC,PA,12.0
+glen ridge,ELEC,NJ,2.0
+glen rock,ELEC,NJ,4.0
+glencoe,ELEC,IL,4.0
+glendale,ELEC,CA,455.0
+glendale heights,ELEC,IL,4.0
+glendive,ELEC,MT,10.0
+glendora,ELEC,CA,22.0
+gleneden beach,ELEC,OR,8.0
+glenmont,ELEC,NY,8.0
+glenn heights,ELEC,TX,1.0
+glens falls,ELEC,NY,44.0
+glenview,ELEC,IL,26.0
+glenville,ELEC,NY,27.0
+glenwood,ELEC,NY,2.0
+glenwood springs,ELEC,CO,61.0
+glide,ELEC,OR,1.0
+globe,ELEC,AZ,11.0
+gloucester,ELEC,MA,25.0
+gloucester township,ELEC,NJ,8.0
+gloversville,ELEC,NY,4.0
+glynco,ELEC,GA,21.0
+godfrey,ELEC,IL,6.0
+golden,ELEC,CO,191.0
+golden valley,ELEC,MN,40.0
+goldendale,ELEC,WA,2.0
+goldens bridge,ELEC,NY,6.0
+goldsboro,ELEC,NC,24.0
+goldsby,ELEC,OK,4.0
+goldston,ELEC,NC,2.0
+goldthwaite,ELEC,TX,1.0
+goleta,ELEC,CA,40.0
+gonzales,ELEC,LA,27.0
+goochland,ELEC,VA,2.0
+goodland,ELEC,KS,10.0
+goodlettsville,ELEC,TN,4.0
+goodwell,ELEC,OK,1.0
+goodyear,ELEC,AZ,49.0
+goose creek,ELEC,SC,4.0
+gorham,ELEC,NH,17.0
+goshen,ELEC,NY,28.0
+gothenburg,ELEC,NE,8.0
+gouldsboro,ELEC,ME,1.0
+government camp,ELEC,OR,8.0
+gowanda,ELEC,NY,2.0
+graeagle,ELEC,CA,4.0
+grafton,ELEC,WV,16.0
+graham,ELEC,NC,5.0
+grain valley,ELEC,MO,6.0
+granada hills,ELEC,CA,24.0
+granbury,ELEC,TX,6.0
+granby,ELEC,CT,6.0
+grand blanc,ELEC,MI,17.0
+grand canyon,ELEC,AZ,9.0
+grand canyon village,ELEC,AZ,49.0
+grand forks,ELEC,ND,29.0
+grand haven,ELEC,MI,4.0
+grand island,ELEC,NE,64.0
+grand junction,ELEC,CO,82.0
+grand lake,ELEC,CO,4.0
+grand marais,ELEC,MN,5.0
+grand prairie,ELEC,TX,38.0
+grand priaie,ELEC,TX,2.0
+grand rapids,ELEC,MI,123.0
+grand rivers,ELEC,KY,4.0
+grand ronde,ELEC,OR,2.0
+grand terrace,ELEC,CA,4.0
+grandview,ELEC,MO,18.0
+grandview heights,ELEC,OH,10.0
+grandville,ELEC,MI,26.0
+grangeville,ELEC,ID,3.0
+granite bay,ELEC,CA,7.0
+granite city,ELEC,IL,10.0
+granite falls,ELEC,NC,5.0
+grantham,ELEC,NH,1.0
+grants,ELEC,NM,4.0
+grants pass,ELEC,OR,22.0
+grantsville,ELEC,MD,16.0
+granville,ELEC,TN,12.0
+grapevine,ELEC,TX,51.0
+grasonville,ELEC,MD,27.0
+grass valley,ELEC,CA,38.0
+grauger,ELEC,IN,12.0
+grawn,ELEC,MI,2.0
+gray,ELEC,GA,7.0
+grayland,ELEC,WA,2.0
+grayling,ELEC,MI,11.0
+grayslake,ELEC,IL,13.0
+grayson,ELEC,GA,1.0
+great barrington,ELEC,MA,18.0
+great bend,ELEC,KS,2.0
+great falls,ELEC,MT,21.0
+great lakes,ELEC,IL,103.0
+great mills,ELEC,MD,2.0
+great neck,ELEC,NY,14.0
+greece,ELEC,NY,10.0
+greeley,ELEC,CO,33.0
+green bay,ELEC,WI,20.0
+green island,ELEC,NY,8.0
+green lake,ELEC,WI,2.0
+green ridge,ELEC,MO,2.0
+green river,ELEC,UT,12.0
+green valley,ELEC,AZ,20.0
+greenacres,ELEC,FL,12.0
+greenbelt,ELEC,MD,18.0
+greenbrae,ELEC,CA,14.0
+greencastle,ELEC,IN,4.0
+greeneville,ELEC,TN,6.0
+greenfield,ELEC,WI,78.0
+greenough,ELEC,MT,2.0
+greenpoint,ELEC,NY,12.0
+greenport,ELEC,NY,2.0
+greens grant,ELEC,NH,3.0
+greensboro,ELEC,NC,128.0
+greensburg,ELEC,PA,31.0
+greenvale,ELEC,NY,2.0
+greenville,ELEC,SC,229.0
+greenwhich,ELEC,CT,3.0
+greenwich,ELEC,CT,70.0
+greenwood,ELEC,MS,27.0
+greenwood village,ELEC,CO,67.0
+greer,ELEC,SC,53.0
+greham,ELEC,OR,4.0
+grenada,ELEC,MS,10.0
+gresham,ELEC,OR,21.0
+gretna,ELEC,NE,5.0
+griffin,ELEC,GA,6.0
+griffith,ELEC,IN,4.0
+grimes,ELEC,IA,11.0
+grinnell,ELEC,IA,8.0
+groesbeck,ELEC,TX,2.0
+grosse pointe farms,ELEC,MI,4.0
+groton,ELEC,CT,95.0
+grove city,ELEC,OH,44.0
+groveland,ELEC,CA,23.0
+groveport,ELEC,OH,11.0
+grover beach,ELEC,CA,3.0
+grovetown,ELEC,GA,6.0
+guadalupe,ELEC,CA,2.0
+guaynabo,ELEC,FL,9.0
+guerneville,ELEC,CA,7.0
+guilderland,ELEC,NY,52.0
+guilford,ELEC,CT,12.0
+guin,ELEC,AL,12.0
+gulf breeze,ELEC,FL,13.0
+gulf shores,ELEC,AL,7.0
+gulfport,ELEC,MS,128.0
+gunnison,ELEC,CO,12.0
+guntersville,ELEC,AL,2.0
+gurnee,ELEC,IL,2.0
+gustine,ELEC,CA,27.0
+guttenberg,ELEC,NJ,8.0
+guymon,ELEC,OK,8.0
+gwynedd,ELEC,PA,4.0
+gypsum,ELEC,CO,10.0
+hacienda heights,ELEC,CA,6.0
+hackensack,ELEC,NJ,74.0
+haddon township,ELEC,NJ,2.0
+hadley,ELEC,MA,36.0
+hagerstown,ELEC,MD,69.0
+hagertown,ELEC,MD,4.0
+hahira,ELEC,GA,2.0
+haiku,ELEC,HI,4.0
+haiku-pauwela,ELEC,HI,2.0
+hailey,ELEC,ID,9.0
+haines city,ELEC,FL,2.0
+hainesport,ELEC,NJ,1.0
+halawa,ELEC,HI,4.0
+hale,ELEC,MI,2.0
+haleiwa,ELEC,HI,2.0
+hales corners,ELEC,WI,2.0
+halethorpe,ELEC,MD,2.0
+haleyville,ELEC,AL,1.0
+half moon bay,ELEC,CA,23.0
+halfmoon,ELEC,NY,2.0
+halifax,ELEC,PA,29.0
+hallandale,ELEC,FL,2.0
+hallandale beach,ELEC,FL,43.0
+hallock,ELEC,MN,1.0
+hallowell,ELEC,ME,8.0
+halsey,ELEC,OR,4.0
+haltom city,ELEC,TX,14.0
+hamburg,ELEC,NY,22.0
+hamden,ELEC,CT,21.0
+hamer,ELEC,SC,2.0
+hamilton,ELEC,OH,52.0
+hamilton square,ELEC,NJ,1.0
+hamilton township,ELEC,NJ,45.0
+hamlin,ELEC,NY,1.0
+hammond,ELEC,LA,11.0
+hammondsport,ELEC,NY,2.0
+hammonton,ELEC,NJ,10.0
+hampstead,ELEC,MD,16.0
+hampton,ELEC,VA,62.0
+hampton bays,ELEC,NY,2.0
+hamptonburgh,ELEC,NY,2.0
+hamptonville,ELEC,NC,2.0
+hancock,ELEC,MA,31.0
+hanford,ELEC,CA,47.0
+hannacroix,ELEC,NY,4.0
+hannibal,ELEC,MO,8.0
+hanover,ELEC,MD,140.0
+hanover park,ELEC,IL,6.0
+hanscom afb,ELEC,MA,4.0
+hanson,ELEC,MA,5.0
+hapeville,ELEC,GA,34.0
+happy valley,ELEC,OR,32.0
+harbor city,ELEC,CA,10.0
+harbor springs,ELEC,MI,4.0
+hardeeville,ELEC,SC,9.0
+hardwick,ELEC,VT,11.0
+harker heights,ELEC,TX,6.0
+harlan,ELEC,KY,2.0
+harleysville,ELEC,PA,2.0
+harlingen,ELEC,TX,17.0
+harmans,ELEC,MD,4.0
+harmony,ELEC,PA,11.0
+harpers ferry,ELEC,WV,6.0
+harpswell,ELEC,ME,1.0
+harriman,ELEC,NY,4.0
+harris,ELEC,NY,2.0
+harrisburg,ELEC,PA,63.0
+harrison,ELEC,NJ,21.0
+harrisonburg,ELEC,VA,54.0
+harrisonville,ELEC,MO,6.0
+harrisville,ELEC,MI,4.0
+harrodsburg,ELEC,KY,2.0
+hart,ELEC,MI,6.0
+hart's location,ELEC,NH,2.0
+hartford,ELEC,CT,196.0
+hartle ct,ELEC,CA,3.0
+hartsdale,ELEC,NY,9.0
+hartselle,ELEC,AL,2.0
+hartsville,ELEC,SC,5.0
+harvard,ELEC,MA,3.0
+harvey,ELEC,LA,4.0
+harwich,ELEC,MA,15.0
+harwinton,ELEC,CT,2.0
+harwood,ELEC,MD,4.0
+hasbrouck heights,ELEC,NJ,6.0
+haslet,ELEC,TX,4.0
+hastings,ELEC,FL,24.0
+hastings-on-hudson,ELEC,NY,2.0
+hasty,ELEC,CO,2.0
+hatfield,ELEC,MO,2.0
+hathorne,ELEC,MA,2.0
+hatteras,ELEC,NC,2.0
+hattiesburg,ELEC,MS,32.0
+haubstadt,ELEC,IN,8.0
+hauppauge,ELEC,NY,14.0
+haverford,ELEC,PA,6.0
+haverhill,ELEC,MA,40.0
+haverstraw,ELEC,NY,2.0
+havre de grace,ELEC,MD,13.0
+haw river,ELEC,NC,4.0
+hawaiian gardens,ELEC,CA,5.0
+hawley,ELEC,PA,9.0
+hawthorne,ELEC,NV,81.0
+hay springs,ELEC,NE,2.0
+haymarket,ELEC,VA,12.0
+hays,ELEC,KS,13.0
+hayti,ELEC,MO,4.0
+hayward,ELEC,CA,234.0
+hazel crest,ELEC,IL,4.0
+hazelton,ELEC,PA,1.0
+hazelwood,ELEC,MO,5.0
+hazlet,ELEC,NJ,2.0
+headland,ELEC,AL,2.0
+healdsburg,ELEC,CA,84.0
+healy,ELEC,AK,2.0
+heath,ELEC,OH,9.0
+heber city,ELEC,UT,18.0
+heber springs,ELEC,AR,18.0
+hebron,ELEC,CT,41.0
+heflin,ELEC,AL,1.0
+helen,ELEC,GA,6.0
+helena,ELEC,MT,23.0
+helena-west helena,ELEC,AR,2.0
+hellertown,ELEC,PA,2.0
+hemet,ELEC,CA,10.0
+hemlock,ELEC,MI,1.0
+hempstead,ELEC,NY,15.0
+henderson,ELEC,NV,183.0
+hendersonville,ELEC,NC,19.0
+henrico,ELEC,VA,5.0
+henrietta,ELEC,NY,23.0
+henryetta,ELEC,OK,12.0
+hephzibah,ELEC,GA,2.0
+heppner,ELEC,OR,2.0
+herculaneum,ELEC,MO,4.0
+hercules,ELEC,CA,4.0
+herkimer,ELEC,NY,12.0
+hermantown,ELEC,MN,1.0
+hermiston,ELEC,OR,16.0
+hermitage,ELEC,PA,13.0
+hermosa beach,ELEC,CA,43.0
+hernandez,ELEC,NM,2.0
+hernando,ELEC,MS,9.0
+herndon,ELEC,VA,122.0
+herod,ELEC,IL,2.0
+herriman,ELEC,UT,10.0
+hershey,ELEC,PA,23.0
+hertford,ELEC,NC,3.0
+hesperia,ELEC,CA,48.0
+hesperus,ELEC,CO,2.0
+heyburn,ELEC,ID,4.0
+hialeah,ELEC,FL,40.0
+hialeah gardens,ELEC,FL,2.0
+hiawassee,ELEC,GA,1.0
+hiawatha,ELEC,IA,9.0
+hickory,ELEC,NC,29.0
+hicksville,ELEC,NY,27.0
+hico,ELEC,TX,4.0
+hidden hills,ELEC,CA,2.0
+high point,ELEC,NC,14.0
+high springs,ELEC,FL,1.0
+highgate,ELEC,VT,2.0
+highland,ELEC,MI,118.0
+highland beach,ELEC,FL,7.0
+highland falls,ELEC,NY,2.0
+highland heights,ELEC,KY,10.0
+highland park,ELEC,IL,29.0
+highland village,ELEC,TX,5.0
+highlands,ELEC,NC,16.0
+highlands ranch,ELEC,CO,55.0
+hilbert,ELEC,WI,2.0
+hill afb,ELEC,UT,7.0
+hilliard,ELEC,OH,38.0
+hillman,ELEC,MI,2.0
+hillsboro,ELEC,OR,168.0
+hillsborough,ELEC,NC,45.0
+hillsborough township,ELEC,NJ,6.0
+hillsburough,ELEC,NJ,6.0
+hillsdale,ELEC,NY,7.0
+hillside,ELEC,NJ,6.0
+hilo,ELEC,HI,30.0
+hilton,ELEC,NY,6.0
+hilton head island,ELEC,SC,52.0
+hinckley,ELEC,MN,10.0
+hines,ELEC,OR,8.0
+hinesburg,ELEC,VT,5.0
+hinesville,ELEC,GA,7.0
+hingham,ELEC,MA,17.0
+hinsdale,ELEC,IL,1.0
+hinton,ELEC,WV,3.0
+hiram,ELEC,GA,6.0
+hixson,ELEC,TN,12.0
+hobart,ELEC,IN,6.0
+hobbs,ELEC,NM,4.0
+hobe sound,ELEC,FL,7.0
+hoboken,ELEC,NJ,45.0
+hodgkins,ELEC,IL,5.0
+hoffman estates,ELEC,IL,19.0
+hogansburg,ELEC,NY,4.0
+hohenwald,ELEC,TN,2.0
+holbrook,ELEC,AZ,24.0
+holcombe,ELEC,WI,2.0
+holden,ELEC,MO,4.0
+holden beach,ELEC,NC,1.0
+holderness,ELEC,NH,2.0
+holdrege,ELEC,NE,2.0
+holiday,ELEC,FL,4.0
+holidaysburg,ELEC,PA,2.0
+holladay,ELEC,UT,2.0
+holland,ELEC,MI,53.0
+hollins,ELEC,VA,3.0
+hollis,ELEC,NY,2.0
+hollister,ELEC,CA,41.0
+holliston,ELEC,MA,6.0
+holly,ELEC,MI,12.0
+holly hill,ELEC,FL,5.0
+holly spring,ELEC,GA,3.0
+holly springs,ELEC,NC,19.0
+hollywood,ELEC,FL,182.0
+holmdel,ELEC,NJ,14.0
+holmen,ELEC,WI,5.0
+holmes beach,ELEC,FL,7.0
+holstein,ELEC,IA,2.0
+holtwood,ELEC,PA,4.0
+holyoke,ELEC,MA,34.0
+homer,ELEC,NY,7.0
+homerville,ELEC,GA,4.0
+homestead,ELEC,FL,47.0
+homewood,ELEC,IL,1.0
+homosassa,ELEC,FL,2.0
+hondo,ELEC,TX,1.0
+honeoye,ELEC,NY,2.0
+honeoye falls,ELEC,NY,13.0
+honesdale,ELEC,PA,6.0
+honey brook,ELEC,PA,6.0
+honolulu,ELEC,HI,310.0
+honor,ELEC,MI,1.0
+hood river,ELEC,OR,55.0
+hooker,ELEC,OK,4.0
+hooksett,ELEC,NH,23.0
+hookstown,ELEC,PA,2.0
+hoosick falls,ELEC,NY,4.0
+hoover,ELEC,AL,6.0
+hopatcong,ELEC,NJ,2.0
+hope,ELEC,AR,20.0
+hope mills,ELEC,NC,5.0
+hope valley,ELEC,CA,2.0
+hopedale,ELEC,MA,2.0
+hopewell,ELEC,VA,8.0
+hopewell township,ELEC,NJ,16.0
+hopkins,ELEC,MN,8.0
+hopkinsville,ELEC,KY,8.0
+hopkinton,ELEC,MA,12.0
+hopland,ELEC,CA,5.0
+hornbrook,ELEC,CA,2.0
+hornell,ELEC,NY,13.0
+horseheads,ELEC,NY,11.0
+horseshoe bay,ELEC,TX,12.0
+horsham,ELEC,PA,42.0
+horton,ELEC,KS,3.0
+hot springs,ELEC,AR,64.0
+hot springs national park,ELEC,AR,12.0
+houghton,ELEC,NY,10.0
+houghton lake,ELEC,MI,5.0
+houlton,ELEC,ME,8.0
+houma,ELEC,LA,2.0
+houston,ELEC,TX,1424.0
+hovland,ELEC,MN,2.0
+howard,ELEC,WI,12.0
+howard city,ELEC,MI,2.0
+howe,ELEC,IN,16.0
+howell,ELEC,MI,9.0
+howell township,ELEC,NJ,14.0
+howey-in-the-hills,ELEC,FL,2.0
+huber heights,ELEC,OH,11.0
+hudson,ELEC,IA,107.0
+hudson oaks,ELEC,TX,5.0
+hudsonville,ELEC,MI,17.0
+hueytown,ELEC,AL,1.0
+hughesville,ELEC,MD,5.0
+hughson,ELEC,CA,2.0
+hugo,ELEC,MN,6.0
+hulbert,ELEC,OK,1.0
+humacao,ELEC,PR,4.0
+humble,ELEC,TX,51.0
+humboldt,ELEC,KS,1.0
+hummels wharf,ELEC,PA,1.0
+hummelstown,ELEC,PA,5.0
+hunker,ELEC,PA,1.0
+hunt valley,ELEC,MD,13.0
+hunter,ELEC,NY,4.0
+huntersville,ELEC,NC,16.0
+huntingburg,ELEC,IN,2.0
+huntingdon,ELEC,PA,4.0
+huntingdon valley,ELEC,PA,4.0
+huntington,ELEC,WV,50.0
+huntington beach,ELEC,CA,122.0
+huntington park,ELEC,CA,12.0
+huntington station,ELEC,NY,5.0
+huntley,ELEC,IL,6.0
+huntsville,ELEC,AL,151.0
+hurley,ELEC,NY,2.0
+hurlock,ELEC,MD,4.0
+huron,ELEC,CA,17.0
+huron charter township,ELEC,MI,2.0
+hurricane,ELEC,WV,18.0
+hurst,ELEC,TX,6.0
+hutchinson,ELEC,KS,21.0
+hutto,ELEC,TX,17.0
+hyannis,ELEC,MA,50.0
+hyattsville,ELEC,MD,50.0
+hyde park,ELEC,NY,10.0
+idaho falls,ELEC,ID,57.0
+idaho springs,ELEC,CO,16.0
+idyllwild,ELEC,CA,2.0
+ignacio,ELEC,CO,2.0
+ijamsville,ELEC,MD,18.0
+imlay city,ELEC,MI,1.0
+imperial,ELEC,CA,3.0
+imperial beach,ELEC,CA,12.0
+incline village,ELEC,NV,19.0
+independence,ELEC,KS,45.0
+independence charter township,ELEC,MI,14.0
+indialantic,ELEC,FL,2.0
+indian head,ELEC,MD,16.0
+indian land,ELEC,SC,4.0
+"indian land, south carolina",ELEC,SC,2.0
+indian river,ELEC,MI,2.0
+indian rocks beach,ELEC,FL,3.0
+indian shores,ELEC,FL,3.0
+indian springs,ELEC,NV,2.0
+indian trail,ELEC,NC,3.0
+indian wells,ELEC,CA,33.0
+indiana,ELEC,PA,10.0
+indianapolis,ELEC,IN,292.0
+indianola,ELEC,IA,5.0
+indiantown,ELEC,FL,9.0
+indio,ELEC,CA,102.0
+inez,ELEC,KY,2.0
+inglewood,ELEC,CA,95.0
+ingraham,ELEC,NY,4.0
+ingram,ELEC,TX,6.0
+inlet,ELEC,NY,6.0
+intercourse,ELEC,PA,2.0
+interlochen,ELEC,MI,2.0
+international falls,ELEC,MN,2.0
+intervale,ELEC,NH,2.0
+inver grove heights,ELEC,MN,24.0
+inver grove hts,ELEC,MN,1.0
+inverness,ELEC,FL,14.0
+inwood,ELEC,NY,4.0
+inyokern,ELEC,CA,31.0
+iola,ELEC,KS,1.0
+ione,ELEC,OR,2.0
+ionia,ELEC,MI,2.0
+iowa,ELEC,LA,16.0
+iowa city,ELEC,IA,70.0
+ipswich,ELEC,MA,7.0
+irmo,ELEC,SC,1.0
+iron mountain,ELEC,MI,1.0
+iron river,ELEC,MI,1.0
+irondale,ELEC,AL,1.0
+irondequoit,ELEC,NY,14.0
+ironton,ELEC,MO,5.0
+ironwood,ELEC,MI,3.0
+irvi,ELEC,CA,2.0
+irvine,ELEC,CA,1287.0
+irving,ELEC,TX,149.0
+irvington,ELEC,VA,15.0
+irwindale,ELEC,CA,19.0
+isabela,ELEC,PR,2.0
+isanti,ELEC,MN,3.0
+islamorada,ELEC,FL,15.0
+island city,ELEC,OR,4.0
+island park,ELEC,ID,5.0
+island pond,ELEC,VT,1.0
+islandia,ELEC,NY,14.0
+isle,ELEC,MN,1.0
+isle of palms,ELEC,SC,4.0
+islesboro,ELEC,ME,1.0
+issaqquah,ELEC,WA,8.0
+issaquah,ELEC,WA,91.0
+italy,ELEC,TX,10.0
+itasca,ELEC,IL,13.0
+ithaca,ELEC,NY,91.0
+ivins,ELEC,UT,3.0
+jaccksonville,ELEC,FL,2.0
+jacinto city,ELEC,TX,2.0
+jackman,ELEC,ME,8.0
+jackpot,ELEC,NV,3.0
+jackson,ELEC,MS,172.0
+jackson center,ELEC,OH,2.0
+jackson heights,ELEC,NY,9.0
+jackson township,ELEC,NJ,16.0
+jacksonville,ELEC,FL,447.0
+jacksonville beach,ELEC,FL,8.0
+jamaica,ELEC,NY,76.0
+jamaica plain,ELEC,MA,1.0
+jamaica plains,ELEC,MA,4.0
+jamesport,ELEC,NY,5.0
+jamestown,ELEC,NY,48.0
+jamesville,ELEC,NY,5.0
+jamison,ELEC,PA,2.0
+jamul,ELEC,CA,8.0
+janesville,ELEC,WI,19.0
+jarrell,ELEC,TX,8.0
+jasper,ELEC,AL,38.0
+jay,ELEC,VT,18.0
+jean,ELEC,NV,3.0
+jeannette,ELEC,PA,1.0
+jefferson,ELEC,WV,10.0
+jefferson city,ELEC,MO,8.0
+jeffersontown,ELEC,KY,6.0
+jeffersonville,ELEC,IN,10.0
+jekyll island,ELEC,GA,44.0
+jellico,ELEC,TN,2.0
+jemez springs,ELEC,NM,7.0
+jenkintown,ELEC,PA,8.0
+jenks,ELEC,OK,6.0
+jenner,ELEC,CA,6.0
+jennings,ELEC,MO,2.0
+jensen,ELEC,UT,1.0
+jensen beach,ELEC,FL,23.0
+jericho,ELEC,VT,2.0
+jersey city,ELEC,NJ,211.0
+jersey village,ELEC,TX,2.0
+jerseyville,ELEC,IL,2.0
+jessup,ELEC,MD,18.0
+jesup,ELEC,GA,7.0
+jim thorpe,ELEC,PA,18.0
+john day,ELEC,OR,3.0
+johns creek,ELEC,GA,11.0
+johns island,ELEC,SC,5.0
+johnson,ELEC,VT,10.0
+johnson city,ELEC,TN,34.0
+johnson creek,ELEC,WI,10.0
+johnston,ELEC,IA,59.0
+johnstontown,ELEC,CO,8.0
+johnstown,ELEC,NY,38.0
+joint base mdl,ELEC,NJ,30.0
+joint base pearl harbor-hickam,ELEC,HI,17.0
+joliet,ELEC,IL,19.0
+jones mills,ELEC,PA,1.0
+jonesboro,ELEC,AR,32.0
+jonesborough,ELEC,TN,2.0
+jonesville,ELEC,SC,7.0
+joplin,ELEC,MO,44.0
+joppatowne,ELEC,MD,11.0
+jordan,ELEC,NY,3.0
+jordan valley,ELEC,OR,1.0
+joseph,ELEC,OR,2.0
+joshua tree,ELEC,CA,2.0
+julesburg,ELEC,CO,2.0
+julian,ELEC,CA,2.0
+juncos,ELEC,PR,5.0
+junction,ELEC,TX,19.0
+junction city,ELEC,OR,7.0
+juneau,ELEC,AK,26.0
+juno beach,ELEC,FL,46.0
+juno bech,ELEC,FL,1.0
+jupiter,ELEC,FL,41.0
+jurupa valley,ELEC,CA,4.0
+kahuku,ELEC,HI,12.0
+kahului,ELEC,HI,38.0
+kailua,ELEC,HI,22.0
+kailua kona,ELEC,HI,13.0
+kailua-kona,ELEC,HI,34.0
+kalama,ELEC,WA,2.0
+kalamazoo,ELEC,MI,72.0
+kalispell,ELEC,MT,10.0
+kalkaska,ELEC,MI,2.0
+kamas,ELEC,UT,8.0
+kamuela,ELEC,HI,2.0
+kanab,ELEC,UT,25.0
+kane,ELEC,PA,4.0
+kaneohe,ELEC,HI,20.0
+kaneohe bay,ELEC,HI,4.0
+kankakee,ELEC,IL,2.0
+kannapolis,ELEC,NC,9.0
+kansas,ELEC,MO,4.0
+kansas city,ELEC,MO,1014.0
+kapa'a,ELEC,HI,3.0
+kapaau,ELEC,HI,2.0
+kapolei,ELEC,HI,83.0
+katonah,ELEC,NY,9.0
+katy,ELEC,TX,119.0
+kauai,ELEC,HI,1.0
+kaufman,ELEC,TX,2.0
+kaukauna,ELEC,WI,4.0
+kaunakakai,ELEC,HI,1.0
+kauneonga lake,ELEC,NY,2.0
+kawkawlin,ELEC,MI,2.0
+kaysville,ELEC,UT,20.0
+keaau,ELEC,HI,2.0
+kearney,ELEC,NE,29.0
+kearns,ELEC,UT,4.0
+kearny,ELEC,NJ,33.0
+keasbey,ELEC,NJ,6.0
+kea’au,ELEC,HI,1.0
+keedysville,ELEC,MD,6.0
+keene,ELEC,NH,11.0
+keene valley,ELEC,NY,1.0
+keenesburg,ELEC,CO,1.0
+keeseville,ELEC,NY,4.0
+keizer,ELEC,OR,5.0
+keller,ELEC,TX,4.0
+kelseyville,ELEC,CA,2.0
+kelso,ELEC,WA,16.0
+kemmerer,ELEC,WY,1.0
+kenai,ELEC,AK,1.0
+kenansville,ELEC,NC,2.0
+kenesaw,ELEC,NE,2.0
+kenmore,ELEC,WA,11.0
+kennebunk,ELEC,ME,40.0
+kennebunkport,ELEC,ME,20.0
+kennedy,ELEC,NY,1.0
+kennedy space center,ELEC,FL,3.0
+kenner,ELEC,LA,44.0
+kennesaw,ELEC,GA,77.0
+kennett square,ELEC,PA,16.0
+kennewick,ELEC,WA,28.0
+kenosha,ELEC,WI,22.0
+kensington,ELEC,NH,12.0
+kent,ELEC,WA,63.0
+kentfield,ELEC,CA,20.0
+kentland,ELEC,IN,2.0
+kentwood,ELEC,MI,14.0
+kenwood,ELEC,CA,2.0
+keosauqua,ELEC,IA,2.0
+kerhonkson,ELEC,NY,5.0
+kerman,ELEC,CA,10.0
+kernersville,ELEC,NC,10.0
+kernsersville,ELEC,NC,2.0
+kerrville,ELEC,TX,11.0
+kersey,ELEC,CO,2.0
+keswick,ELEC,VA,6.0
+kettering,ELEC,OH,22.0
+kettleman city,ELEC,CA,111.0
+kew gardens,ELEC,NY,5.0
+kewanee,ELEC,IL,1.0
+key biscayne,ELEC,FL,13.0
+key largo,ELEC,FL,6.0
+key west,ELEC,FL,58.0
+keyport,ELEC,NJ,50.0
+keystone,ELEC,SD,15.0
+keystone heights,ELEC,FL,2.0
+kiawah island,ELEC,SC,1.0
+kihei,ELEC,HI,17.0
+kildeer,ELEC,IL,2.0
+kilgore,ELEC,TX,2.0
+kill devil hills,ELEC,NC,13.0
+killeen,ELEC,TX,19.0
+killingly,ELEC,CT,2.0
+killington,ELEC,VT,66.0
+kilmarnock,ELEC,VA,3.0
+kiln,ELEC,MS,17.0
+kimball,ELEC,TN,12.0
+kimberly,ELEC,OR,4.0
+kinderhook,ELEC,NY,4.0
+king,ELEC,NC,2.0
+king city,ELEC,CA,32.0
+king george,ELEC,VA,15.0
+king of prussia,ELEC,PA,107.0
+kingdom city,ELEC,MO,4.0
+kingman,ELEC,AZ,39.0
+kings bay,ELEC,GA,8.0
+kings mountain,ELEC,NC,6.0
+kings park,ELEC,NY,2.0
+kingsburg,ELEC,CA,8.0
+kingsland,ELEC,GA,11.0
+kingsport,ELEC,TN,20.0
+kingston,ELEC,NY,130.0
+kingstown,ELEC,RI,6.0
+kingsville,ELEC,TX,19.0
+kingwood,ELEC,TX,10.0
+kinston,ELEC,NC,13.0
+kinstowne,ELEC,VA,2.0
+kiowa,ELEC,CO,2.0
+kirkland,ELEC,WA,99.0
+kirksville,ELEC,MO,10.0
+kirkwood,ELEC,NY,10.0
+kissimmee,ELEC,FL,156.0
+kittanning,ELEC,PA,3.0
+kittery,ELEC,ME,40.0
+kitty hawk,ELEC,NC,3.0
+klamath,ELEC,CA,4.0
+klamath falls,ELEC,OR,37.0
+knightdale,ELEC,NC,19.0
+knoxville,ELEC,TN,162.0
+kodak,ELEC,TN,34.0
+kohala,ELEC,HI,8.0
+kokomo,ELEC,IN,22.0
+koloa,ELEC,HI,14.0
+kremmling,ELEC,CO,9.0
+kuttawa,ELEC,KY,8.0
+kutztown,ELEC,PA,4.0
+kyle,ELEC,TX,32.0
+l'anse,ELEC,MI,2.0
+la,ELEC,CA,2.0
+la canada flintridge,ELEC,CA,103.0
+la cañada flintridge,ELEC,CA,7.0
+la conner,ELEC,WA,4.0
+la crescent,ELEC,MN,2.0
+la crescenta,ELEC,CA,8.0
+la crosse,ELEC,WI,22.0
+la farge,ELEC,WI,2.0
+la grande,ELEC,OR,7.0
+la grange,ELEC,TX,13.0
+la grange park,ELEC,IL,2.0
+la habra,ELEC,CA,23.0
+la habra heights,ELEC,CA,1.0
+la honda,ELEC,CA,2.0
+la jolla,ELEC,CA,202.0
+la junta,ELEC,CO,13.0
+la mesa,ELEC,CA,43.0
+la mirada,ELEC,CA,15.0
+la palma,ELEC,CA,4.0
+la pine,ELEC,OR,2.0
+la plata,ELEC,MO,14.0
+la porte,ELEC,TX,7.0
+la puente,ELEC,CA,14.0
+la quinta,ELEC,CA,39.0
+la vale,ELEC,MD,8.0
+la verkin,ELEC,UT,14.0
+la verne,ELEC,CA,18.0
+la vista,ELEC,NE,4.0
+labelle,ELEC,FL,5.0
+lacey,ELEC,WA,76.0
+lacombe,ELEC,LA,2.0
+lacon,ELEC,IL,2.0
+laconia,ELEC,NH,2.0
+lacrosse,ELEC,WI,1.0
+lacygne,ELEC,KS,6.0
+ladera heights,ELEC,CA,2.0
+ladera ranch,ELEC,CA,7.0
+ladson,ELEC,SC,5.0
+lady lake,ELEC,FL,10.0
+ladysmith,ELEC,WI,2.0
+lafarge,ELEC,WI,2.0
+lafayette,ELEC,LA,179.0
+lafayette hill,ELEC,PA,4.0
+lafollette,ELEC,TN,1.0
+lagrange,ELEC,GA,18.0
+lagrangeville,ELEC,NY,4.0
+laguna beach,ELEC,CA,31.0
+laguna hills,ELEC,CA,28.0
+laguna niguel,ELEC,CA,26.0
+laguna woods,ELEC,CA,17.0
+lahaina,ELEC,HI,33.0
+laie,ELEC,HI,8.0
+lake,ELEC,WY,1.0
+lake arrowhead,ELEC,CA,10.0
+lake balboa,ELEC,CA,2.0
+lake buena vista,ELEC,FL,18.0
+lake charles,ELEC,LA,15.0
+lake city,ELEC,FL,53.0
+lake como,ELEC,NJ,1.0
+lake elmo,ELEC,MN,10.0
+lake elsinore,ELEC,CA,62.0
+lake forest,ELEC,IL,89.0
+lake forest park,ELEC,WA,1.0
+lake geneva,ELEC,WI,7.0
+lake george,ELEC,NY,65.0
+lake grove,ELEC,NY,14.0
+lake hamilton,ELEC,AR,2.0
+lake harmony,ELEC,PA,4.0
+lake havasu city,ELEC,AZ,5.0
+lake hopatcong,ELEC,NJ,2.0
+lake in the hills,ELEC,IL,2.0
+lake isabella,ELEC,CA,1.0
+lake jackson,ELEC,TX,14.0
+lake katrine,ELEC,NY,8.0
+lake lure,ELEC,NC,2.0
+lake luzerne,ELEC,NY,4.0
+lake mary,ELEC,FL,42.0
+lake mcdonald,ELEC,MT,2.0
+lake mills,ELEC,WI,3.0
+lake orion,ELEC,MI,53.0
+lake oswego,ELEC,OR,75.0
+lake ozark,ELEC,MO,2.0
+lake park,ELEC,FL,3.0
+lake placid,ELEC,NY,59.0
+lake st. louis,ELEC,MO,2.0
+lake station,ELEC,IN,2.0
+lake stevens,ELEC,WA,6.0
+lake township,ELEC,OH,4.0
+lake villa,ELEC,IL,3.0
+lake wales,ELEC,FL,6.0
+lake worth,ELEC,FL,12.0
+lake worth beach,ELEC,FL,8.0
+lake zurich,ELEC,IL,8.0
+lakehead-lakeshore,ELEC,CA,3.0
+lakeland,ELEC,FL,40.0
+lakemoor,ELEC,IL,16.0
+lakeport,ELEC,CA,6.0
+lakeside,ELEC,MT,19.0
+lakeview,ELEC,NY,2.0
+lakeville,ELEC,MN,33.0
+lakeway,ELEC,TX,6.0
+lakewood,ELEC,CA,209.0
+lakewood ranch,ELEC,FL,11.0
+lamar,ELEC,CO,16.0
+lamarque,ELEC,TX,4.0
+lambertville,ELEC,NJ,1.0
+lamesa,ELEC,TX,3.0
+lamoni,ELEC,IA,1.0
+lamont,ELEC,FL,8.0
+lampasas,ELEC,TX,3.0
+lanai city,ELEC,HI,17.0
+lancaster,ELEC,MA,225.0
+land o' lakes,ELEC,FL,10.0
+lander,ELEC,WY,12.0
+landover,ELEC,MD,20.0
+landover hills,ELEC,MD,4.0
+lanesboro,ELEC,MN,6.0
+lanesborough,ELEC,MA,10.0
+langhorne,ELEC,PA,11.0
+langley,ELEC,WA,6.0
+lanham,ELEC,MD,12.0
+lanham seabrook,ELEC,MD,6.0
+lansdale,ELEC,PA,16.0
+lansing,ELEC,MI,134.0
+lantana,ELEC,FL,2.0
+laotto,ELEC,IN,2.0
+laplace,ELEC,LA,3.0
+laramie,ELEC,WY,18.0
+larchmont,ELEC,NY,14.0
+laredo,ELEC,TX,14.0
+largo,ELEC,FL,45.0
+larkspur,ELEC,CA,27.0
+larned,ELEC,KS,2.0
+las banos,ELEC,CA,12.0
+las cruces,ELEC,NM,48.0
+las vegas,ELEC,NV,997.0
+lasalle,ELEC,IL,3.0
+latham,ELEC,NY,148.0
+lathrop,ELEC,CA,20.0
+latrobe,ELEC,PA,4.0
+latta,ELEC,SC,4.0
+lauderdale by the sea,ELEC,FL,2.0
+lauderdale-by-the-sea,ELEC,FL,4.0
+lauderhill,ELEC,FL,4.0
+laughlin,ELEC,NV,18.0
+laurel,ELEC,MD,85.0
+laurel hollow,ELEC,NY,8.0
+laurens,ELEC,SC,2.0
+laurinburg,ELEC,NC,14.0
+lavonia,ELEC,GA,2.0
+lawndale,ELEC,CA,8.0
+lawrence,ELEC,KS,77.0
+lawrence ocl,ELEC,KS,2.0
+lawrence township,ELEC,NJ,11.0
+lawrenceburg,ELEC,TN,1.0
+lawrenceville,ELEC,GA,92.0
+lawton,ELEC,OK,17.0
+layfayette,ELEC,CO,12.0
+layton,ELEC,UT,22.0
+laytonville,ELEC,CA,12.0
+lburien,ELEC,WA,1.0
+le claire,ELEC,IA,2.0
+le mars,ELEC,IA,2.0
+le roy,ELEC,NY,3.0
+leadville,ELEC,CO,6.0
+league city,ELEC,TX,20.0
+leakey,ELEC,TX,2.0
+leander,ELEC,TX,11.0
+leavenworth,ELEC,KS,54.0
+leawood,ELEC,KS,35.0
+lebanon,ELEC,TN,92.0
+lebec,ELEC,CA,36.0
+ledyard,ELEC,CT,4.0
+lee,ELEC,MA,19.0
+lee's summit,ELEC,MO,4.0
+leeds,ELEC,AL,28.0
+lees summit,ELEC,MO,65.0
+leesburg,ELEC,FL,66.0
+leesport,ELEC,PA,8.0
+leggett,ELEC,CA,4.0
+lehi,ELEC,UT,158.0
+lehighton,ELEC,PA,14.0
+leicester,ELEC,MA,4.0
+leitchfield,ELEC,KY,2.0
+leland,ELEC,NC,19.0
+lemars,ELEC,IA,2.0
+lemon cove,ELEC,CA,2.0
+lemon grove,ELEC,CA,5.0
+lemont,ELEC,IL,11.0
+lemoore,ELEC,CA,37.0
+lemoyne,ELEC,PA,3.0
+lena,ELEC,IL,1.0
+lenexa,ELEC,KS,91.0
+lennox,ELEC,CA,2.0
+lenoir,ELEC,NC,9.0
+lenoir city,ELEC,TN,9.0
+lenox,ELEC,MA,23.0
+leola,ELEC,PA,13.0
+leoma,ELEC,TN,2.0
+leominster,ELEC,MA,24.0
+leonardtown,ELEC,MD,12.0
+leonia,ELEC,NJ,6.0
+leroy,ELEC,NY,2.0
+levittown,ELEC,PA,16.0
+lewes,ELEC,DE,26.0
+lewis,ELEC,NY,4.0
+lewis center,ELEC,OH,11.0
+lewis run,ELEC,PA,2.0
+lewisberry,ELEC,PA,8.0
+lewisburg,ELEC,PA,16.0
+lewiston,ELEC,MI,30.0
+lewistown,ELEC,MO,3.0
+lewisville,ELEC,TX,42.0
+lexington,ELEC,SC,266.0
+lexington park,ELEC,MD,11.0
+leyden,ELEC,MA,2.0
+liberal,ELEC,KS,6.0
+liberty,ELEC,MO,28.0
+liberty lake,ELEC,WA,28.0
+liberty township,ELEC,OH,6.0
+libertyville,ELEC,IL,27.0
+lic,ELEC,NY,12.0
+ligonier,ELEC,IN,2.0
+lihue,ELEC,HI,51.0
+lilburn,ELEC,GA,3.0
+lilesville,ELEC,NC,1.0
+lillington,ELEC,NC,6.0
+lima,ELEC,OH,36.0
+limerick,ELEC,PA,4.0
+limestone,ELEC,TN,2.0
+limon,ELEC,CO,18.0
+lincoln,ELEC,RI,185.0
+lincoln city,ELEC,OR,22.0
+lincoln park,ELEC,NJ,6.0
+lincolnshire,ELEC,IL,6.0
+lincolnton,ELEC,NC,4.0
+lincolnville,ELEC,ME,3.0
+lincolnwood,ELEC,IL,18.0
+lincroft,ELEC,NJ,12.0
+lindale,ELEC,TX,8.0
+linden,ELEC,TN,4.0
+lindenhurst,ELEC,NY,6.0
+lindenwold,ELEC,NJ,2.0
+lindon,ELEC,UT,4.0
+lindsay,ELEC,OK,19.0
+lindsborg,ELEC,KS,1.0
+linn,ELEC,MO,2.0
+linthicum,ELEC,MD,3.0
+linthicum heights,ELEC,MD,36.0
+linton,ELEC,IN,4.0
+linville,ELEC,NC,4.0
+linwood,ELEC,NJ,1.0
+lisbon,ELEC,OH,12.0
+lisle,ELEC,IL,4.0
+litchfield,ELEC,MN,17.0
+litchfield park,ELEC,AZ,10.0
+lithia springs,ELEC,GA,19.0
+lithonia,ELEC,GA,19.0
+lititz,ELEC,PA,15.0
+little egg harbor,ELEC,NJ,2.0
+little elm,ELEC,TX,16.0
+little falls,ELEC,NJ,33.0
+little ferry,ELEC,NJ,12.0
+little meadows,ELEC,PA,2.0
+little orleans,ELEC,MD,5.0
+little river,ELEC,CA,18.0
+little rock,ELEC,AR,160.0
+little torch key,ELEC,FL,5.0
+littlerock,ELEC,CA,2.0
+littleton,ELEC,CO,150.0
+live oak,ELEC,FL,15.0
+livermore,ELEC,CA,203.0
+liverpool,ELEC,NY,98.0
+livingston,ELEC,NJ,47.0
+livonia,ELEC,NY,52.0
+llano,ELEC,TX,9.0
+loch sheldrake,ELEC,NY,8.0
+lock haven,ELEC,PA,5.0
+lockeford,ELEC,CA,1.0
+lockhart,ELEC,SC,4.0
+lockport,ELEC,NY,14.0
+locust grove,ELEC,GA,21.0
+lodi,ELEC,CA,75.0
+logan,ELEC,UT,45.0
+logansport,ELEC,IN,2.0
+loganville,ELEC,GA,15.0
+loleta,ELEC,CA,6.0
+loma linda,ELEC,CA,58.0
+lombard,ELEC,IL,16.0
+lomira,ELEC,WI,1.0
+lomita,ELEC,CA,8.0
+lompoc,ELEC,CA,33.0
+lonaconing,ELEC,MD,2.0
+london,ELEC,KY,29.0
+londonderry,ELEC,NH,6.0
+lone jack,ELEC,MO,6.0
+lone pine,ELEC,CA,16.0
+lone tree,ELEC,CO,37.0
+long beach,ELEC,CA,538.0
+long branch,ELEC,NJ,2.0
+long island,ELEC,NY,16.0
+long island city,ELEC,NY,53.0
+long lake,ELEC,NY,2.0
+long pond,ELEC,PA,2.0
+longboat key,ELEC,FL,5.0
+longmeadow,ELEC,MA,2.0
+longmire,ELEC,WA,1.0
+longmont,ELEC,CO,136.0
+longview,ELEC,TX,30.0
+longwood,ELEC,FL,11.0
+lonoke,ELEC,AR,6.0
+lookout mountain,ELEC,GA,5.0
+loomis,ELEC,CA,16.0
+lopez,ELEC,WA,2.0
+lopez island,ELEC,WA,2.0
+lordsburg,ELEC,NM,5.0
+loretto,ELEC,KY,4.0
+lorton,ELEC,VA,7.0
+los alamitos,ELEC,CA,15.0
+los alamos,ELEC,CA,25.0
+los altos,ELEC,CA,267.0
+los altos hills,ELEC,CA,15.0
+los angeles,ELEC,CA,5240.0
+los banos,ELEC,CA,10.0
+los gatos,ELEC,CA,79.0
+los indios,ELEC,TX,2.0
+los lunas,ELEC,NM,24.0
+los ranchos de albuquerque,ELEC,NM,2.0
+lost hills,ELEC,CA,5.0
+lotus,ELEC,CA,3.0
+loudonville,ELEC,NY,4.0
+louisa,ELEC,VA,2.0
+louisa county,ELEC,VA,2.0
+louisburg,ELEC,NC,7.0
+louisville,ELEC,KY,320.0
+loveland,ELEC,CO,89.0
+lovell,ELEC,ME,2.0
+lovelock,ELEC,NV,14.0
+lowell,ELEC,NC,139.0
+lower alloways creek,ELEC,NJ,14.0
+lowville,ELEC,NY,2.0
+loxahatchee,ELEC,FL,9.0
+loyalton,ELEC,CA,1.0
+lubbock,ELEC,TX,28.0
+lubec,ELEC,ME,3.0
+lucedale,ELEC,MS,1.0
+lucerne valley,ELEC,CA,2.0
+ludington,ELEC,MI,15.0
+ludlow,ELEC,VT,43.0
+lufkin,ELEC,TX,1.0
+lugoff,ELEC,SC,1.0
+lumberton,ELEC,NC,15.0
+luning,ELEC,NV,10.0
+luray,ELEC,VA,6.0
+lusby,ELEC,MD,5.0
+lusk,ELEC,WY,4.0
+lutherville,ELEC,MD,4.0
+lutherville timonium,ELEC,MD,2.0
+lutherville-timonium,ELEC,MD,1.0
+lutsen,ELEC,MN,2.0
+lutz,ELEC,FL,15.0
+luverne,ELEC,MN,7.0
+lyme,ELEC,CT,3.0
+lynchburg,ELEC,VA,25.0
+lynden,ELEC,WA,1.0
+lyndhurst,ELEC,NJ,12.0
+lyndon,ELEC,KY,2.0
+lynn,ELEC,MA,12.0
+lynnfield,ELEC,MA,17.0
+lynnwood,ELEC,WA,74.0
+lynwood,ELEC,CA,24.0
+lyon charter township,ELEC,MI,1.0
+lyons,ELEC,CO,11.0
+lyons falls,ELEC,NY,2.0
+mabel,ELEC,MN,2.0
+mableton,ELEC,GA,8.0
+macclenny,ELEC,FL,4.0
+macedon,ELEC,NY,3.0
+macedonia,ELEC,OH,7.0
+machesney park,ELEC,IL,3.0
+machias,ELEC,ME,2.0
+mackinaw city,ELEC,MI,30.0
+macomb,ELEC,IL,6.0
+macon,ELEC,GA,45.0
+macungie,ELEC,PA,9.0
+madan,ELEC,ND,3.0
+madawaska,ELEC,ME,2.0
+madeira,ELEC,FL,10.0
+madera,ELEC,CA,88.0
+madison,ELEC,WI,313.0
+madison heights,ELEC,MI,16.0
+"madison,",ELEC,FL,8.0
+madisonville,ELEC,TX,38.0
+madras,ELEC,OR,29.0
+maggie valley,ELEC,NC,4.0
+magna,ELEC,UT,2.0
+magnolia,ELEC,TX,9.0
+mahopac,ELEC,NY,8.0
+mahopac falls,ELEC,NY,2.0
+mahwah,ELEC,NJ,63.0
+maiden,ELEC,NC,8.0
+maiden rock,ELEC,WI,2.0
+maineville,ELEC,OH,4.0
+mainsfield,ELEC,PA,1.0
+maitland,ELEC,FL,22.0
+makanda,ELEC,IL,4.0
+makawao,ELEC,HI,1.0
+malaga,ELEC,NJ,8.0
+malden,ELEC,MA,60.0
+malibu,ELEC,CA,48.0
+malone,ELEC,NY,17.0
+malta,ELEC,NY,33.0
+malvern,ELEC,PA,67.0
+mamaroneck,ELEC,NY,13.0
+mammoth hot springs,ELEC,WY,3.0
+mammoth lakes,ELEC,CA,26.0
+manahawkin,ELEC,NJ,5.0
+manakin sabot,ELEC,VA,3.0
+manalapan,ELEC,FL,3.0
+manassas,ELEC,VA,51.0
+manchester,ELEC,NH,128.0
+manchester center,ELEC,VT,13.0
+manchester-by-the-sea,ELEC,MA,6.0
+mancos,ELEC,CO,2.0
+mandan,ELEC,ND,8.0
+mandeville,ELEC,LA,7.0
+manhattan,ELEC,KS,67.0
+manhattan beach,ELEC,CA,129.0
+manheim,ELEC,PA,1.0
+manistee,ELEC,MI,17.0
+manitou springs,ELEC,CO,12.0
+manitowoc,ELEC,WI,6.0
+mankato,ELEC,MN,21.0
+manlius,ELEC,NY,16.0
+mannford,ELEC,OK,4.0
+manning,ELEC,IA,2.0
+manor,ELEC,TX,5.0
+manorville,ELEC,NY,19.0
+mansfield,ELEC,OH,43.0
+mansfield center,ELEC,CT,8.0
+manson,ELEC,WA,4.0
+manteca,ELEC,CA,81.0
+manteo,ELEC,NC,2.0
+mantua,ELEC,NJ,2.0
+manvel,ELEC,TX,6.0
+maple grove,ELEC,MN,49.0
+maple hill,ELEC,KS,4.0
+maple shade,ELEC,NJ,8.0
+maplewood,ELEC,MN,67.0
+maquoketa,ELEC,IA,2.0
+marana,ELEC,AZ,2.0
+marathon,ELEC,FL,9.0
+marble canyon,ELEC,AZ,3.0
+marble falls,ELEC,TX,4.0
+marble hill,ELEC,GA,2.0
+marblehead,ELEC,MA,12.0
+marblemount,ELEC,WA,3.0
+marcellus,ELEC,NY,2.0
+march air reserve base,ELEC,CA,6.0
+marco island,ELEC,FL,9.0
+marcola,ELEC,OR,4.0
+marfa,ELEC,TX,3.0
+maria stein,ELEC,OH,2.0
+marianna,ELEC,FL,13.0
+maricopa,ELEC,AZ,25.0
+marietta,ELEC,GA,95.0
+marin city,ELEC,CA,16.0
+marina,ELEC,CA,46.0
+marina del rey,ELEC,CA,134.0
+marine city,ELEC,MI,2.0
+marine corps base hawaii,ELEC,HI,4.0
+marinette,ELEC,WI,9.0
+marion,ELEC,IL,43.0
+mariposa,ELEC,CA,14.0
+marked tree,ELEC,AR,1.0
+markham,ELEC,IL,2.0
+markleeville,ELEC,CA,4.0
+marksville,ELEC,LA,2.0
+marlboro,ELEC,MD,4.0
+marlborough,ELEC,MA,157.0
+marlette,ELEC,MI,2.0
+marlow heights,ELEC,MD,4.0
+marlton,ELEC,NJ,14.0
+marquette,ELEC,MI,18.0
+marrowstone,ELEC,WA,2.0
+mars hill,ELEC,NC,6.0
+marshall,ELEC,MN,59.0
+marshalltown,ELEC,IA,4.0
+marshfield,ELEC,WI,28.0
+marshville,ELEC,NC,1.0
+martin,ELEC,TN,3.0
+martinez,ELEC,CA,56.0
+martinsburg,ELEC,WV,30.0
+martinsville,ELEC,IN,20.0
+marvin,ELEC,SD,4.0
+mary esther,ELEC,FL,3.0
+maryland heights,ELEC,MO,13.0
+marysville,ELEC,CA,71.0
+maryville,ELEC,MO,30.0
+mashantucket,ELEC,CT,4.0
+mashpee,ELEC,MA,12.0
+mason,ELEC,OH,14.0
+mason city,ELEC,IA,7.0
+maspeth,ELEC,NY,2.0
+massapequa,ELEC,NY,12.0
+massapequa park,ELEC,NY,1.0
+massena,ELEC,NY,15.0
+massillon,ELEC,OH,4.0
+matamoras,ELEC,PA,18.0
+matawan,ELEC,NJ,4.0
+matfield green,ELEC,KS,6.0
+mather,ELEC,CA,1.0
+mattapan,ELEC,MA,2.0
+mattawan,ELEC,MI,1.0
+matteson,ELEC,IL,7.0
+matthews,ELEC,NC,37.0
+mattoon,ELEC,IL,15.0
+maumee,ELEC,OH,16.0
+maupin,ELEC,OR,2.0
+mauston,ELEC,WI,6.0
+maxeys,ELEC,GA,1.0
+mayaguez,ELEC,PR,2.0
+mayer,ELEC,AZ,8.0
+mayfield,ELEC,KY,14.0
+mayfield heights,ELEC,OH,9.0
+mayflower,ELEC,AR,2.0
+maynard,ELEC,MA,19.0
+mayport,ELEC,FL,58.0
+mays landing,ELEC,NJ,4.0
+mayville,ELEC,WI,5.0
+maywood,ELEC,CA,6.0
+mazama,ELEC,WA,3.0
+mcadoo,ELEC,PA,2.0
+mcalester,ELEC,OK,25.0
+mcallen,ELEC,TX,24.0
+mccall,ELEC,ID,1.0
+mccarran,ELEC,NV,8.0
+mcclean,ELEC,VA,12.0
+mcclellan park,ELEC,CA,12.0
+mccomb,ELEC,MS,8.0
+mcconnellsburg,ELEC,PA,2.0
+mccordsville,ELEC,IN,4.0
+mcdade,ELEC,TX,5.0
+mcdermitt,ELEC,NV,10.0
+mcdonough,ELEC,GA,39.0
+mcfarland,ELEC,CA,13.0
+mcgaheysville,ELEC,VA,6.0
+mcgregor,ELEC,IA,2.0
+mchenry,ELEC,MD,24.0
+mckenzie bridge,ELEC,OR,2.0
+mckinleyville,ELEC,CA,3.0
+mckinney,ELEC,TX,54.0
+mclean,ELEC,VA,310.0
+mcleansville,ELEC,NC,12.0
+mcminnville,ELEC,OR,27.0
+mcpherson,ELEC,KS,8.0
+mead,ELEC,WA,2.0
+meadows of dan,ELEC,VA,9.0
+meadville,ELEC,PA,6.0
+mebane,ELEC,NC,21.0
+mechanicsburg,ELEC,PA,44.0
+mechanicsville,ELEC,VA,18.0
+mechanicville,ELEC,NY,6.0
+medfield,ELEC,MA,12.0
+medford,ELEC,OR,129.0
+media,ELEC,PA,17.0
+medical lake,ELEC,WA,2.0
+medina,ELEC,OH,21.0
+medway,ELEC,MA,20.0
+meeker,ELEC,CO,3.0
+melbourne,ELEC,FL,101.0
+melbourne beach,ELEC,FL,5.0
+melissa,ELEC,TX,14.0
+melrose,ELEC,MA,29.0
+melrose park,ELEC,IL,5.0
+melville,ELEC,NY,78.0
+memphis,ELEC,TN,129.0
+mena,ELEC,AR,2.0
+menands,ELEC,NY,19.0
+menasha,ELEC,WI,5.0
+mendocino,ELEC,CA,25.0
+mendon,ELEC,MA,4.0
+mendota,ELEC,CA,28.0
+mendota heights,ELEC,MN,2.0
+menifee,ELEC,CA,31.0
+menlo park,ELEC,CA,835.0
+menomonee falls,ELEC,WI,23.0
+menomonie,ELEC,WI,11.0
+mentor,ELEC,OH,33.0
+mequon,ELEC,WI,3.0
+merced,ELEC,CA,47.0
+mercer,ELEC,PA,6.0
+mercer island,ELEC,WA,21.0
+mercersburg,ELEC,PA,2.0
+meredith,ELEC,NH,10.0
+meriden,ELEC,CT,35.0
+meridian,ELEC,ID,54.0
+merriam,ELEC,KS,21.0
+merrill,ELEC,WI,2.0
+merrillville,ELEC,IN,20.0
+merrimack,ELEC,NH,17.0
+merritt island,ELEC,FL,36.0
+mesa,ELEC,AZ,149.0
+mesa verde national park,ELEC,CO,2.0
+mescalero,ELEC,NM,2.0
+mesick,ELEC,MI,4.0
+mesquite,ELEC,TX,59.0
+metairie,ELEC,LA,27.0
+metaline falls,ELEC,WA,1.0
+methuen,ELEC,MA,28.0
+metter,ELEC,GA,11.0
+metuchen,ELEC,NJ,13.0
+miami,ELEC,FL,1017.0
+miami beach,ELEC,FL,212.0
+miami gardens,ELEC,FL,16.0
+miami lakes,ELEC,FL,33.0
+miami shores,ELEC,FL,8.0
+miami springs,ELEC,FL,2.0
+miami-dade,ELEC,FL,4.0
+miamisburg,ELEC,OH,14.0
+michigan city,ELEC,IN,36.0
+middle river,ELEC,MD,8.0
+middle village,ELEC,NY,3.0
+middleborough,ELEC,MA,26.0
+middleburg,ELEC,VA,15.0
+middleburg heights,ELEC,OH,3.0
+middlebury,ELEC,VT,27.0
+middlefield,ELEC,OH,2.0
+middlesex,ELEC,VT,4.0
+middleton,ELEC,WI,15.0
+middletown,ELEC,CT,211.0
+middletown township,ELEC,PA,8.0
+middleville,ELEC,MI,2.0
+midland,ELEC,TX,30.0
+midland beach,ELEC,NY,2.0
+midlothian,ELEC,VA,24.0
+midpines,ELEC,CA,3.0
+midvale,ELEC,UT,14.0
+midway,ELEC,GA,8.0
+midway city,ELEC,CA,4.0
+midwest city,ELEC,OK,17.0
+milan,ELEC,OH,25.0
+milbridge,ELEC,ME,1.0
+miles city,ELEC,MT,8.0
+milford,ELEC,CT,125.0
+milford charter township,ELEC,MI,5.0
+milford mill,ELEC,MD,3.0
+mililani,ELEC,HI,4.0
+mill city,ELEC,OR,8.0
+mill creek,ELEC,WA,2.0
+mill hall,ELEC,PA,12.0
+mill valley,ELEC,CA,43.0
+millbrae,ELEC,CA,78.0
+millbrook,ELEC,NY,6.0
+millburn,ELEC,NJ,3.0
+millbury,ELEC,MA,18.0
+milledgeville,ELEC,GA,14.0
+millen,ELEC,GA,8.0
+millersburg,ELEC,OH,6.0
+millersville,ELEC,PA,9.0
+millerton,ELEC,NY,6.0
+millington,ELEC,TN,65.0
+millinocket,ELEC,ME,7.0
+millport,ELEC,NY,2.0
+mills river,ELEC,NC,8.0
+millsboro,ELEC,DE,3.0
+millwood,ELEC,NY,2.0
+milpitas,ELEC,CA,200.0
+milton,ELEC,FL,30.0
+milw,ELEC,WI,5.0
+milwaukee,ELEC,WI,117.0
+milwaukie,ELEC,OR,27.0
+minden,ELEC,NV,19.0
+mineola,ELEC,NY,2.0
+miner,ELEC,MO,8.0
+mineral,ELEC,CA,2.0
+mineral city,ELEC,OH,1.0
+mineral wells,ELEC,WV,4.0
+minersville,ELEC,PA,1.0
+minetto,ELEC,NY,2.0
+minneapolis,ELEC,MN,262.0
+minneola,ELEC,FL,2.0
+minnetonka,ELEC,MN,39.0
+minocqua,ELEC,WI,8.0
+minot,ELEC,ND,10.0
+mint hill,ELEC,NC,2.0
+minturn,ELEC,CO,3.0
+mira loma,ELEC,CA,2.0
+miramar,ELEC,FL,46.0
+miramar beach,ELEC,FL,6.0
+miranda,ELEC,CA,2.0
+mishawaka,ELEC,IN,27.0
+mission,ELEC,KS,39.0
+mission hills,ELEC,CA,22.0
+mission viejo,ELEC,CA,53.0
+mission woods,ELEC,KS,4.0
+missoula,ELEC,MT,36.0
+missouri,ELEC,TX,8.0
+missouri city,ELEC,TX,9.0
+mitchell,ELEC,SD,14.0
+mitchellville,ELEC,MD,4.0
+moab,ELEC,UT,32.0
+moapa,ELEC,NV,2.0
+moberly,ELEC,MO,7.0
+mobile,ELEC,AL,72.0
+mocksville,ELEC,NC,13.0
+moclips,ELEC,WA,4.0
+modena,ELEC,NY,6.0
+modesto,ELEC,CA,95.0
+moffat,ELEC,CO,4.0
+moffett field,ELEC,CA,9.0
+mojave,ELEC,CA,73.0
+mokena,ELEC,IL,14.0
+molalla,ELEC,OR,1.0
+moline,ELEC,IL,8.0
+monahans,ELEC,TX,2.0
+monarch,ELEC,CO,2.0
+moncure,ELEC,NC,1.0
+monett,ELEC,MO,2.0
+mongtomery,ELEC,AL,2.0
+monkey island,ELEC,OK,4.0
+monkton,ELEC,MD,4.0
+monmouth,ELEC,IL,3.0
+monmouth junction,ELEC,NJ,7.0
+monon,ELEC,IN,1.0
+monona,ELEC,WI,3.0
+monroe,ELEC,WA,81.0
+monroe charter township,ELEC,MI,2.0
+monroe township,ELEC,NJ,9.0
+monroeville,ELEC,PA,36.0
+monrovia,ELEC,CA,27.0
+monsey,ELEC,NY,3.0
+montague,ELEC,MA,18.0
+montauk,ELEC,NY,27.0
+montclair,ELEC,CA,50.0
+monte sereno,ELEC,CA,5.0
+monte vista,ELEC,CO,7.0
+monteagle,ELEC,TN,12.0
+montebello,ELEC,CA,39.0
+montecito,ELEC,CA,10.0
+monterey,ELEC,CA,74.0
+monterey park,ELEC,CA,58.0
+montevallo,ELEC,AL,2.0
+montevideo,ELEC,MN,3.0
+montgomery,ELEC,AL,146.0
+montgomery center,ELEC,VT,3.0
+montgomeryville,ELEC,PA,8.0
+monticello,ELEC,NY,31.0
+montour falls,ELEC,NY,6.0
+montpelier,ELEC,VT,48.0
+montpelier station,ELEC,VA,20.0
+montreat,ELEC,NC,1.0
+montrose,ELEC,CO,34.0
+montvale,ELEC,NJ,3.0
+montverde,ELEC,FL,4.0
+montville,ELEC,NJ,3.0
+monument,ELEC,CO,8.0
+moody,ELEC,AL,1.0
+moody afb,ELEC,GA,12.0
+moon,ELEC,PA,2.0
+moon township,ELEC,PA,13.0
+moore,ELEC,OK,28.0
+moorefield,ELEC,WV,5.0
+mooreland,ELEC,OK,2.0
+moorestown,ELEC,NJ,2.0
+mooresville,ELEC,NC,43.0
+moorhead,ELEC,MN,3.0
+moorpark,ELEC,CA,32.0
+moose,ELEC,WY,3.0
+moose lake,ELEC,MN,3.0
+moosic,ELEC,PA,10.0
+mora,ELEC,MN,4.0
+moraga,ELEC,CA,17.0
+moran,ELEC,WY,2.0
+moravia,ELEC,IA,3.0
+moreau,ELEC,NY,8.0
+morehead,ELEC,KY,5.0
+morehead city,ELEC,NC,3.0
+moreno,ELEC,CA,4.0
+moreno valley,ELEC,CA,86.0
+morgan hill,ELEC,CA,49.0
+morganfield,ELEC,KY,6.0
+morganton,ELEC,GA,7.0
+morgantown,ELEC,WV,38.0
+moriarty,ELEC,NM,2.0
+morongo valley,ELEC,CA,4.0
+morral,ELEC,OH,2.0
+morrilton,ELEC,AR,3.0
+morris,ELEC,MN,14.0
+morris plains,ELEC,NJ,5.0
+morris township,ELEC,NJ,12.0
+morris twp,ELEC,NJ,4.0
+morrison,ELEC,TN,4.0
+morristown,ELEC,TN,39.0
+morrisville,ELEC,NC,72.0
+morriville,ELEC,NC,3.0
+morro bay,ELEC,CA,2.0
+morro city,ELEC,CA,4.0
+morrow,ELEC,GA,31.0
+morton,ELEC,MN,12.0
+morton grove,ELEC,IL,4.0
+mosca,ELEC,CO,4.0
+moscow,ELEC,ID,2.0
+moses lake,ELEC,WA,18.0
+mosier,ELEC,OR,1.0
+moss beach,ELEC,CA,1.0
+mossyrock,ELEC,WA,5.0
+motley,ELEC,MN,1.0
+mount airy,ELEC,MD,10.0
+mount calm,ELEC,TX,2.0
+mount dora,ELEC,FL,5.0
+mount holly,ELEC,NJ,3.0
+mount joy,ELEC,PA,2.0
+mount juliet,ELEC,TN,12.0
+mount kisco,ELEC,NY,2.0
+mount laurel,ELEC,NJ,7.0
+mount laurel township,ELEC,NJ,8.0
+mount lebanon,ELEC,PA,2.0
+mount morris,ELEC,NY,8.0
+mount olive,ELEC,NJ,1.0
+mount pleasant,ELEC,SC,47.0
+mount prospect,ELEC,IL,6.0
+mount rainier,ELEC,MD,3.0
+mount shasta,ELEC,CA,35.0
+mount tremper,ELEC,NY,8.0
+mount vernon,ELEC,WA,37.0
+mount washington,ELEC,KY,4.0
+mountain brook,ELEC,AL,8.0
+mountain home,ELEC,ID,12.0
+mountain home afb,ELEC,ID,1.0
+mountain house,ELEC,CA,12.0
+mountain top,ELEC,PA,2.0
+mountain view,ELEC,CA,361.0
+mountain village,ELEC,CO,25.0
+mountainside,ELEC,NJ,2.0
+mountlake terrace,ELEC,WA,7.0
+mt airy,ELEC,NC,20.0
+mt arlington,ELEC,NJ,2.0
+mt clemens,ELEC,MI,4.0
+mt desert,ELEC,ME,2.0
+mt hood,ELEC,OR,2.0
+mt joy,ELEC,PA,3.0
+mt laurel township,ELEC,NJ,3.0
+mt pleasant,ELEC,MI,7.0
+mt prospect,ELEC,IL,4.0
+mt sinai,ELEC,NY,4.0
+mt sterling,ELEC,KY,4.0
+mt vernon,ELEC,IA,4.0
+mt. airy,ELEC,NC,13.0
+mt. gilead,ELEC,OH,8.0
+mt. holly,ELEC,NC,1.0
+mt. hood,ELEC,OR,7.0
+mt. hope,ELEC,WV,8.0
+mt. ida,ELEC,AR,13.0
+mt. jackson,ELEC,VA,8.0
+mt. juliet,ELEC,TN,10.0
+mt. kisco,ELEC,NY,6.0
+mt. pleasant,ELEC,MI,24.0
+mt. shasta,ELEC,CA,4.0
+mt. st. francis,ELEC,IN,2.0
+mt. vernon,ELEC,IA,34.0
+mufreesboro,ELEC,TN,1.0
+mukilteo,ELEC,WA,7.0
+mulberry,ELEC,FL,4.0
+mullens,ELEC,WV,4.0
+mullica hill,ELEC,NJ,6.0
+mullins,ELEC,SC,2.0
+muncie,ELEC,IN,2.0
+muncy,ELEC,PA,7.0
+mundelein,ELEC,IL,3.0
+munroe falls,ELEC,OH,1.0
+munster,ELEC,IN,1.0
+murdo,ELEC,SD,5.0
+murfreesboro,ELEC,TN,82.0
+murphy,ELEC,NC,30.0
+murphys,ELEC,CA,7.0
+murphysboro,ELEC,IL,4.0
+murray,ELEC,UT,85.0
+murray hill,ELEC,NJ,4.0
+murrells inlet,ELEC,SC,4.0
+murrieta,ELEC,CA,63.0
+murrysville,ELEC,PA,4.0
+muscatine,ELEC,IA,24.0
+muscle shoals,ELEC,AL,2.0
+muskego,ELEC,WI,2.0
+muskegon,ELEC,MI,27.0
+muskogee,ELEC,OK,18.0
+myerstown,ELEC,PA,2.0
+myersville,ELEC,MD,4.0
+myrtle beach,ELEC,SC,76.0
+myrtle creek,ELEC,OR,11.0
+mystic,ELEC,CT,17.0
+n las vegas,ELEC,NV,2.0
+naches,ELEC,WA,3.0
+nacogdoches,ELEC,TX,10.0
+nags head,ELEC,NC,2.0
+nampa,ELEC,ID,22.0
+nantucket,ELEC,MA,25.0
+nanuet,ELEC,NY,19.0
+napa,ELEC,CA,259.0
+napa valley,ELEC,CA,5.0
+naperville,ELEC,IL,61.0
+naples,ELEC,FL,175.0
+napoleon,ELEC,OH,3.0
+narberth,ELEC,PA,20.0
+narragansett,ELEC,RI,10.0
+narvon,ELEC,PA,2.0
+nashua,ELEC,NH,31.0
+nashville,ELEC,TN,645.0
+natalia,ELEC,TX,12.0
+natchez,ELEC,MS,11.0
+natchitoches,ELEC,LA,10.0
+nathrop,ELEC,CO,2.0
+natick,ELEC,MA,39.0
+national city,ELEC,CA,52.0
+naubinway,ELEC,MI,1.0
+navarre,ELEC,FL,7.0
+navasota,ELEC,TX,5.0
+nazareth,ELEC,PA,2.0
+na’alehu,ELEC,HI,1.0
+neah bay,ELEC,WA,5.0
+nebraska city,ELEC,NE,4.0
+nederland,ELEC,CO,38.0
+needham,ELEC,MA,26.0
+needles,ELEC,CA,32.0
+needville,ELEC,TX,2.0
+neenah,ELEC,WI,7.0
+nelson,ELEC,MO,2.0
+nelsonville,ELEC,OH,3.0
+neosho,ELEC,MO,10.0
+nephi,ELEC,UT,16.0
+neptune,ELEC,NJ,2.0
+neptune beach,ELEC,FL,6.0
+neptune city,ELEC,NJ,6.0
+neptune township,ELEC,NJ,2.0
+nesconset,ELEC,NY,2.0
+netarts,ELEC,OR,2.0
+netcong,ELEC,NJ,1.0
+nevada,ELEC,MO,20.0
+new albany,ELEC,IN,43.0
+new baltimore,ELEC,MI,1.0
+new bedford,ELEC,MA,42.0
+new bern,ELEC,NC,37.0
+new boston,ELEC,OH,24.0
+new braunfels,ELEC,TX,46.0
+new bremen,ELEC,OH,1.0
+new brighton,ELEC,MN,8.0
+new britain,ELEC,CT,43.0
+new brunswick,ELEC,NJ,25.0
+new buffalo,ELEC,MI,12.0
+new canaan,ELEC,CT,20.0
+new caney,ELEC,TX,6.0
+new carrollton,ELEC,MD,8.0
+new castle,ELEC,DE,49.0
+new century,ELEC,KS,22.0
+new city,ELEC,NY,18.0
+new concord,ELEC,OH,4.0
+new cumberland,ELEC,PA,7.0
+new cuyama,ELEC,CA,2.0
+new fairfield,ELEC,CT,1.0
+new freedom,ELEC,PA,2.0
+new gloucester,ELEC,ME,1.0
+new hampton,ELEC,NY,5.0
+new harmony,ELEC,UT,2.0
+new hartford,ELEC,NY,64.0
+new haven,ELEC,CT,173.0
+new holland,ELEC,OH,4.0
+new hope,ELEC,MN,1.0
+new hudson,ELEC,MI,3.0
+new hyde park,ELEC,NY,9.0
+new iberia,ELEC,LA,4.0
+new johnsonville,ELEC,TN,2.0
+new kent,ELEC,VA,1.0
+new lebanon,ELEC,NY,2.0
+new lenox,ELEC,IL,4.0
+new london,ELEC,CT,47.0
+new market,ELEC,VA,14.0
+new milford,ELEC,CT,12.0
+new orleans,ELEC,LA,140.0
+new oxford,ELEC,PA,5.0
+new paltz,ELEC,NY,96.0
+new philadelphia,ELEC,OH,12.0
+new plymouth,ELEC,OH,2.0
+new port richey,ELEC,FL,10.0
+"new port richey, fl",ELEC,FL,8.0
+new prague,ELEC,MN,9.0
+new providence,ELEC,NJ,6.0
+new richmond,ELEC,WI,2.0
+new river,ELEC,AZ,10.0
+new rochelle,ELEC,NY,64.0
+new smyrna beach,ELEC,FL,17.0
+new springfield,ELEC,OH,16.0
+new stanton,ELEC,PA,8.0
+new ulm,ELEC,MN,8.0
+new windsor,ELEC,MD,11.0
+new york,ELEC,NY,1153.0
+new york city,ELEC,NY,24.0
+new york mills,ELEC,NY,4.0
+newark,ELEC,DE,372.0
+newaygo,ELEC,MI,8.0
+newberg,ELEC,OR,18.0
+newberry,ELEC,SC,4.0
+newburg,ELEC,MD,10.0
+newburgh,ELEC,NY,27.0
+newbury,ELEC,MA,7.0
+newbury park,ELEC,CA,36.0
+newburyport,ELEC,MA,20.0
+newcastle,ELEC,ME,8.0
+newcomb,ELEC,NY,2.0
+newfane,ELEC,VT,4.0
+newfoundland,ELEC,PA,2.0
+newington,ELEC,CT,41.0
+newmarket,ELEC,NH,1.0
+newnan,ELEC,GA,36.0
+newport,ELEC,AR,199.0
+newport beach,ELEC,CA,221.0
+newport coast,ELEC,CA,6.0
+newport news,ELEC,VA,89.0
+newry,ELEC,ME,5.0
+newton,ELEC,KS,113.0
+newton grove,ELEC,NC,2.0
+newton square,ELEC,PA,2.0
+newtown,ELEC,CT,2.0
+newtown square,ELEC,PA,2.0
+newville,ELEC,PA,4.0
+niagara falls,ELEC,NY,30.0
+niagara university,ELEC,NY,2.0
+niantic,ELEC,CT,4.0
+nicasio,ELEC,CA,8.0
+niceville,ELEC,FL,3.0
+nichols,ELEC,NY,4.0
+niles,ELEC,IL,16.0
+nipton,ELEC,CA,4.0
+niskayuna,ELEC,NY,63.0
+niwot,ELEC,CO,10.0
+noblesville,ELEC,IN,10.0
+nogales,ELEC,AZ,1.0
+noho,ELEC,CA,2.0
+nokesville,ELEC,VA,1.0
+nolanville,ELEC,TX,2.0
+norco,ELEC,CA,6.0
+norcross,ELEC,GA,46.0
+norfolk,ELEC,VA,167.0
+normal,ELEC,IL,75.0
+norman,ELEC,OK,51.0
+norridge,ELEC,IL,7.0
+norris,ELEC,MT,1.0
+norristown,ELEC,PA,4.0
+north adams,ELEC,MA,12.0
+north andover,ELEC,MA,10.0
+north attleboro,ELEC,MA,8.0
+north attleborough,ELEC,MA,27.0
+north augusta,ELEC,SC,8.0
+north aurora,ELEC,IL,26.0
+north babylon,ELEC,NY,18.0
+north bay village,ELEC,FL,4.0
+north beach,ELEC,MD,2.0
+north bellmore,ELEC,NY,2.0
+north bend,ELEC,OR,34.0
+north bennington,ELEC,VT,6.0
+north bergen,ELEC,NJ,24.0
+north berwick,ELEC,ME,1.0
+north bethesda,ELEC,MD,40.0
+north billerica,ELEC,MA,2.0
+north branch,ELEC,MI,15.0
+north branford,ELEC,CT,1.0
+north brunswick,ELEC,NJ,13.0
+north brunswick township,ELEC,NJ,13.0
+north canaan,ELEC,CT,8.0
+north canton,ELEC,OH,16.0
+north cape may,ELEC,NJ,8.0
+north charleston,ELEC,SC,60.0
+north chesterfield,ELEC,VA,2.0
+north chicago,ELEC,IL,1.0
+north chili,ELEC,NY,8.0
+north conway,ELEC,NH,21.0
+north creek,ELEC,NY,14.0
+north east,ELEC,MD,27.0
+north edwards,ELEC,CA,4.0
+north grafton,ELEC,MA,10.0
+north hampton,ELEC,NH,11.0
+north haven,ELEC,CT,15.0
+north highland,ELEC,CA,3.0
+north hills,ELEC,CA,25.0
+north hollywood,ELEC,CA,42.0
+north huntingdon,ELEC,PA,16.0
+north jackson,ELEC,OH,1.0
+north kansas city,ELEC,MO,30.0
+north kingstown,ELEC,RI,40.0
+north las vegas,ELEC,NV,29.0
+north laurel,ELEC,MD,6.0
+north little rock,ELEC,AR,55.0
+north logan,ELEC,UT,2.0
+north mankato,ELEC,MN,11.0
+north merrick,ELEC,NY,2.0
+north miami,ELEC,FL,45.0
+north miami beach,ELEC,FL,23.0
+north myrtle beach,ELEC,SC,17.0
+north olmsted,ELEC,OH,4.0
+north pekin,ELEC,IL,2.0
+north plainfield,ELEC,NJ,6.0
+north plains,ELEC,OR,1.0
+north platte,ELEC,NE,12.0
+north port,ELEC,FL,8.0
+north providence,ELEC,RI,6.0
+north reading,ELEC,MA,4.0
+north richland hills,ELEC,TX,17.0
+north richlands hills,ELEC,TX,2.0
+north river,ELEC,NY,4.0
+north riverside,ELEC,IL,2.0
+north royalton,ELEC,OH,2.0
+north salt lake,ELEC,UT,5.0
+north san jose,ELEC,CA,11.0
+north san juan,ELEC,CA,2.0
+north smithfield,ELEC,RI,3.0
+north st paul,ELEC,MN,2.0
+north stamford,ELEC,CT,8.0
+north syracuse,ELEC,NY,10.0
+north tonawanda,ELEC,NY,4.0
+north venice,ELEC,FL,1.0
+north wales,ELEC,PA,14.0
+north wildwood,ELEC,NJ,2.0
+north windham,ELEC,CT,4.0
+north yarmouth,ELEC,ME,2.0
+northampton,ELEC,MA,81.0
+northborough,ELEC,MA,32.0
+northbrook,ELEC,IL,35.0
+northeast harbor,ELEC,ME,4.0
+northeast los angeles,ELEC,CA,19.0
+northfield,ELEC,MN,34.0
+northglenn,ELEC,CO,25.0
+northlake,ELEC,TX,2.0
+northport,ELEC,MI,9.0
+northridge,ELEC,CA,90.0
+northville,ELEC,MI,41.0
+northwood,ELEC,IA,6.0
+norton,ELEC,MA,36.0
+norton shores,ELEC,MI,4.0
+nortonville,ELEC,KY,12.0
+norwalk,ELEC,CT,108.0
+norway,ELEC,ME,13.0
+norwell,ELEC,MA,16.0
+norwich,ELEC,CT,34.0
+norwood,ELEC,MA,72.0
+"norwood, ohio 45212",ELEC,OH,2.0
+notre dame,ELEC,IN,7.0
+nottingham,ELEC,MD,20.0
+novato,ELEC,CA,96.0
+novi,ELEC,MI,45.0
+nucla,ELEC,CO,2.0
+nuevo,ELEC,CA,4.0
+nutley,ELEC,NJ,2.0
+nyack,ELEC,NY,10.0
+o fallon,ELEC,MO,1.0
+o'fallon,ELEC,MO,7.0
+oacoma,ELEC,SD,8.0
+oak bluffs,ELEC,MA,2.0
+oak brook,ELEC,IL,52.0
+oak creek,ELEC,WI,27.0
+oak glen,ELEC,CA,1.0
+oak grove,ELEC,AL,9.0
+oak harbor,ELEC,OH,9.0
+oak hill,ELEC,VA,20.0
+oak island,ELEC,NC,6.0
+oak lawn,ELEC,IL,16.0
+oak park,ELEC,IL,47.0
+oak park heights,ELEC,MN,2.0
+oak ridge,ELEC,TN,12.0
+oak ridge national laboratory,ELEC,TN,34.0
+oak view,ELEC,CA,1.0
+oakbrook terrace,ELEC,IL,12.0
+oakdale,ELEC,PA,40.0
+oakhurst,ELEC,CA,31.0
+oakland,ELEC,CA,585.0
+oakland gardens,ELEC,NY,1.0
+oakland park,ELEC,FL,28.0
+oakley,ELEC,CA,17.0
+oakmont,ELEC,PA,6.0
+oakridge,ELEC,OR,4.0
+oakton,ELEC,VA,1.0
+oakville,ELEC,CA,14.0
+oakwood,ELEC,GA,2.0
+oberlin,ELEC,OH,13.0
+ocala,ELEC,FL,30.0
+occidental,ELEC,CA,2.0
+ocean city,ELEC,MD,67.0
+ocean isle beach,ELEC,NC,1.0
+ocean ridge,ELEC,FL,2.0
+ocean shores,ELEC,WA,12.0
+ocean township,ELEC,NJ,2.0
+oceanside,ELEC,CA,85.0
+ochopee,ELEC,FL,14.0
+ocoee,ELEC,FL,9.0
+oconomowoc,ELEC,WI,14.0
+oconto,ELEC,WI,1.0
+ocqueoc,ELEC,MI,2.0
+odenton,ELEC,MD,21.0
+odessa,ELEC,FL,20.0
+oelwein,ELEC,IA,2.0
+ofallon,ELEC,MO,2.0
+ogallala,ELEC,NE,16.0
+ogden,ELEC,UT,68.0
+ogdensburg,ELEC,NY,2.0
+ogunquit,ELEC,ME,12.0
+ohiopyle,ELEC,PA,2.0
+oil city,ELEC,PA,4.0
+ojai,ELEC,CA,29.0
+ojo caliente,ELEC,NM,2.0
+okarche,ELEC,OK,2.0
+okatie,ELEC,SC,2.0
+okeechobee,ELEC,FL,36.0
+okemah,ELEC,OK,2.0
+okemos,ELEC,MI,23.0
+oklahoma city,ELEC,OK,181.0
+okmulgee,ELEC,OK,8.0
+olancha,ELEC,CA,9.0
+olanta,ELEC,SC,2.0
+olathe,ELEC,KS,101.0
+old bridge,ELEC,NJ,24.0
+old faithful,ELEC,WY,2.0
+old forge,ELEC,NY,14.0
+old fort,ELEC,NC,12.0
+old hickory,ELEC,TN,1.0
+old lyme,ELEC,CT,2.0
+old orchard beach,ELEC,ME,1.0
+old saybrook,ELEC,CT,26.0
+old town,ELEC,ME,1.0
+old westbury,ELEC,NY,7.0
+oldsmar,ELEC,FL,13.0
+olean,ELEC,NY,16.0
+olema,ELEC,CA,6.0
+olga,ELEC,WA,1.0
+olive branch,ELEC,MS,1.0
+olive hill,ELEC,KY,2.0
+olivehurst,ELEC,CA,1.0
+olivia,ELEC,MN,2.0
+olney,ELEC,MD,7.0
+olympia,ELEC,WA,98.0
+olympic valley,ELEC,CA,15.0
+omaha,ELEC,NE,184.0
+omak,ELEC,WA,1.0
+onalaska,ELEC,WI,17.0
+onamia,ELEC,MN,24.0
+onancock,ELEC,VA,2.0
+onaway,ELEC,MI,6.0
+oneida,ELEC,TN,46.0
+onekama,ELEC,MI,2.0
+oneonta,ELEC,NY,27.0
+ontario,ELEC,CA,251.0
+oocala,ELEC,FL,8.0
+ooltewah,ELEC,TN,15.0
+opelika,ELEC,AL,16.0
+opelousas,ELEC,LA,2.0
+oracle,ELEC,AZ,3.0
+oradell,ELEC,NJ,4.0
+orange,ELEC,CA,242.0
+orange beach,ELEC,AL,10.0
+orange city,ELEC,IA,3.0
+orange cove,ELEC,CA,5.0
+orange park,ELEC,FL,2.0
+orangeburg,ELEC,SC,16.0
+orangevale,ELEC,CA,2.0
+orchard park,ELEC,NY,25.0
+ord,ELEC,NE,2.0
+oregon,ELEC,WI,6.0
+oregon city,ELEC,OR,30.0
+orem,ELEC,UT,57.0
+orick,ELEC,CA,4.0
+oriental,ELEC,NC,2.0
+oriskany,ELEC,NY,4.0
+orkney springs,ELEC,VA,4.0
+orlado,ELEC,FL,3.0
+orland,ELEC,ME,7.0
+orland park,ELEC,IL,20.0
+orlando,ELEC,FL,814.0
+"orlando, fl",ELEC,FL,16.0
+orleans,ELEC,MA,21.0
+ormond beach,ELEC,FL,18.0
+oro valley,ELEC,AZ,10.0
+orono,ELEC,ME,3.0
+oronoco,ELEC,MN,2.0
+orovada,ELEC,NV,2.0
+oroville,ELEC,WA,12.0
+orrtanna,ELEC,PA,2.0
+ortonville,ELEC,MI,2.0
+osage,ELEC,IA,6.0
+osage beach,ELEC,MO,14.0
+osawatomie,ELEC,KS,22.0
+osburn,ELEC,ID,2.0
+osceola,ELEC,AR,18.0
+oscoda,ELEC,MI,4.0
+oshkosh,ELEC,WI,16.0
+oskaloosa,ELEC,IA,2.0
+ossian,ELEC,IN,1.0
+ossining,ELEC,NY,27.0
+oswego,ELEC,NY,47.0
+otis,ELEC,OR,4.0
+otisville,ELEC,NY,1.0
+otsego,ELEC,MI,2.0
+ottawa,ELEC,IL,2.0
+ottawa lake,ELEC,MI,5.0
+ouray,ELEC,CO,4.0
+ovando,ELEC,MT,1.0
+overland park,ELEC,KS,327.0
+oviedo,ELEC,FL,29.0
+owasso,ELEC,OK,19.0
+owatonna,ELEC,MN,24.0
+owensboro,ELEC,KY,1.0
+owigsburg,ELEC,PA,2.0
+owings,ELEC,MD,2.0
+owings mills,ELEC,MD,75.0
+owosso,ELEC,MI,17.0
+oxford,ELEC,AL,121.0
+oxnard,ELEC,CA,106.0
+oxon hill,ELEC,MD,56.0
+oyster bay,ELEC,NY,2.0
+ozark,ELEC,MO,22.0
+ozona,ELEC,TX,10.0
+ozone park,ELEC,NY,2.0
+pace,ELEC,FL,4.0
+pacific beach,ELEC,WA,8.0
+pacific city,ELEC,OR,2.0
+pacific grove,ELEC,CA,36.0
+pacific palisades,ELEC,CA,19.0
+pacifica,ELEC,CA,10.0
+packwood,ELEC,WA,2.0
+pacoima,ELEC,CA,2.0
+paducah,ELEC,KY,9.0
+page,ELEC,AZ,8.0
+pageland,ELEC,SC,1.0
+pagosa springs,ELEC,CO,9.0
+pahala,ELEC,HI,2.0
+pahoa,ELEC,HI,2.0
+pahrump,ELEC,NV,2.0
+paicines,ELEC,CA,2.0
+painted post,ELEC,NY,16.0
+paintsville,ELEC,KY,1.0
+pala,ELEC,CA,4.0
+palacios,ELEC,TX,4.0
+palastine,ELEC,TX,4.0
+palatine,ELEC,IL,6.0
+palatka,ELEC,FL,10.0
+palestine,ELEC,TX,4.0
+pall mall,ELEC,TN,2.0
+palm bay,ELEC,FL,26.0
+palm beach,ELEC,FL,17.0
+palm beach gardens,ELEC,FL,92.0
+palm city,ELEC,FL,6.0
+palm coast,ELEC,FL,29.0
+palm desert,ELEC,CA,139.0
+palm harbor,ELEC,FL,8.0
+palm springs,ELEC,CA,166.0
+palmdale,ELEC,CA,159.0
+palmer,ELEC,MA,26.0
+palmetto,ELEC,FL,9.0
+palmetto bay,ELEC,FL,9.0
+palmyra,ELEC,PA,11.0
+palo alto,ELEC,CA,654.0
+palo cedro,ELEC,CA,4.0
+palos heights,ELEC,IL,2.0
+palos hills,ELEC,IL,2.0
+panaca,ELEC,NV,3.0
+panama city,ELEC,FL,29.0
+panama city beach,ELEC,FL,27.0
+panorama city,ELEC,CA,16.0
+panton,ELEC,VT,1.0
+paoli,ELEC,OK,14.0
+paonia,ELEC,CO,7.0
+papa'aloa,ELEC,HI,1.0
+papillion,ELEC,NE,2.0
+parachute,ELEC,CO,17.0
+paradise,ELEC,PA,3.0
+paradise valley,ELEC,AZ,7.0
+paragould,ELEC,AR,10.0
+paramount,ELEC,CA,8.0
+paramus,ELEC,NJ,111.0
+paris,ELEC,TN,17.0
+parish,ELEC,NY,10.0
+park city,ELEC,UT,140.0
+park forest,ELEC,IL,2.0
+park rapids,ELEC,MN,2.0
+park ridge,ELEC,IL,8.0
+parker,ELEC,CO,42.0
+parkersburg,ELEC,WV,18.0
+parkland,ELEC,FL,2.0
+parkville,ELEC,MD,9.0
+parlier,ELEC,CA,8.0
+parma,ELEC,OH,6.0
+parma heights,ELEC,OH,2.0
+parris island,ELEC,SC,2.0
+parrish,ELEC,FL,4.0
+parshall,ELEC,CO,6.0
+parsippany,ELEC,NJ,23.0
+parsippany troy hills,ELEC,NJ,2.0
+parsippany-troy hills,ELEC,NJ,16.0
+parsons,ELEC,KS,4.0
+pasadena,ELEC,CA,677.0
+pascagoula,ELEC,MS,2.0
+pasco,ELEC,WA,25.0
+paso robles,ELEC,CA,184.0
+pass christian,ELEC,MS,1.0
+passaic,ELEC,NJ,4.0
+patchogue,ELEC,NY,20.0
+pateros,ELEC,WA,1.0
+patterson,ELEC,CA,26.0
+patton,ELEC,PA,2.0
+patuxent river,ELEC,MD,14.0
+paul smiths,ELEC,NY,10.0
+pauls valley,ELEC,OK,8.0
+paulsboro,ELEC,NJ,8.0
+paw paw,ELEC,MI,1.0
+pawhuska,ELEC,OK,4.0
+pawleys island,ELEC,SC,6.0
+pawling,ELEC,NY,2.0
+pawnee,ELEC,IL,4.0
+pawtucket,ELEC,RI,18.0
+payette,ELEC,ID,2.0
+payson,ELEC,AZ,17.0
+peabody,ELEC,MA,7.0
+peacham,ELEC,VT,2.0
+peachtree city,ELEC,GA,33.0
+peachtree corners,ELEC,GA,35.0
+pearisburg,ELEC,VA,2.0
+pearl,ELEC,MS,8.0
+pearl city,ELEC,HI,18.0
+pearl harbor,ELEC,HI,16.0
+pearl river,ELEC,NY,22.0
+pearland,ELEC,TX,41.0
+pebble beach,ELEC,CA,10.0
+peconic,ELEC,NY,2.0
+pecos,ELEC,TX,15.0
+peculiar,ELEC,MO,2.0
+pedricktown,ELEC,NJ,17.0
+peekskill,ELEC,NY,4.0
+pelham,ELEC,AL,1.0
+pell city,ELEC,AL,2.0
+pella,ELEC,IA,1.0
+pembroke,ELEC,NC,6.0
+pembroke pines,ELEC,FL,57.0
+pendleton,ELEC,OR,15.0
+penfield,ELEC,NY,7.0
+peninsula,ELEC,OH,2.0
+penn valley,ELEC,PA,4.0
+penn yan,ELEC,NY,4.0
+pennington,ELEC,NJ,6.0
+pennington gap,ELEC,VA,2.0
+pennsauken,ELEC,NJ,3.0
+pennsauken township,ELEC,NJ,1.0
+pensacola,ELEC,FL,53.0
+pensacola beach,ELEC,FL,7.0
+pentwater,ELEC,MI,2.0
+peoria,ELEC,AZ,72.0
+pepper pike,ELEC,OH,2.0
+pequot lakes,ELEC,MN,2.0
+perham,ELEC,MN,4.0
+perris,ELEC,CA,17.0
+perry,ELEC,OK,36.0
+perry hall,ELEC,MD,19.0
+perry point,ELEC,MD,2.0
+perrysburg,ELEC,OH,10.0
+perryton,ELEC,TX,1.0
+perryville,ELEC,MO,7.0
+perth amboy,ELEC,NJ,12.0
+peru,ELEC,IL,37.0
+petaluma,ELEC,CA,182.0
+peterborough,ELEC,NH,4.0
+peterburg,ELEC,FL,6.0
+petersburg,ELEC,VA,14.0
+peterson afb,ELEC,CO,1.0
+petoskey,ELEC,MI,14.0
+petrified forest,ELEC,AZ,2.0
+pevely,ELEC,MO,6.0
+peñasco,ELEC,NM,2.0
+pflugerville,ELEC,TX,38.0
+phenix city,ELEC,AL,3.0
+philadelphia,ELEC,PA,434.0
+philipsburg,ELEC,MT,4.0
+phillips,ELEC,ME,5.0
+philmont,ELEC,NY,2.0
+philo,ELEC,CA,10.0
+philomath,ELEC,OR,8.0
+phippsburg,ELEC,ME,1.0
+phoenix,ELEC,AZ,719.0
+phoenix city,ELEC,AL,1.0
+phoenixville,ELEC,PA,21.0
+picayune,ELEC,MS,1.0
+pickens,ELEC,SC,4.0
+pickerington,ELEC,OH,9.0
+pico rivera,ELEC,CA,16.0
+piedmont,ELEC,OK,29.0
+piermont,ELEC,NY,1.0
+pierre,ELEC,SD,10.0
+pigeon,ELEC,MI,1.0
+pigeon forge,ELEC,TN,66.0
+pike road,ELEC,AL,2.0
+pikesville,ELEC,MD,4.0
+pikeville,ELEC,KY,5.0
+pilot mountain,ELEC,NC,2.0
+pinckney,ELEC,MI,5.0
+pine,ELEC,CO,7.0
+pine bluff,ELEC,AR,4.0
+pine bluffs,ELEC,WY,3.0
+pine brook,ELEC,NJ,2.0
+pine city,ELEC,MN,12.0
+pine knot,ELEC,KY,1.0
+pine plains,ELEC,NY,2.0
+pine river,ELEC,MN,3.0
+pinecrest,ELEC,FL,7.0
+pinedale,ELEC,WY,7.0
+pinehurst,ELEC,NC,20.0
+pinellas park,ELEC,FL,17.0
+pinetop,ELEC,AZ,3.0
+pinetop-lakeside,ELEC,AZ,4.0
+pineville,ELEC,LA,4.0
+pinole,ELEC,CA,8.0
+pipestem,ELEC,WV,8.0
+pipestone,ELEC,MN,5.0
+piqua,ELEC,OH,5.0
+piscataway,ELEC,NJ,54.0
+pisgah forest,ELEC,NC,4.0
+pismo beach,ELEC,CA,46.0
+pitkin,ELEC,CO,4.0
+pittsboro,ELEC,NC,22.0
+pittsburg,ELEC,KS,36.0
+pittsburgh,ELEC,PA,640.0
+pittsfield,ELEC,MA,25.0
+pittsford,ELEC,NY,20.0
+pittston,ELEC,PA,12.0
+placentia,ELEC,CA,22.0
+placerville,ELEC,CA,104.0
+plain city,ELEC,OH,5.0
+plainfield,ELEC,IN,25.0
+plains,ELEC,GA,5.0
+plainsboro,ELEC,NJ,10.0
+plainsboro township,ELEC,NJ,6.0
+plainview,ELEC,NY,30.0
+plainville,ELEC,MA,13.0
+plainwell,ELEC,MI,1.0
+plano,ELEC,TX,236.0
+plant city,ELEC,FL,30.0
+plantation,ELEC,FL,48.0
+plantsville,ELEC,CT,8.0
+platte city,ELEC,MO,3.0
+plattekill,ELEC,NY,1.0
+platteville,ELEC,WI,6.0
+plattsburgh,ELEC,NY,62.0
+plattsmouth,ELEC,NE,2.0
+playa del rey,ELEC,CA,27.0
+playa vista,ELEC,CA,4.0
+"playa vista, ca",ELEC,CA,14.0
+pleasant grove,ELEC,UT,12.0
+pleasant hill,ELEC,MO,66.0
+pleasant hills,ELEC,PA,3.0
+pleasant plains,ELEC,IL,5.0
+pleasant prairie,ELEC,WI,16.0
+pleasant valley,ELEC,NY,8.0
+pleasanton,ELEC,CA,208.0
+pleasantville,ELEC,NY,14.0
+plover,ELEC,WI,1.0
+plum branch,ELEC,SC,2.0
+plymouth,ELEC,NH,154.0
+plymouth meeting,ELEC,PA,30.0
+pocahontas,ELEC,AR,3.0
+pocatello,ELEC,ID,21.0
+pocomoke,ELEC,MD,6.0
+pocono manor,ELEC,PA,8.0
+poinciana,ELEC,FL,2.0
+point arena,ELEC,CA,8.0
+point clear,ELEC,AL,4.0
+point harbor,ELEC,NC,1.0
+point lookout,ELEC,NY,2.0
+point mugu,ELEC,CA,28.0
+point of rocks,ELEC,MD,4.0
+point reyes station,ELEC,CA,9.0
+poland,ELEC,ME,3.0
+polk city,ELEC,IA,2.0
+pollock,ELEC,LA,3.0
+pollock pines,ELEC,CA,6.0
+polson,ELEC,MT,2.0
+pomeroy,ELEC,OH,1.0
+pomfret,ELEC,CT,2.0
+pomfret center,ELEC,CT,2.0
+pomona,ELEC,CA,95.0
+pompano,ELEC,FL,4.0
+pompano beach,ELEC,FL,74.0
+pompton lakes,ELEC,NJ,16.0
+pompton plains,ELEC,NJ,4.0
+ponca city,ELEC,OK,8.0
+ponce,ELEC,PR,1.0
+"ponce bypass,",ELEC,PR,1.0
+poncha springs,ELEC,CO,8.0
+ponchatoula,ELEC,LA,1.0
+ponderay,ELEC,ID,2.0
+ponte vedra,ELEC,FL,2.0
+ponte vedra beach,ELEC,FL,4.0
+ponte vedre,ELEC,FL,1.0
+pontiac,ELEC,MI,31.0
+pontotoc,ELEC,MS,2.0
+pooler,ELEC,GA,55.0
+poolesville,ELEC,MD,7.0
+poplar bluff,ELEC,MO,9.0
+porland,ELEC,OR,4.0
+port angeles,ELEC,WA,29.0
+port aransas,ELEC,TX,14.0
+port arthur,ELEC,TX,2.0
+port austin,ELEC,MI,4.0
+port charlotte,ELEC,FL,14.0
+port chester,ELEC,NY,12.0
+port clinton,ELEC,OH,10.0
+port deposit,ELEC,MD,7.0
+port hadlock,ELEC,WA,2.0
+port henry,ELEC,NY,6.0
+port hueneme,ELEC,CA,38.0
+port huron,ELEC,MI,25.0
+port jefferson,ELEC,NY,12.0
+port jefferson station,ELEC,NY,5.0
+port jervis,ELEC,NY,4.0
+port lavaca,ELEC,TX,3.0
+port of hueneme,ELEC,CA,2.0
+port orange,ELEC,FL,9.0
+port orchard,ELEC,WA,21.0
+port orford,ELEC,OR,5.0
+port richey,ELEC,FL,16.0
+port saint lucie,ELEC,FL,16.0
+port st lucie,ELEC,FL,6.0
+port st. lucie,ELEC,FL,38.0
+port townsend,ELEC,WA,15.0
+port wentworth,ELEC,GA,1.0
+portage,ELEC,MI,72.0
+portalnd,ELEC,OR,4.0
+porter,ELEC,IN,18.0
+porter corners,ELEC,NY,10.0
+porter ranch,ELEC,CA,4.0
+portersville,ELEC,PA,4.0
+porterville,ELEC,CA,51.0
+portland,ELEC,OR,756.0
+portola valley,ELEC,CA,12.0
+portsmouth,ELEC,NH,119.0
+posen,ELEC,MI,2.0
+post falls,ELEC,ID,7.0
+postville,ELEC,IA,2.0
+potomac,ELEC,MD,21.0
+potosi,ELEC,MO,2.0
+potsdam,ELEC,NY,13.0
+potter,ELEC,NE,3.0
+pottstown,ELEC,PA,22.0
+pottsville,ELEC,PA,8.0
+poughkeepsie,ELEC,NY,63.0
+"poughkeepsie, ny",ELEC,NY,16.0
+poughquag,ELEC,NY,8.0
+poulsbo,ELEC,WA,24.0
+poultney,ELEC,VT,1.0
+pound ridge,ELEC,NY,4.0
+poway,ELEC,CA,14.0
+powder springs,ELEC,GA,2.0
+powderly,ELEC,KY,1.0
+powell,ELEC,OH,15.0
+powells point,ELEC,NC,2.0
+prairie city,ELEC,OR,2.0
+prairie du chien,ELEC,WI,8.0
+prairie du sac,ELEC,WI,8.0
+prairie village,ELEC,KS,20.0
+pratt,ELEC,KS,1.0
+prattville,ELEC,AL,27.0
+prescott,ELEC,AZ,21.0
+prescott valley,ELEC,AZ,9.0
+presque isle,ELEC,ME,6.0
+preston,ELEC,MN,3.0
+prewitt,ELEC,NM,2.0
+price,ELEC,UT,14.0
+primm,ELEC,NV,42.0
+prince frederick,ELEC,MD,10.0
+prince george,ELEC,VA,1.0
+princess anne,ELEC,MD,2.0
+princeton,ELEC,NJ,95.0
+princeville,ELEC,HI,6.0
+prineville,ELEC,OR,6.0
+prior lake,ELEC,MN,22.0
+prospect,ELEC,KY,4.0
+prosper,ELEC,TX,4.0
+prosperity,ELEC,SC,2.0
+prosser,ELEC,WA,2.0
+providence,ELEC,RI,198.0
+provincetown,ELEC,MA,16.0
+provo,ELEC,UT,67.0
+pryor,ELEC,OK,3.0
+pueblo,ELEC,CO,53.0
+pueblo west,ELEC,CO,5.0
+pukalani,ELEC,HI,8.0
+pulaski,ELEC,NY,10.0
+pullman,ELEC,WA,24.0
+punta gorda,ELEC,FL,12.0
+purcell,ELEC,OK,8.0
+purcellville,ELEC,VA,10.0
+purchase,ELEC,NY,6.0
+putnam,ELEC,CT,15.0
+putney,ELEC,VT,3.0
+puyallup,ELEC,WA,53.0
+pāhoa,ELEC,HI,3.0
+quakertown,ELEC,PA,28.0
+quanah,ELEC,TX,8.0
+quantico,ELEC,VA,15.0
+quarryville,ELEC,PA,2.0
+quartzsite,ELEC,AZ,130.0
+quechee,ELEC,VT,5.0
+queen creek,ELEC,AZ,18.0
+queens,ELEC,NY,134.0
+queensbury,ELEC,NY,93.0
+queenstown,ELEC,MD,7.0
+questa,ELEC,NM,4.0
+quil ceda village,ELEC,WA,4.0
+quinault,ELEC,WA,2.0
+quincy,ELEC,MA,83.0
+quinton,ELEC,AL,3.0
+rabun gap,ELEC,GA,3.0
+racine,ELEC,WI,7.0
+radcliff,ELEC,KY,3.0
+radford,ELEC,VA,2.0
+radnor,ELEC,PA,4.0
+raeford,ELEC,NC,4.0
+rahway,ELEC,NJ,37.0
+rainbow city,ELEC,AL,2.0
+rainier,ELEC,OR,3.0
+rainsville,ELEC,AL,2.0
+raleigh,ELEC,NC,344.0
+ramona,ELEC,CA,10.0
+ramsey,ELEC,NJ,31.0
+rancho cordova,ELEC,CA,98.0
+rancho cucamonga,ELEC,CA,97.0
+rancho mirage,ELEC,CA,65.0
+rancho mission viejo,ELEC,CA,11.0
+rancho murieta,ELEC,CA,4.0
+rancho palos verdes,ELEC,CA,4.0
+rancho santa fe,ELEC,CA,14.0
+rancho santa margarita,ELEC,CA,6.0
+ranchos de taos,ELEC,NM,6.0
+randallstown,ELEC,MD,5.0
+randle,ELEC,WA,2.0
+randolph,ELEC,NJ,8.0
+randolph center,ELEC,VT,3.0
+rangeley,ELEC,ME,3.0
+rankin,ELEC,PA,4.0
+ransomville,ELEC,NY,2.0
+raphine,ELEC,VA,14.0
+rapid city,ELEC,SD,32.0
+rapid ciy,ELEC,SD,4.0
+raritan,ELEC,NJ,7.0
+raton,ELEC,NM,6.0
+ravena,ELEC,NY,1.0
+ravenel,ELEC,SC,2.0
+rawlings,ELEC,VA,1.0
+rawlins,ELEC,WY,12.0
+rawsonville,ELEC,VT,1.0
+ray brook,ELEC,NY,4.0
+raymond,ELEC,ME,15.0
+raymondville,ELEC,TX,2.0
+raymore,ELEC,MO,10.0
+raynham,ELEC,MA,10.0
+raytown,ELEC,MO,11.0
+reading,ELEC,PA,49.0
+red bank,ELEC,NJ,20.0
+red bluff,ELEC,CA,33.0
+red hook,ELEC,NY,33.0
+red lake,ELEC,MN,2.0
+red lion,ELEC,PA,6.0
+red lodge,ELEC,MT,8.0
+red oak,ELEC,TX,16.0
+red river,ELEC,NM,4.0
+red wing,ELEC,MN,7.0
+redding,ELEC,CA,103.0
+redford,ELEC,MI,2.0
+redford charter twp,ELEC,MI,3.0
+redington shores,ELEC,FL,2.0
+redlands,ELEC,CA,102.0
+redmond,ELEC,WA,100.0
+redondo beach,ELEC,CA,44.0
+redstone historic district,ELEC,CO,1.0
+redwood city,ELEC,CA,397.0
+redwood falls,ELEC,MN,3.0
+redwood valley,ELEC,CA,8.0
+reed city,ELEC,MI,4.0
+reedley,ELEC,CA,6.0
+reedly,ELEC,CA,2.0
+reedsburg,ELEC,WI,3.0
+reedsport,ELEC,OR,6.0
+reedsville,ELEC,PA,2.0
+reedville,ELEC,VA,1.0
+rego park,ELEC,NY,10.0
+rehoboth,ELEC,DE,10.0
+rehoboth beach,ELEC,DE,47.0
+reidsville,ELEC,NC,6.0
+reisterstown,ELEC,MD,8.0
+reistertown,ELEC,MD,6.0
+renfrew,ELEC,PA,4.0
+reno,ELEC,NV,279.0
+rensselaer,ELEC,NY,38.0
+renton,ELEC,WA,136.0
+represa,ELEC,CA,43.0
+republic,ELEC,MO,2.0
+research triangle park,ELEC,NC,32.0
+reseda,ELEC,CA,4.0
+reston,ELEC,VA,219.0
+reva,ELEC,VA,2.0
+revere,ELEC,MA,57.0
+rexburg,ELEC,ID,3.0
+reynolds,ELEC,GA,1.0
+reynoldsburg,ELEC,OH,8.0
+rhinebeck,ELEC,NY,17.0
+rhinelander,ELEC,WI,6.0
+rialto,ELEC,CA,21.0
+rice lake,ELEC,WI,1.0
+rich hill,ELEC,MO,3.0
+rich square,ELEC,NC,2.0
+richalnd,ELEC,WA,2.0
+richardson,ELEC,TX,47.0
+richboro,ELEC,PA,2.0
+richburg,ELEC,SC,2.0
+richfield,ELEC,MN,22.0
+richland,ELEC,MO,103.0
+richland center,ELEC,WI,2.0
+richmond,ELEC,VA,569.0
+richmond heights,ELEC,MO,4.0
+richmond hill,ELEC,GA,5.0
+richwood,ELEC,TX,1.0
+rickreall,ELEC,OR,3.0
+rico,ELEC,CO,2.0
+ridge,ELEC,VA,3.0
+ridgecrest,ELEC,CA,6.0
+ridgedale,ELEC,MO,21.0
+ridgefield,ELEC,CT,65.0
+ridgeland,ELEC,MS,30.0
+ridgeville,ELEC,SC,18.0
+ridgeway,ELEC,VA,2.0
+ridgewood,ELEC,NJ,9.0
+ridgway,ELEC,CO,8.0
+rifle,ELEC,CO,8.0
+ringgold,ELEC,GA,3.0
+rio dell,ELEC,CA,2.0
+rio grande,ELEC,PR,5.0
+rio grande city,ELEC,TX,2.0
+rio hondo,ELEC,TX,2.0
+rio rancho,ELEC,NM,5.0
+rio vista,ELEC,CA,4.0
+ripley,ELEC,WV,4.0
+ripon,ELEC,CA,4.0
+rising sun,ELEC,MD,2.0
+rittman,ELEC,OH,3.0
+ritzville,ELEC,WA,9.0
+river forest,ELEC,IL,2.0
+river grove,ELEC,IL,4.0
+riverdale,ELEC,UT,21.0
+riverdale park,ELEC,MD,16.0
+riverhead,ELEC,NY,62.0
+riverside,ELEC,CA,385.0
+riverton,ELEC,WY,12.0
+riverview,ELEC,FL,35.0
+riviera beach,ELEC,FL,31.0
+roan mountain,ELEC,TN,2.0
+roanoke,ELEC,VA,76.0
+roanoke rapids,ELEC,NC,16.0
+robbins,ELEC,NC,2.0
+robbinsdale,ELEC,MN,12.0
+robbinsville,ELEC,NC,21.0
+robert lee,ELEC,TX,3.0
+robertsdale,ELEC,AL,16.0
+robinsonille,ELEC,MS,4.0
+robinsonville,ELEC,MS,4.0
+roche harbor,ELEC,WA,5.0
+rochelle,ELEC,IL,12.0
+rochelle park,ELEC,NJ,3.0
+rocheport,ELEC,MO,2.0
+rochester,ELEC,NY,507.0
+rochester hills,ELEC,MI,18.0
+rock creek,ELEC,OH,2.0
+rock hill,ELEC,SC,59.0
+rock island,ELEC,IL,1.0
+rock rapids,ELEC,IA,2.0
+rock springs,ELEC,WY,15.0
+rock valley,ELEC,IA,2.0
+rockaway,ELEC,NJ,16.0
+rockaway beach,ELEC,OR,2.0
+rockaway park,ELEC,NY,2.0
+rockbridge,ELEC,OH,2.0
+rockford,ELEC,IL,45.0
+rockingham,ELEC,NC,14.0
+rockland,ELEC,MA,24.0
+rockledge,ELEC,FL,14.0
+rockleigh,ELEC,NJ,4.0
+rocklin,ELEC,CA,77.0
+rockport,ELEC,WA,48.0
+rockville,ELEC,MD,199.0
+rockville centre,ELEC,NY,7.0
+rockwall,ELEC,TX,18.0
+rocky hill,ELEC,CT,16.0
+rocky mount,ELEC,NC,33.0
+rocky ridge,ELEC,MD,3.0
+rocky river,ELEC,OH,2.0
+rocky top,ELEC,TN,2.0
+rockyhill,ELEC,CT,2.0
+rodeo,ELEC,NM,3.0
+roeland park,ELEC,KS,2.0
+rogers,ELEC,AR,19.0
+rogers city,ELEC,MI,4.0
+rogersville,ELEC,TN,2.0
+rohnert park,ELEC,CA,62.0
+roland,ELEC,OK,6.0
+rolesville,ELEC,NC,2.0
+rolla,ELEC,MO,10.0
+rolling hills estate,ELEC,CA,3.0
+rolling hills estates,ELEC,CA,27.0
+rolling meadow,ELEC,IL,2.0
+rolling meadows,ELEC,IL,38.0
+rolling prairie,ELEC,IN,20.0
+rollinsville,ELEC,CO,1.0
+rome,ELEC,NY,29.0
+romeo,ELEC,MI,2.0
+romeoville,ELEC,IL,8.0
+romney,ELEC,WV,2.0
+romulus,ELEC,MI,16.0
+ronceverte,ELEC,WV,1.0
+ronkonkoma,ELEC,NY,3.0
+ronks,ELEC,PA,2.0
+roosevelt,ELEC,UT,1.0
+rosalia,ELEC,WA,1.0
+roscoe,ELEC,NY,8.0
+roscommon,ELEC,MI,2.0
+rose hill,ELEC,NC,2.0
+roseau,ELEC,MN,1.0
+roseburg,ELEC,OR,39.0
+rosedale,ELEC,MD,14.0
+roseland,ELEC,NJ,10.0
+roselle,ELEC,IL,4.0
+roselle park,ELEC,NJ,3.0
+rosemary beach,ELEC,FL,1.0
+rosemead,ELEC,CA,20.0
+rosemont,ELEC,IL,36.0
+rosemount,ELEC,MN,2.0
+rosenberg,ELEC,TX,5.0
+rosendale,ELEC,NY,2.0
+roseville,ELEC,CA,222.0
+rosholt,ELEC,WI,1.0
+roslyn,ELEC,NY,5.0
+roslyn heights,ELEC,NY,8.0
+ross,ELEC,CA,5.0
+rossford,ELEC,OH,16.0
+rosslyn,ELEC,VA,1.0
+rossville,ELEC,IL,2.0
+roswell,ELEC,GA,71.0
+rotterdam,ELEC,NY,12.0
+round lake,ELEC,NY,4.0
+round rock,ELEC,TX,88.0
+round top,ELEC,TX,1.0
+rouses point,ELEC,NY,2.0
+rowland heights,ELEC,CA,10.0
+rowlett,ELEC,TX,13.0
+rowley,ELEC,MA,7.0
+roxboro,ELEC,NC,2.0
+roxbury,ELEC,VT,14.0
+roy,ELEC,UT,5.0
+royal,ELEC,AR,1.0
+royal oak,ELEC,MI,31.0
+royal palm beach,ELEC,FL,10.0
+royalton,ELEC,VT,11.0
+royersford,ELEC,PA,8.0
+royse city,ELEC,TX,18.0
+ruby,ELEC,NY,1.0
+rugby,ELEC,ND,1.0
+ruidoso,ELEC,NM,4.0
+rumford,ELEC,ME,2.0
+runnemede,ELEC,NJ,2.0
+running springs,ELEC,CA,1.0
+rush,ELEC,NY,4.0
+rushford,ELEC,MN,4.0
+rushville,ELEC,IN,6.0
+russell,ELEC,KS,8.0
+russells point,ELEC,OH,10.0
+russellville,ELEC,AR,13.0
+ruston,ELEC,LA,14.0
+rutherford,ELEC,NJ,34.0
+rutland,ELEC,VT,30.0
+rye,ELEC,NY,12.0
+rye brook,ELEC,NY,4.0
+sabetha,ELEC,KS,1.0
+sabillasville,ELEC,MD,2.0
+sachse,ELEC,TX,6.0
+saco,ELEC,ME,15.0
+sacramento,ELEC,CA,1259.0
+saddle brook,ELEC,NJ,5.0
+safety harbor,ELEC,FL,9.0
+safford,ELEC,AZ,3.0
+sag harbor,ELEC,NY,7.0
+sagamore beach,ELEC,MA,8.0
+saginaw,ELEC,MI,32.0
+sagle,ELEC,ID,2.0
+saguache,ELEC,CO,2.0
+saint albans city,ELEC,VT,2.0
+saint augustine,ELEC,FL,12.0
+saint charles,ELEC,MD,4.0
+saint cloud,ELEC,FL,8.0
+saint davids,ELEC,PA,4.0
+saint francisville,ELEC,LA,2.0
+saint george,ELEC,UT,26.0
+saint helena,ELEC,CA,63.0
+saint henry,ELEC,OH,2.0
+saint james,ELEC,NY,8.0
+saint johns,ELEC,FL,10.0
+saint johnsbury,ELEC,VT,6.0
+saint joseph,ELEC,MO,26.0
+saint louis,ELEC,MO,19.0
+saint louis county,ELEC,MO,10.0
+saint louis park,ELEC,MN,12.0
+saint marys,ELEC,OH,2.0
+saint michaels,ELEC,MD,2.0
+saint paul,ELEC,MN,72.0
+saint pete beach,ELEC,FL,6.0
+saint peter,ELEC,MN,8.0
+saint peters,ELEC,MO,1.0
+saint petersburg,ELEC,FL,17.0
+salado,ELEC,TX,1.0
+salamanca,ELEC,NY,13.0
+salem,ELEC,OR,331.0
+salida,ELEC,CO,26.0
+salina,ELEC,KS,39.0
+salinas,ELEC,CA,112.0
+saline,ELEC,MI,7.0
+salisbury,ELEC,NC,129.0
+salkum,ELEC,WA,2.0
+sallisaw,ELEC,OK,4.0
+salmon,ELEC,ID,1.0
+salt lake city,ELEC,UT,480.0
+salters,ELEC,SC,2.0
+saltese,ELEC,MT,2.0
+saluda,ELEC,NC,4.0
+sammamish,ELEC,WA,17.0
+san angelo,ELEC,TX,29.0
+san anselmo,ELEC,CA,8.0
+san antonio,ELEC,TX,452.0
+san ardo,ELEC,CA,16.0
+san bernardino,ELEC,CA,221.0
+san bruno,ELEC,CA,73.0
+san carlos,ELEC,CA,41.0
+san clemente,ELEC,CA,100.0
+san diego,ELEC,CA,2236.0
+san dimas,ELEC,CA,22.0
+san fernando,ELEC,CA,33.0
+san francisco,ELEC,CA,1739.0
+san gabriel,ELEC,CA,39.0
+san jacinto,ELEC,CA,2.0
+san joaquin,ELEC,CA,2.0
+san jose,ELEC,CA,1881.0
+san juan,ELEC,TX,30.0
+san juan bautista,ELEC,CA,1.0
+san juan capistrano,ELEC,CA,16.0
+san leandro,ELEC,CA,127.0
+san luis obispo,ELEC,CA,219.0
+san marcos,ELEC,TX,143.0
+san martin,ELEC,CA,20.0
+san mateo,ELEC,CA,282.0
+san miguel,ELEC,CA,3.0
+san pablo,ELEC,CA,33.0
+san pedro,ELEC,CA,42.0
+san rafael,ELEC,CA,295.0
+san ramon,ELEC,CA,378.0
+san simeon,ELEC,CA,14.0
+san tan valley,ELEC,AZ,4.0
+san ysidro,ELEC,CA,7.0
+sanatoga,ELEC,PA,1.0
+sand city,ELEC,CA,16.0
+sand springs,ELEC,OK,21.0
+sandersville,ELEC,GA,4.0
+sandestin,ELEC,FL,2.0
+sandford,ELEC,FL,2.0
+sandpoint,ELEC,ID,5.0
+sandstone,ELEC,MN,3.0
+sandusky,ELEC,OH,33.0
+sandwich,ELEC,MA,10.0
+sandy,ELEC,OR,104.0
+sandy springs,ELEC,GA,77.0
+sanford,ELEC,NC,118.0
+sanger,ELEC,CA,32.0
+sanibel,ELEC,FL,4.0
+santa ana,ELEC,CA,191.0
+santa barbara,ELEC,CA,198.0
+santa clara,ELEC,CA,867.0
+santa clarita,ELEC,CA,189.0
+santa claus,ELEC,IN,12.0
+santa cruz,ELEC,CA,122.0
+santa fe,ELEC,NM,124.0
+santa fe springs,ELEC,CA,7.0
+santa isabel,ELEC,PR,1.0
+santa margarita,ELEC,CA,2.0
+santa maria,ELEC,CA,101.0
+santa monica,ELEC,CA,556.0
+santa nella,ELEC,CA,18.0
+santa paula,ELEC,CA,2.0
+santa rosa,ELEC,CA,191.0
+santa rosa beach,ELEC,FL,7.0
+santa teresa,ELEC,NM,2.0
+santa ynez,ELEC,CA,23.0
+santa ysabel,ELEC,CA,10.0
+sante fe,ELEC,NM,6.0
+santee,ELEC,SC,67.0
+santo,ELEC,TX,16.0
+sapulpa,ELEC,OK,4.0
+saraland,ELEC,AL,4.0
+saranac lake,ELEC,NY,25.0
+sarasota,ELEC,FL,204.0
+saratoga,ELEC,CA,164.0
+saratoga springs,ELEC,NY,185.0
+sargents,ELEC,CO,1.0
+satellite beach,ELEC,FL,3.0
+saugatuck,ELEC,MI,12.0
+saugerties,ELEC,NY,17.0
+saugus,ELEC,MA,18.0
+sauk centre,ELEC,MN,2.0
+saukville,ELEC,WI,2.0
+sault st. marie,ELEC,MI,4.0
+sault ste marie,ELEC,MI,1.0
+sault ste. mari,ELEC,MI,2.0
+sault ste. marie,ELEC,MI,8.0
+sausalito,ELEC,CA,10.0
+sautee nacoochee,ELEC,GA,4.0
+savage,ELEC,MN,7.0
+savanna,ELEC,IL,2.0
+savannah,ELEC,GA,115.0
+savoy,ELEC,IL,1.0
+sayre,ELEC,PA,13.0
+scappoose,ELEC,OR,8.0
+scarborough,ELEC,ME,20.0
+scarsdale,ELEC,NY,18.0
+schaumburg,ELEC,IL,49.0
+schellsburg,ELEC,PA,2.0
+schenectady,ELEC,NY,236.0
+schererville,ELEC,IN,6.0
+schertz,ELEC,TX,21.0
+schiller park,ELEC,IL,7.0
+schofield,ELEC,WI,6.0
+schoharie,ELEC,NY,14.0
+schoolcraft,ELEC,MI,2.0
+schroon lake,ELEC,NY,5.0
+scio,ELEC,OH,2.0
+scipio,ELEC,UT,4.0
+scituate,ELEC,MA,12.0
+scotia,ELEC,NY,16.0
+scotland neck,ELEC,NC,2.0
+scott,ELEC,LA,2.0
+scott's valley,ELEC,CA,16.0
+scotts valley,ELEC,CA,16.0
+scottsbluff,ELEC,NE,6.0
+scottsboro,ELEC,AL,4.0
+scottsburg,ELEC,IN,1.0
+scottsdale,ELEC,AZ,455.0
+scottsville,ELEC,NY,4.0
+scottville,ELEC,MI,6.0
+scranton,ELEC,PA,20.0
+sea girt,ELEC,NJ,1.0
+sea island,ELEC,GA,2.0
+sea ranch,ELEC,CA,3.0
+sea tac,ELEC,WA,4.0
+seabrook,ELEC,NH,20.0
+seaford,ELEC,DE,14.0
+seagoville,ELEC,TX,5.0
+seagrove beach,ELEC,FL,2.0
+seal beach,ELEC,CA,56.0
+seal cove,ELEC,ME,2.0
+seal rock,ELEC,OR,1.0
+sealy,ELEC,TX,7.0
+searcy,ELEC,AR,1.0
+searsport,ELEC,ME,1.0
+seaside,ELEC,CA,43.0
+seaside heights,ELEC,NJ,12.0
+seatac,ELEC,WA,23.0
+seattle,ELEC,WA,1646.0
+seaview,ELEC,WA,2.0
+sebago,ELEC,ME,1.0
+sebastian,ELEC,FL,8.0
+sebastopol,ELEC,CA,18.0
+sebeka,ELEC,MN,2.0
+sebring,ELEC,FL,24.0
+secaucus,ELEC,NJ,23.0
+sedalia,ELEC,MO,24.0
+sedona,ELEC,AZ,83.0
+sedro woolley,ELEC,WA,1.0
+seekonk,ELEC,MA,12.0
+seeley lake,ELEC,MT,3.0
+seffner,ELEC,FL,3.0
+seguin,ELEC,TX,13.0
+seiling,ELEC,OK,12.0
+selah,ELEC,WA,14.0
+selbyville,ELEC,DE,6.0
+selden,ELEC,NY,2.0
+sellers,ELEC,SC,1.0
+sellersville,ELEC,PA,10.0
+selma,ELEC,AL,51.0
+seminole,ELEC,OK,19.0
+seneca,ELEC,KS,15.0
+sepulveda,ELEC,CA,2.0
+sequim,ELEC,WA,18.0
+setauket- east setauket,ELEC,NY,2.0
+seven fountains,ELEC,VA,2.0
+seven hills,ELEC,OH,2.0
+seven points,ELEC,TX,3.0
+sevierville,ELEC,TN,15.0
+seward,ELEC,NE,11.0
+seymour,ELEC,CT,4.0
+sf,ELEC,CA,59.0
+shadey valley,ELEC,TN,2.0
+shafter,ELEC,CA,2.0
+shaker heights,ELEC,OH,13.0
+shakopee,ELEC,MN,14.0
+shallotte,ELEC,NC,2.0
+shamokin dam,ELEC,PA,2.0
+shamong,ELEC,NJ,2.0
+shamrock,ELEC,TX,6.0
+shandaken,ELEC,NY,2.0
+shandon,ELEC,CA,1.0
+sharon,ELEC,MA,2.0
+sharon springs,ELEC,NY,2.0
+sharonville,ELEC,OH,2.0
+sharpsburg,ELEC,MD,6.0
+sharpsville,ELEC,PA,1.0
+shasta lake,ELEC,CA,1.0
+shawano,ELEC,WI,8.0
+shawnee,ELEC,KS,53.0
+sheboygan,ELEC,WI,15.0
+sheffield,ELEC,OH,12.0
+sheffield village,ELEC,OH,1.0
+shelburne,ELEC,VT,10.0
+shelburne falls,ELEC,MA,4.0
+shelby,ELEC,IA,25.0
+shelby township,ELEC,MI,8.0
+shelbyville,ELEC,TN,15.0
+sheldon,ELEC,IA,2.0
+shell,ELEC,WY,2.0
+shelter island,ELEC,NY,7.0
+shelton,ELEC,CT,24.0
+shenandoah,ELEC,TX,10.0
+"shenandoah, tx",ELEC,TX,8.0
+shepherd,ELEC,TX,11.0
+shepherdstown,ELEC,WV,8.0
+shepherdsville,ELEC,KY,7.0
+sherborn,ELEC,MA,2.0
+sherburn,ELEC,MN,8.0
+sherburne,ELEC,NY,2.0
+sheridan,ELEC,WY,11.0
+sherman,ELEC,TX,11.0
+sherman oaks,ELEC,CA,75.0
+sherwood,ELEC,OR,15.0
+shiloh,ELEC,IL,5.0
+shingle springs,ELEC,CA,4.0
+shingletown,ELEC,CA,2.0
+shinnston,ELEC,WV,2.0
+shippensburg,ELEC,PA,19.0
+shirley,ELEC,NY,14.0
+shoreham,ELEC,VT,2.0
+shoreline,ELEC,WA,25.0
+shoreview,ELEC,MN,11.0
+shorewood,ELEC,IL,3.0
+shorewood hills,ELEC,WI,1.0
+short hills,ELEC,NJ,4.0
+shortsville,ELEC,NY,2.0
+show low,ELEC,AZ,9.0
+shreveport,ELEC,LA,20.0
+shrewsbury,ELEC,MA,36.0
+shurz,ELEC,NV,4.0
+sicklerville,ELEC,NJ,6.0
+sidney,ELEC,NE,10.0
+sierra vista,ELEC,AZ,15.0
+signal hill,ELEC,CA,10.0
+sikeston,ELEC,MO,5.0
+siler city,ELEC,NC,10.0
+siloam springs,ELEC,AR,3.0
+silsbee,ELEC,TX,1.0
+silt,ELEC,CO,2.0
+silver,ELEC,MD,2.0
+silver bay,ELEC,MN,2.0
+silver city,ELEC,NM,2.0
+silver creek,ELEC,NY,2.0
+silver plume,ELEC,CO,2.0
+silver sping,ELEC,MD,4.0
+silver spring,ELEC,MD,178.0
+silver springs,ELEC,MD,3.0
+silverdale,ELEC,WA,69.0
+silverthorne,ELEC,CO,40.0
+silverton,ELEC,CO,14.0
+silvis,ELEC,IL,2.0
+simi valley,ELEC,CA,57.0
+simpsonville,ELEC,SC,3.0
+simsbury,ELEC,CT,13.0
+singer island,ELEC,FL,1.0
+sinton,ELEC,TX,1.0
+sioux city,ELEC,IA,32.0
+sioux falls,ELEC,SD,50.0
+siren,ELEC,WI,1.0
+sisseton,ELEC,SD,8.0
+sister bay,ELEC,WI,7.0
+sisters,ELEC,OR,13.0
+sitka,ELEC,AK,1.0
+skagway,ELEC,AK,5.0
+skaneateles,ELEC,NY,3.0
+skillman,ELEC,NJ,8.0
+skokie,ELEC,IL,48.0
+skowhegan,ELEC,ME,14.0
+skykomish,ELEC,WA,6.0
+skyland,ELEC,NC,2.0
+skytop,ELEC,PA,4.0
+slaterville springs,ELEC,NY,2.0
+sleepy hollow,ELEC,NY,2.0
+slidell,ELEC,LA,9.0
+slingerlands,ELEC,NY,38.0
+slippery rock,ELEC,PA,3.0
+smelterville,ELEC,ID,4.0
+smith river,ELEC,CA,7.0
+smithfield,ELEC,RI,34.0
+smithsburg,ELEC,MD,4.0
+smithtown,ELEC,NY,17.0
+smithville,ELEC,MO,8.0
+smyrna,ELEC,DE,70.0
+sneads ferry,ELEC,NC,2.0
+snellville,ELEC,GA,6.0
+snohomish,ELEC,WA,14.0
+snoqualmie,ELEC,WA,10.0
+snoqualmie pass,ELEC,WA,11.0
+snow hill,ELEC,MD,12.0
+snowbird,ELEC,UT,4.0
+snowflake,ELEC,AZ,1.0
+snowmass village,ELEC,CO,14.0
+snowshoe,ELEC,WV,2.0
+snyder,ELEC,TX,2.0
+soap lake,ELEC,WA,1.0
+socorro,ELEC,NM,12.0
+soda springs,ELEC,CA,11.0
+soddy daisy,ELEC,TN,12.0
+sodus,ELEC,NY,2.0
+sodus point,ELEC,NY,2.0
+solana beach,ELEC,CA,64.0
+soldotna,ELEC,AK,10.0
+soledad,ELEC,CA,24.0
+solomons,ELEC,MD,8.0
+solon,ELEC,OH,6.0
+solvang,ELEC,CA,18.0
+solvay,ELEC,NY,2.0
+somerdale,ELEC,NJ,8.0
+somers,ELEC,NY,1.0
+somerset,ELEC,KY,47.0
+somersville,ELEC,CT,2.0
+somersworth,ELEC,NH,6.0
+somerville,ELEC,NJ,102.0
+somis,ELEC,CA,1.0
+sonoita,ELEC,AZ,3.0
+sonoma,ELEC,CA,33.0
+sonora,ELEC,CA,12.0
+south amboy,ELEC,NJ,12.0
+south barrington,ELEC,IL,14.0
+south beach,ELEC,NY,2.0
+south bend,ELEC,IN,32.0
+south bethany,ELEC,DE,2.0
+south boston,ELEC,VA,8.0
+south brunswick,ELEC,NJ,15.0
+south brunswick township,ELEC,NJ,2.0
+south burlington,ELEC,VT,71.0
+south charleston,ELEC,WV,11.0
+south deerfield,ELEC,MA,14.0
+south el monte,ELEC,CA,12.0
+south elgin,ELEC,IL,2.0
+south euclid,ELEC,OH,6.0
+south fork,ELEC,CO,2.0
+south gate,ELEC,CA,16.0
+south glens falls,ELEC,NY,8.0
+south guttenberg,ELEC,IA,2.0
+south hackensack,ELEC,NJ,2.0
+south hadley,ELEC,MA,16.0
+south haven,ELEC,MI,11.0
+south hero,ELEC,VT,5.0
+south hill,ELEC,VA,6.0
+south holland,ELEC,IL,2.0
+south jordan,ELEC,UT,36.0
+south kingstown,ELEC,RI,13.0
+south lake tahoe,ELEC,CA,54.0
+south miami,ELEC,FL,13.0
+south nyack,ELEC,NY,2.0
+south ogden,ELEC,UT,4.0
+south orange,ELEC,NJ,12.0
+south padre island,ELEC,TX,18.0
+south paris,ELEC,ME,9.0
+south pasadena,ELEC,CA,3.0
+south pittsburg,ELEC,TN,2.0
+south plainfield,ELEC,NJ,1.0
+south portland,ELEC,ME,32.0
+south riding,ELEC,VA,8.0
+south river,ELEC,NJ,10.0
+south royalton,ELEC,VT,9.0
+south sacramento,ELEC,CA,27.0
+south saint paul,ELEC,MN,2.0
+south salt lake,ELEC,UT,47.0
+south salt lake city,ELEC,UT,10.0
+south san francisco,ELEC,CA,314.0
+south sioux city,ELEC,NE,9.0
+south wales,ELEC,NY,2.0
+south wellfleet,ELEC,MA,2.0
+south windsor,ELEC,CT,4.0
+south yarmotuh,ELEC,MA,1.0
+south yarmouth,ELEC,MA,2.0
+southampton,ELEC,NY,31.0
+southampton township,ELEC,NJ,2.0
+southaven,ELEC,MS,18.0
+southborough,ELEC,MA,7.0
+southbridge,ELEC,MA,14.0
+southbury,ELEC,CT,6.0
+southern pines,ELEC,NC,15.0
+southfield,ELEC,MI,27.0
+southgate,ELEC,MI,2.0
+southhaven,ELEC,MS,3.0
+southington,ELEC,CT,22.0
+southlake,ELEC,TX,36.0
+southold,ELEC,NY,4.0
+southport,ELEC,NC,13.0
+southwest harbor,ELEC,ME,5.0
+southwest ranches,ELEC,FL,4.0
+spanish fork,ELEC,UT,12.0
+spanish fort,ELEC,AL,3.0
+sparkill,ELEC,NY,6.0
+sparks,ELEC,NV,70.0
+sparks glencoe,ELEC,MD,8.0
+sparta,ELEC,NJ,14.0
+spartanburg,ELEC,SC,34.0
+spearfish,ELEC,SD,10.0
+speculator,ELEC,NY,8.0
+speedway,ELEC,IN,9.0
+spencer,ELEC,IN,15.0
+spencerport,ELEC,NY,3.0
+spencertown,ELEC,NY,2.0
+sperryville,ELEC,VA,3.0
+spiceland,ELEC,IN,8.0
+spicer,ELEC,MN,8.0
+spicewood,ELEC,TX,2.0
+spindale,ELEC,NC,2.0
+spirit lake,ELEC,IA,4.0
+spokane,ELEC,WA,181.0
+spokane valley,ELEC,WA,29.0
+spooner,ELEC,WI,2.0
+spotsylvania courthouse,ELEC,VA,2.0
+sprague,ELEC,WA,11.0
+sprakers,ELEC,NY,2.0
+spring,ELEC,TX,83.0
+spring grove,ELEC,MN,2.0
+spring hill,ELEC,TN,6.0
+spring house,ELEC,PA,12.0
+spring lake,ELEC,MI,4.0
+spring lake park,ELEC,MN,4.0
+spring valley,ELEC,NY,11.0
+springboro,ELEC,OH,10.0
+springcity,ELEC,TN,10.0
+springdale,ELEC,AR,75.0
+springfield,ELEC,IL,468.0
+springfield township,ELEC,NJ,1.0
+springs,ELEC,GA,2.0
+springville,ELEC,UT,9.0
+spruce head,ELEC,ME,1.0
+spur,ELEC,TX,2.0
+st,ELEC,WA,2.0
+st  michaels,ELEC,MD,4.0
+st augustine,ELEC,FL,12.0
+st augustine beach,ELEC,FL,8.0
+st charles,ELEC,MO,22.0
+st clair shores,ELEC,MI,10.0
+st cloud,ELEC,FL,4.0
+st francis,ELEC,KS,1.0
+st francisville,ELEC,LA,4.0
+st george,ELEC,UT,10.0
+st helena,ELEC,CA,2.0
+st james,ELEC,MO,1.0
+st johns,ELEC,FL,21.0
+st johnsbury,ELEC,VT,12.0
+st joseph,ELEC,MO,65.0
+st louis,ELEC,MO,12.0
+st louis park,ELEC,MN,15.0
+st marys,ELEC,GA,2.0
+st marys city,ELEC,MD,2.0
+st michaels,ELEC,MD,2.0
+st paul,ELEC,MN,5.0
+st pete beach,ELEC,FL,13.0
+st peters,ELEC,MO,1.0
+st petersburg,ELEC,FL,72.0
+st point mugu,ELEC,CA,2.0
+st simons island,ELEC,GA,8.0
+st. albans,ELEC,WV,12.0
+st. ansgar,ELEC,IA,2.0
+st. augustine,ELEC,FL,63.0
+st. augustine beach,ELEC,FL,2.0
+st. charles,ELEC,MO,35.0
+st. clair shores,ELEC,MI,6.0
+st. clairsville,ELEC,OH,1.0
+st. cloud,ELEC,MN,12.0
+st. croix falls,ELEC,WI,3.0
+st. george,ELEC,UT,45.0
+st. george island,ELEC,FL,2.0
+st. helena,ELEC,CA,15.0
+st. helens,ELEC,OR,5.0
+st. ignace,ELEC,MI,6.0
+st. james,ELEC,NY,4.0
+st. johns,ELEC,MI,12.0
+st. johnsbury,ELEC,VT,2.0
+st. joseph,ELEC,MO,22.0
+st. lititz,ELEC,PA,2.0
+st. louis,ELEC,MO,225.0
+st. louis park,ELEC,MN,21.0
+st. mary's,ELEC,KS,1.0
+st. marys,ELEC,GA,10.0
+st. marys city,ELEC,MD,1.0
+st. meinrad,ELEC,IN,2.0
+st. michaels,ELEC,MD,5.0
+st. paul,ELEC,MN,107.0
+st. pete beach,ELEC,FL,2.0
+st. peter,ELEC,MN,3.0
+st. peters,ELEC,MO,15.0
+st. petersburg,ELEC,FL,74.0
+st. regis,ELEC,MT,12.0
+st. robert,ELEC,MO,1.0
+st. simons island,ELEC,GA,2.0
+st.paul,ELEC,MN,4.0
+staatsburg,ELEC,NY,8.0
+stafford,ELEC,TX,50.0
+stafford courthouse,ELEC,VA,8.0
+stafford springs,ELEC,CT,6.0
+stafford township,ELEC,NJ,1.0
+stamford,ELEC,CT,121.0
+standish,ELEC,ME,3.0
+stanford,ELEC,CA,102.0
+stanhope,ELEC,NJ,3.0
+stanley,ELEC,VA,3.0
+stanton,ELEC,CA,9.0
+stanwood,ELEC,MI,6.0
+staples,ELEC,MN,2.0
+star,ELEC,NC,2.0
+starke,ELEC,FL,2.0
+starksboro,ELEC,VT,2.0
+starkville,ELEC,MS,20.0
+state college,ELEC,PA,45.0
+stateline,ELEC,NV,34.0
+staten island,ELEC,NY,75.0
+statesboro,ELEC,GA,4.0
+statesville,ELEC,NC,16.0
+staunton,ELEC,VA,28.0
+stauton,ELEC,VA,8.0
+steamboat springs,ELEC,CO,47.0
+steele,ELEC,AL,8.0
+steilacoom,ELEC,WA,1.0
+stennis space center,ELEC,MS,1.0
+stephens city,ELEC,VA,4.0
+stephenville,ELEC,TX,2.0
+sterling,ELEC,VA,91.0
+sterling heights,ELEC,MI,10.0
+stevens point,ELEC,WI,14.0
+stevenson,ELEC,MD,10.0
+stevenson ranch,ELEC,CA,4.0
+stevensville,ELEC,MD,21.0
+stewartville,ELEC,MN,4.0
+stigler,ELEC,OK,2.0
+stillwater,ELEC,OK,33.0
+stillwell,ELEC,OK,8.0
+stilwell,ELEC,OK,6.0
+stinson beach,ELEC,CA,8.0
+stockbridge,ELEC,GA,16.0
+stockton,ELEC,CA,240.0
+stone harbor,ELEC,NJ,1.0
+stone mountain,ELEC,GA,12.0
+stone ridge,ELEC,NY,9.0
+stonecrest,ELEC,GA,7.0
+stoneham,ELEC,MA,9.0
+stonewall,ELEC,TX,1.0
+stonington,ELEC,CT,6.0
+stony brook,ELEC,NY,30.0
+stony creek,ELEC,VA,3.0
+storrs,ELEC,CT,64.0
+stoughton,ELEC,MA,30.0
+stow,ELEC,OH,7.0
+stowe,ELEC,VT,37.0
+strafford,ELEC,PA,2.0
+strasburg,ELEC,VA,7.0
+stratford,ELEC,CT,9.0
+stratham,ELEC,NH,3.0
+stratton,ELEC,CO,13.0
+strawberry point,ELEC,IA,2.0
+streamsong,ELEC,FL,2.0
+street,ELEC,MD,4.0
+streetsboro,ELEC,OH,9.0
+stromsburg,ELEC,NE,2.0
+strongsville,ELEC,OH,21.0
+stroud,ELEC,OK,19.0
+stroudsburg,ELEC,PA,9.0
+stuart,ELEC,FL,21.0
+stuarts draft,ELEC,VA,8.0
+studio city,ELEC,CA,68.0
+sturbridge,ELEC,MA,24.0
+sturgeon bay,ELEC,WI,21.0
+sturgeon lake,ELEC,MN,1.0
+sturgis,ELEC,MI,2.0
+sturtevant,ELEC,WI,2.0
+stuttgart,ELEC,AZ,1.0
+sublimity,ELEC,OR,4.0
+sudbury,ELEC,MA,1.0
+suffern,ELEC,NY,10.0
+suffield,ELEC,CT,2.0
+suffolk,ELEC,VA,9.0
+sugar bunker,ELEC,NV,17.0
+sugar grove,ELEC,NC,2.0
+sugar hill,ELEC,NH,4.0
+sugar land,ELEC,TX,29.0
+sugar mountain,ELEC,NC,2.0
+sugarland,ELEC,TX,8.0
+suisun city,ELEC,CA,7.0
+suitland,ELEC,MD,10.0
+sullivan,ELEC,MO,4.0
+sulphur,ELEC,LA,16.0
+sulphur springs,ELEC,TX,8.0
+sultan,ELEC,WA,2.0
+summerton,ELEC,SC,8.0
+summerville,ELEC,SC,48.0
+summit,ELEC,NJ,5.0
+summit park,ELEC,UT,10.0
+summit point,ELEC,WV,8.0
+sumner,ELEC,WA,14.0
+sumter,ELEC,SC,18.0
+sun city,ELEC,AZ,2.0
+sun city center,ELEC,FL,8.0
+sun prairie,ELEC,WI,17.0
+sun valley,ELEC,CA,94.0
+sunbury,ELEC,OH,6.0
+sundance,ELEC,WY,2.0
+sunny isles,ELEC,FL,2.0
+sunny isles beach,ELEC,FL,57.0
+sunnyside,ELEC,WA,8.0
+sunnyvale,ELEC,CA,592.0
+sunol,ELEC,CA,8.0
+sunrise,ELEC,FL,39.0
+sunset,ELEC,SC,2.0
+sunset beach,ELEC,NC,1.0
+sunset park,ELEC,NY,2.0
+sunset valley,ELEC,TX,2.0
+superior,ELEC,CO,46.0
+suquamish,ELEC,WA,6.0
+surf city,ELEC,NC,6.0
+surfside,ELEC,FL,22.0
+surprise,ELEC,AZ,38.0
+surry,ELEC,ME,2.0
+susanville,ELEC,CA,15.0
+sussex,ELEC,NJ,2.0
+sutherlin,ELEC,OR,58.0
+sutter creek,ELEC,CA,10.0
+sutton,ELEC,WV,14.0
+suttons bay,ELEC,MI,4.0
+suwanee,ELEC,GA,14.0
+swampscott,ELEC,MA,6.0
+swans island,ELEC,ME,2.0
+swansboro,ELEC,NC,2.0
+swansea,ELEC,IL,8.0
+swanton,ELEC,VT,4.0
+swanzey,ELEC,NH,6.0
+swarthmore,ELEC,PA,4.0
+swartz creek,ELEC,MI,10.0
+swedesboro,ELEC,NJ,12.0
+sweet springs,ELEC,MO,6.0
+sweetwater,ELEC,TX,12.0
+sycamore,ELEC,IL,3.0
+sykesville,ELEC,MD,14.0
+sylacauga,ELEC,AL,2.0
+sylmar,ELEC,CA,23.0
+sylva,ELEC,NC,4.0
+sylvania,ELEC,OH,11.0
+sylvester,ELEC,GA,2.0
+syosset,ELEC,NY,11.0
+syracuse,ELEC,NY,206.0
+tabernash,ELEC,CO,2.0
+tacna,ELEC,AZ,8.0
+tacoma,ELEC,WA,300.0
+taft,ELEC,CA,7.0
+taftville,ELEC,CT,4.0
+tahlequah,ELEC,OK,26.0
+tahoe city,ELEC,CA,17.0
+tahoe vista,ELEC,CA,2.0
+takoma park,ELEC,MD,24.0
+talent,ELEC,OR,8.0
+talihina,ELEC,OK,4.0
+talkeetna,ELEC,AK,4.0
+talladega,ELEC,AL,2.0
+tallahassee,ELEC,FL,81.0
+tallmadge,ELEC,OH,2.0
+tallulah falls,ELEC,GA,6.0
+tamaqua,ELEC,PA,4.0
+tamarac,ELEC,FL,9.0
+tamarack,ELEC,ID,2.0
+tampa,ELEC,FL,544.0
+taneytown,ELEC,MD,4.0
+tannersville,ELEC,PA,13.0
+taos,ELEC,NM,6.0
+taos ski valley,ELEC,NM,6.0
+tappahannock,ELEC,VA,10.0
+tarboro,ELEC,NC,1.0
+tarentum,ELEC,PA,1.0
+tarkio,ELEC,MO,6.0
+tarpon springs,ELEC,FL,24.0
+tarrytown,ELEC,NY,50.0
+tarzana,ELEC,CA,25.0
+taunton,ELEC,MA,14.0
+tavares,ELEC,FL,7.0
+tawas city,ELEC,MI,5.0
+taylor,ELEC,MI,6.0
+taylors falls,ELEC,MN,2.0
+taylorsville,ELEC,UT,79.0
+teaneck,ELEC,NJ,7.0
+tecumseh,ELEC,KS,4.0
+tega cay,ELEC,SC,4.0
+tehachapi,ELEC,CA,57.0
+tell city,ELEC,IN,1.0
+telluride,ELEC,CO,17.0
+temecula,ELEC,CA,120.0
+tempe,ELEC,AZ,255.0
+temple,ELEC,TX,69.0
+temple city,ELEC,CA,6.0
+temple hills,ELEC,MD,1.0
+templeton,ELEC,CA,24.0
+tenafly,ELEC,NJ,4.0
+terlingua,ELEC,TX,2.0
+terra haute,ELEC,IN,4.0
+terre haute,ELEC,IN,20.0
+terrell,ELEC,TX,44.0
+teton village,ELEC,WY,7.0
+tewksbury,ELEC,MA,26.0
+texarkana,ELEC,TX,12.0
+texas city,ELEC,TX,8.0
+thackerville,ELEC,OK,8.0
+thayne,ELEC,WY,1.0
+the bronx,ELEC,NY,19.0
+the colony,ELEC,TX,11.0
+the dalles,ELEC,OR,28.0
+the plains,ELEC,VA,4.0
+the sea ranch,ELEC,CA,4.0
+the woodlands,ELEC,TX,25.0
+thermal,ELEC,CA,1.0
+thiboduax,ELEC,LA,1.0
+third lake,ELEC,IL,2.0
+thomaston,ELEC,ME,6.0
+thomasville,ELEC,GA,23.0
+thompsonville,ELEC,MI,7.0
+thomson,ELEC,IL,5.0
+thonotosassa,ELEC,FL,4.0
+thornton,ELEC,CO,71.0
+thornwood,ELEC,NY,6.0
+thousand oaks,ELEC,CA,151.0
+three lakes,ELEC,WI,4.0
+three oaks,ELEC,MI,5.0
+three rivers,ELEC,TX,13.0
+thurmont,ELEC,MD,6.0
+tiburon,ELEC,CA,6.0
+ticonderoga,ELEC,NY,6.0
+tiffin,ELEC,OH,9.0
+tifton,ELEC,GA,49.0
+tigard,ELEC,OR,53.0
+tiger,ELEC,GA,2.0
+tillamook,ELEC,OR,31.0
+tilton,ELEC,NH,25.0
+timnath,ELEC,CO,6.0
+timonium,ELEC,MD,3.0
+tinker,ELEC,OK,26.0
+tinley park,ELEC,IL,5.0
+tinton falls,ELEC,NJ,16.0
+tipp city,ELEC,OH,4.0
+tishomingo,ELEC,OK,1.0
+titusville,ELEC,FL,146.0
+tiverton,ELEC,RI,6.0
+tivoli,ELEC,NY,2.0
+toa baja,ELEC,PR,1.0
+toccoa,ELEC,GA,2.0
+tofte,ELEC,MN,12.0
+toledo,ELEC,OH,78.0
+tolland,ELEC,CT,1.0
+tolleson,ELEC,AZ,4.0
+tolovana park,ELEC,OR,4.0
+tomah,ELEC,WI,15.0
+tomball,ELEC,TX,21.0
+tombstone,ELEC,AZ,1.0
+toms river,ELEC,NJ,18.0
+tonasket,ELEC,WA,1.0
+tonawanda,ELEC,NY,24.0
+toney,ELEC,AL,2.0
+tonganoxie,ELEC,KS,12.0
+tonopah,ELEC,NV,10.0
+tooele,ELEC,UT,6.0
+topanga,ELEC,CA,1.0
+topeka,ELEC,KS,59.0
+topeka ocl,ELEC,KS,4.0
+toppenish,ELEC,WA,2.0
+topsfield,ELEC,MA,6.0
+topsham,ELEC,ME,18.0
+torrance,ELEC,CA,309.0
+"torrance, ca",ELEC,CA,1.0
+torrey,ELEC,UT,5.0
+torrington,ELEC,CT,11.0
+totowa,ELEC,NJ,9.0
+towanda,ELEC,PA,4.0
+tower lakes,ELEC,IL,4.0
+townsend,ELEC,TN,1.0
+townshend,ELEC,VT,2.0
+township of hamburg,ELEC,MI,5.0
+townson,ELEC,OK,2.0
+towson,ELEC,MD,35.0
+tracy,ELEC,CA,92.0
+tracy city,ELEC,TN,2.0
+trappe,ELEC,MD,2.0
+travelers rest,ELEC,SC,6.0
+traver,ELEC,CA,16.0
+traverse city,ELEC,MI,84.0
+treasure island,ELEC,FL,3.0
+trego,ELEC,WI,3.0
+tremonton,ELEC,UT,16.0
+trenton,ELEC,ME,36.0
+tres piedras,ELEC,NM,1.0
+trevose,ELEC,PA,7.0
+trexlertown,ELEC,PA,2.0
+triadelphia,ELEC,WV,25.0
+trinidad,ELEC,CO,33.0
+trona,ELEC,CA,4.0
+trophy club,ELEC,TX,7.0
+tropic,ELEC,UT,2.0
+trotwood,ELEC,OH,7.0
+troutdale,ELEC,OR,21.0
+troutman,ELEC,NC,14.0
+troutville,ELEC,VA,6.0
+troy,ELEC,MI,235.0
+truckee,ELEC,CA,92.0
+trumansburg,ELEC,NY,6.0
+trumbull,ELEC,CT,20.0
+truro,ELEC,MA,2.0
+trussville,ELEC,AL,3.0
+truth or consequences,ELEC,NM,8.0
+tryon,ELEC,NC,2.0
+tualatin,ELEC,OR,9.0
+tuba city,ELEC,AZ,3.0
+tubac,ELEC,AZ,1.0
+tuckahoe,ELEC,NY,32.0
+tucker,ELEC,GA,12.0
+tuckerton,ELEC,NJ,2.0
+tucson,ELEC,AZ,281.0
+tucumcari,ELEC,NM,17.0
+tukwila,ELEC,WA,65.0
+tulalip,ELEC,WA,4.0
+tulalip bay,ELEC,WA,4.0
+tulare,ELEC,CA,44.0
+tulelake,ELEC,CA,1.0
+tullahoma,ELEC,TN,4.0
+tully,ELEC,NY,19.0
+tulsa,ELEC,OK,231.0
+tumwater,ELEC,WA,17.0
+tunkhannock,ELEC,PA,2.0
+tuolumne,ELEC,CA,8.0
+tupelo,ELEC,MS,18.0
+tupper lake,ELEC,NY,8.0
+turin,ELEC,NY,2.0
+turkey lake,ELEC,FL,6.0
+turlock,ELEC,CA,45.0
+turner,ELEC,OR,2.0
+turners falls,ELEC,MA,4.0
+turnersville,ELEC,NJ,4.0
+tusayan,ELEC,AZ,12.0
+tuscaloosa,ELEC,AL,25.0
+tuscumbia,ELEC,AL,4.0
+tuskegee,ELEC,AL,1.0
+tustin,ELEC,CA,160.0
+twain harte,ELEC,CA,2.0
+twentynine palms,ELEC,CA,25.0
+twin bridges,ELEC,CA,4.0
+twin falls,ELEC,ID,17.0
+twinsburg,ELEC,OH,10.0
+twisp,ELEC,WA,1.0
+two harbors,ELEC,MN,17.0
+tybee island,ELEC,GA,3.0
+tyler,ELEC,TX,28.0
+tyler riverside,ELEC,CA,8.0
+tyngsborough,ELEC,MA,24.0
+tyre,ELEC,NY,2.0
+tyrone,ELEC,GA,3.0
+tyson,ELEC,VA,10.0
+tysons,ELEC,VA,14.0
+tysons corner,ELEC,VA,5.0
+uintah,ELEC,UT,4.0
+ukaih,ELEC,CA,2.0
+ukiah,ELEC,CA,62.0
+umatilla,ELEC,FL,4.0
+uncasville,ELEC,CT,7.0
+union,ELEC,SC,52.0
+union beach,ELEC,NJ,3.0
+union city,ELEC,GA,52.0
+uniondale,ELEC,NY,4.0
+uniontown,ELEC,OH,12.0
+unity,ELEC,ME,8.0
+unity village,ELEC,MO,14.0
+universal city,ELEC,CA,99.0
+university,ELEC,MS,8.0
+university city,ELEC,MO,2.0
+university place,ELEC,WA,1.0
+upland,ELEC,CA,11.0
+upper arlington,ELEC,OH,6.0
+upper chichester,ELEC,PA,2.0
+upper darby,ELEC,PA,6.0
+upper lake,ELEC,CA,2.0
+upper marlboro,ELEC,MD,66.0
+upper saddle river,ELEC,NJ,4.0
+upper sandusky,ELEC,OH,13.0
+upper st. clair,ELEC,PA,2.0
+upton,ELEC,NY,14.0
+urbana,ELEC,IL,25.0
+urbandale,ELEC,IA,14.0
+utica,ELEC,NY,41.0
+uvalde,ELEC,TX,6.0
+uxbridge,ELEC,MA,2.0
+vacaville,ELEC,CA,173.0
+vadnais heights,ELEC,MN,5.0
+vail,ELEC,CO,68.0
+valatie,ELEC,NY,6.0
+valdese,ELEC,NC,2.0
+valdosta,ELEC,GA,51.0
+vale,ELEC,OR,2.0
+valencia,ELEC,CA,86.0
+valhalla,ELEC,NY,15.0
+vallejo,ELEC,CA,153.0
+valley,ELEC,NE,3.0
+valley center,ELEC,CA,30.0
+valley city,ELEC,ND,2.0
+valley springs,ELEC,CA,2.0
+valley stream,ELEC,NY,24.0
+valley village,ELEC,CA,9.0
+valparaiso,ELEC,IN,11.0
+valrico,ELEC,FL,2.0
+van buren,ELEC,AR,7.0
+van buren twp,ELEC,MI,1.0
+van horn,ELEC,TX,16.0
+van nuys,ELEC,CA,198.0
+van wert,ELEC,OH,2.0
+vance,ELEC,AL,18.0
+vancouver,ELEC,WA,155.0
+vandalia,ELEC,OH,5.0
+vashon,ELEC,WA,4.0
+vaughn,ELEC,NM,4.0
+vauxhall,ELEC,NJ,4.0
+veedersburg,ELEC,IN,8.0
+veneta,ELEC,OR,2.0
+venice,ELEC,FL,72.0
+ventnor city,ELEC,NJ,2.0
+ventura,ELEC,CA,136.0
+vergennes,ELEC,VT,4.0
+vermillion,ELEC,SD,3.0
+vernal,ELEC,UT,2.0
+vernon,ELEC,CA,64.0
+vernon hills,ELEC,IL,13.0
+vernon township,ELEC,NJ,4.0
+vero beach,ELEC,FL,23.0
+verona,ELEC,WI,61.0
+versailles,ELEC,KY,9.0
+vestal,ELEC,NY,39.0
+vestavia hills,ELEC,AL,4.0
+vesuvius,ELEC,VA,2.0
+vicksburg,ELEC,MS,20.0
+victor,ELEC,NY,32.0
+victoria,ELEC,TX,25.0
+victorville,ELEC,CA,97.0
+vidalia,ELEC,GA,1.0
+vidor,ELEC,TX,4.0
+vienna,ELEC,VA,70.0
+viera,ELEC,FL,12.0
+villa park,ELEC,IL,24.0
+villa rica,ELEC,GA,2.0
+village of pelham,ELEC,NY,3.0
+villanova,ELEC,PA,18.0
+vincennes,ELEC,IN,7.0
+vineland,ELEC,NJ,12.0
+vineyard,ELEC,UT,2.0
+vineyard haven,ELEC,MA,4.0
+vinita,ELEC,OK,4.0
+vinton,ELEC,LA,3.0
+virginia,ELEC,MN,2.0
+virginia beach,ELEC,VA,144.0
+virginia city,ELEC,NV,6.0
+viroqua,ELEC,WI,2.0
+visalia,ELEC,CA,78.0
+vista,ELEC,CA,75.0
+vista dr,ELEC,WA,2.0
+voorheesville,ELEC,NY,13.0
+w silver spring,ELEC,MD,2.0
+wabash,ELEC,IN,9.0
+waco,ELEC,TX,29.0
+waddington,ELEC,NY,2.0
+wadena,ELEC,MN,4.0
+wadesboro,ELEC,NC,1.0
+wadsworth,ELEC,IL,4.0
+wagon mound,ELEC,NM,4.0
+wagoner,ELEC,OK,12.0
+wahiawa,ELEC,HI,4.0
+wahoo,ELEC,NE,2.0
+wahpeton,ELEC,ND,2.0
+waianae,ELEC,HI,10.0
+waikoloa,ELEC,HI,6.0
+waikoloa village,ELEC,HI,2.0
+wailea,ELEC,HI,10.0
+wailuku,ELEC,HI,33.0
+waimanalo,ELEC,HI,4.0
+waimea,ELEC,HI,4.0
+waipahu,ELEC,HI,25.0
+waite park,ELEC,MN,4.0
+waitsburg,ELEC,WA,1.0
+waitsfield,ELEC,VT,20.0
+wake forest,ELEC,NC,24.0
+wakefield,ELEC,MA,37.0
+walcott,ELEC,IA,10.0
+waldorf,ELEC,MD,40.0
+waldport,ELEC,OR,8.0
+waleksa,ELEC,GA,3.0
+waleska,ELEC,GA,7.0
+walker,ELEC,MI,15.0
+wall,ELEC,SD,18.0
+wall township,ELEC,NJ,17.0
+walla walla,ELEC,WA,42.0
+wallace,ELEC,NC,9.0
+walland,ELEC,TN,4.0
+walled lake,ELEC,MI,7.0
+waller,ELEC,TX,22.0
+wallingford,ELEC,CT,19.0
+walloon lake,ELEC,MI,1.0
+walnut,ELEC,CA,15.0
+walnut creek,ELEC,CA,249.0
+walnut grove,ELEC,MO,1.0
+walnut ridge,ELEC,AR,4.0
+walpole,ELEC,MA,12.0
+walsenburg,ELEC,CO,8.0
+walterboro,ELEC,SC,25.0
+walters,ELEC,OK,8.0
+waltham,ELEC,MA,235.0
+wamego,ELEC,KS,2.0
+wampsville,ELEC,NY,2.0
+wanakena,ELEC,NY,1.0
+wantagh,ELEC,NY,8.0
+wantaugh,ELEC,NY,2.0
+wapakoneta,ELEC,OH,3.0
+wapato,ELEC,WA,4.0
+wapello,ELEC,IA,2.0
+wappingers falls,ELEC,NY,5.0
+ward,ELEC,AR,2.0
+wareham,ELEC,MA,34.0
+warens,ELEC,NY,2.0
+warm springs,ELEC,OR,2.0
+warminster,ELEC,PA,15.0
+warner robbins,ELEC,GA,4.0
+warner robins,ELEC,GA,33.0
+warner springs,ELEC,CA,5.0
+warren,ELEC,OH,103.0
+warrensburg,ELEC,MO,20.0
+warrensville heights,ELEC,OH,4.0
+warrenton,ELEC,VA,28.0
+warrenville,ELEC,IL,8.0
+warrington,ELEC,PA,9.0
+warsaw,ELEC,IN,30.0
+wartburg,ELEC,TN,4.0
+warwick,ELEC,RI,133.0
+wasco,ELEC,CA,8.0
+waseca,ELEC,MN,4.0
+washburn,ELEC,ND,3.0
+washington,ELEC,DC,1323.0
+washington court house,ELEC,OH,4.0
+washington depot,ELEC,CT,2.0
+washington grove,ELEC,MD,4.0
+washington heights,ELEC,NY,4.0
+washington navy yard,ELEC,DC,8.0
+washington terrace,ELEC,UT,8.0
+washington township,ELEC,NJ,10.0
+washingtonville,ELEC,NY,10.0
+washougal,ELEC,WA,19.0
+wasilla,ELEC,AK,7.0
+waskish,ELEC,MN,2.0
+watauga,ELEC,TX,2.0
+watch hill,ELEC,RI,3.0
+watchung,ELEC,NJ,1.0
+water mill,ELEC,NY,11.0
+waterbury,ELEC,CT,52.0
+waterford,ELEC,MI,31.0
+waterford township,ELEC,MI,6.0
+waterford twp,ELEC,MI,6.0
+waterloo,ELEC,NY,38.0
+waters,ELEC,MI,2.0
+watersound,ELEC,FL,2.0
+watertown,ELEC,MA,98.0
+waterville,ELEC,ME,27.0
+watervliet,ELEC,NY,62.0
+watford city,ELEC,ND,2.0
+watkins glen,ELEC,NY,8.0
+watkinsville,ELEC,GA,4.0
+watsonville,ELEC,CA,82.0
+watts,ELEC,CA,16.0
+wauchula,ELEC,FL,2.0
+wauconda,ELEC,IL,2.0
+waukee,ELEC,IA,15.0
+waukegan,ELEC,IL,38.0
+waukesha,ELEC,WI,20.0
+waunakee,ELEC,WI,4.0
+waupun,ELEC,WI,4.0
+wausau,ELEC,WI,12.0
+wauseon,ELEC,OH,1.0
+wauwatosa,ELEC,WI,10.0
+waverly,ELEC,NY,11.0
+wawona,ELEC,CA,2.0
+waxahachie,ELEC,TX,7.0
+waxhaw,ELEC,NC,2.0
+waycross,ELEC,GA,2.0
+wayland,ELEC,MI,31.0
+waymart,ELEC,PA,2.0
+wayne,ELEC,PA,47.0
+waynesboro,ELEC,VA,14.0
+waynesville,ELEC,NC,19.0
+wayzata,ELEC,MN,13.0
+weatherford,ELEC,TX,25.0
+weaverville,ELEC,NC,16.0
+webster,ELEC,NY,46.0
+wedgefield,ELEC,SC,2.0
+weed,ELEC,CA,3.0
+weehawken,ELEC,NJ,2.0
+weirton,ELEC,WV,7.0
+wekiva springs,ELEC,FL,2.0
+welch,ELEC,WV,2.0
+welches,ELEC,OR,5.0
+weldon spring,ELEC,MO,4.0
+wellesley,ELEC,MA,50.0
+wellfleet,ELEC,MA,8.0
+wellington,ELEC,FL,19.0
+wells,ELEC,ME,29.0
+wellsboro,ELEC,PA,4.0
+wellsville,ELEC,NY,1.0
+wenatchee,ELEC,WA,37.0
+wendover,ELEC,NV,7.0
+wenham,ELEC,MA,6.0
+wentzville,ELEC,MO,2.0
+wernersville,ELEC,PA,3.0
+weslaco,ELEC,TX,3.0
+wesley chapel,ELEC,FL,22.0
+west allis,ELEC,WI,12.0
+west babylon,ELEC,NY,2.0
+west baden springs,ELEC,IN,4.0
+west barnstable,ELEC,MA,6.0
+west bend,ELEC,WI,1.0
+west bishop,ELEC,CA,2.0
+west bloomfield township,ELEC,MI,20.0
+west bloomfield twp,ELEC,MI,6.0
+west branch,ELEC,MI,6.0
+"west branch, mi 48661",ELEC,MI,2.0
+west bridgewater,ELEC,MA,2.0
+west bronx,ELEC,NY,4.0
+west burlington,ELEC,IA,5.0
+west carollton,ELEC,OH,4.0
+west chazy,ELEC,NY,4.0
+west chester,ELEC,PA,59.0
+west chester township,ELEC,OH,14.0
+west chicago,ELEC,IL,3.0
+west columbia,ELEC,SC,3.0
+west covina,ELEC,CA,58.0
+west deptford,ELEC,NJ,4.0
+west des moines,ELEC,IA,21.0
+west desmoines,ELEC,IA,2.0
+west dover,ELEC,VT,2.0
+west dundee,ELEC,IL,4.0
+west fargo,ELEC,ND,13.0
+west gardiner,ELEC,ME,6.0
+west grapevine,ELEC,TX,2.0
+west greenwich,ELEC,RI,2.0
+west grove,ELEC,PA,1.0
+west harrison,ELEC,NY,2.0
+west hartford,ELEC,CT,31.0
+west haven,ELEC,CT,20.0
+west henrietta,ELEC,NY,19.0
+west hills,ELEC,CA,18.0
+west hollywood,ELEC,CA,165.0
+west islip,ELEC,NY,4.0
+west jefferson,ELEC,OH,5.0
+west jordan,ELEC,UT,29.0
+west lafayette,ELEC,IN,18.0
+west lake hills,ELEC,TX,11.0
+west lawn,ELEC,PA,2.0
+west lebanon,ELEC,NH,20.0
+west liberty,ELEC,OH,5.0
+west linn,ELEC,OR,2.0
+west long branch,ELEC,NJ,1.0
+west melbourne,ELEC,FL,19.0
+west memphis,ELEC,AR,4.0
+west miami,ELEC,FL,2.0
+west mifflin,ELEC,PA,6.0
+west milwaukee,ELEC,WI,10.0
+west monroe,ELEC,LA,7.0
+west new york,ELEC,NJ,9.0
+west newbury,ELEC,MA,8.0
+west nyack,ELEC,NY,24.0
+west orange,ELEC,NJ,34.0
+west palm beach,ELEC,FL,247.0
+west park,ELEC,NY,2.0
+west plains,ELEC,MO,6.0
+west point,ELEC,NE,6.0
+west roxbury,ELEC,MA,2.0
+west sacramento,ELEC,CA,42.0
+west saint paul,ELEC,MN,2.0
+west salem,ELEC,WI,1.0
+west seattle,ELEC,WA,2.0
+west simsbury,ELEC,CT,3.0
+west springfield,ELEC,MA,41.0
+west tisbury,ELEC,MA,9.0
+west union,ELEC,IA,3.0
+west unity,ELEC,OH,24.0
+west valley,ELEC,NY,2.0
+west valley city,ELEC,UT,65.0
+west warwick,ELEC,RI,7.0
+west wendover,ELEC,NV,10.0
+west windsor township,ELEC,NJ,4.0
+west winfield,ELEC,NY,2.0
+west yarmouth,ELEC,MA,8.0
+west yellowstone,ELEC,MT,14.0
+westampton,ELEC,NJ,9.0
+westborough,ELEC,MA,19.0
+westbrook,ELEC,CT,22.0
+westbury,ELEC,NY,15.0
+westby,ELEC,WI,2.0
+westchester,ELEC,PA,5.0
+westcliffe,ELEC,CO,3.0
+westerly,ELEC,RI,5.0
+western springs,ELEC,IL,2.0
+westernport,ELEC,MD,2.0
+westerville,ELEC,OH,24.0
+westfield,ELEC,NJ,50.0
+westford,ELEC,MA,77.0
+westhampton beach,ELEC,NY,14.0
+westlake,ELEC,OH,15.0
+westlake village,ELEC,CA,65.0
+westland,ELEC,MI,2.0
+westley,ELEC,CA,4.0
+westminster,ELEC,SC,226.0
+westmont,ELEC,IL,3.0
+westmoreland,ELEC,TN,1.0
+weston,ELEC,WV,50.0
+westover,ELEC,WV,9.0
+westport,ELEC,CT,63.0
+westville,ELEC,NJ,2.0
+westwood,ELEC,KS,65.0
+westworth village,ELEC,TX,4.0
+wethersfield,ELEC,CT,5.0
+wetumpka,ELEC,AL,1.0
+wexford,ELEC,PA,32.0
+weymouth,ELEC,MA,42.0
+wharton,ELEC,TX,30.0
+whately,ELEC,MA,4.0
+wheat ridge,ELEC,CO,29.0
+wheatland,ELEC,WY,12.0
+wheaton,ELEC,IL,16.0
+wheaton-glenmont,ELEC,MD,4.0
+wheeler,ELEC,MI,2.0
+wheeling,ELEC,IL,15.0
+whippany,ELEC,NJ,6.0
+whisper valley,ELEC,TX,2.0
+white,ELEC,GA,3.0
+white bear lake,ELEC,MN,13.0
+white hall,ELEC,PA,5.0
+white hills,ELEC,AZ,2.0
+white lake charter township,ELEC,MI,2.0
+white marsh,ELEC,MD,20.0
+white oak,ELEC,MD,10.0
+white pine,ELEC,TN,4.0
+white plains,ELEC,NY,151.0
+white river jct,ELEC,VT,1.0
+white river junction,ELEC,VT,6.0
+white rock,ELEC,NM,2.0
+white salmon,ELEC,WA,3.0
+white settlement,ELEC,TX,2.0
+white sulphur springs,ELEC,WV,17.0
+white swan,ELEC,WA,1.0
+whitefish,ELEC,MT,17.0
+whitehall,ELEC,MI,12.0
+whitesboro,ELEC,NY,3.0
+whitestown,ELEC,IN,1.0
+whiteville,ELEC,NC,2.0
+whitewater,ELEC,WI,3.0
+whiting,ELEC,IN,1.0
+whitmore lake,ELEC,MI,2.0
+whitsett,ELEC,NC,8.0
+whittier,ELEC,CA,83.0
+wichita,ELEC,KS,74.0
+wichita falls,ELEC,TX,8.0
+wickenburg,ELEC,AZ,9.0
+wickliffe,ELEC,OH,4.0
+wilburton,ELEC,OK,6.0
+wilder,ELEC,KY,2.0
+wildomar,ELEC,CA,14.0
+wildwood,ELEC,FL,30.0
+wildwood crest,ELEC,NJ,3.0
+wilkes barre,ELEC,PA,4.0
+wilkes-barre,ELEC,PA,24.0
+wilkes-barre township,ELEC,PA,20.0
+wilkesboro,ELEC,NC,10.0
+willard,ELEC,OH,2.0
+willcox,ELEC,AZ,8.0
+williams,ELEC,CA,41.0
+williams bay,ELEC,WI,4.0
+williamsburg,ELEC,VA,89.0
+williamson,ELEC,NY,2.0
+williamsport,ELEC,PA,16.0
+williamston,ELEC,SC,1.0
+williamstown,ELEC,MA,55.0
+williamsville,ELEC,NY,25.0
+willimantic,ELEC,CT,24.0
+willingboro,ELEC,NJ,4.0
+williston,ELEC,VT,26.0
+willits,ELEC,CA,16.0
+willmar,ELEC,MN,9.0
+willoughby,ELEC,OH,2.0
+willow beach,ELEC,AZ,8.0
+willow creek,ELEC,CA,3.0
+willow grove,ELEC,PA,12.0
+willow st,ELEC,PA,2.0
+willow street,ELEC,PA,5.0
+willowbrook,ELEC,IL,4.0
+willows,ELEC,CA,8.0
+wills point,ELEC,TX,2.0
+willsboro,ELEC,NY,4.0
+wilmette,ELEC,IL,38.0
+wilmington,ELEC,CA,275.0
+wilmore,ELEC,KY,2.0
+wilson,ELEC,NC,23.0
+wilsonville,ELEC,OR,30.0
+wilton,ELEC,CT,16.0
+wilton manor,ELEC,FL,1.0
+wilton manors,ELEC,FL,7.0
+wimberley,ELEC,TX,5.0
+wimington,ELEC,CA,4.0
+winchendon,ELEC,MA,6.0
+winchester,ELEC,VA,82.0
+wind gap,ELEC,PA,2.0
+windermere,ELEC,FL,2.0
+windham,ELEC,CT,35.0
+windsor,ELEC,CT,64.0
+windsor locks,ELEC,CT,27.0
+windsor mill,ELEC,MD,10.0
+wingdale,ELEC,NY,2.0
+winnemucca,ELEC,NV,16.0
+winner,ELEC,SD,1.0
+winnetka,ELEC,CA,10.0
+winona,ELEC,MS,21.0
+winslow,ELEC,AZ,12.0
+winslow township,ELEC,NJ,2.0
+winston salem,ELEC,NC,2.0
+winston-salem,ELEC,NC,65.0
+winter garden,ELEC,FL,15.0
+winter harbor,ELEC,ME,3.0
+winter haven,ELEC,FL,15.0
+winter park,ELEC,CO,72.0
+winter springs,ELEC,FL,8.0
+winters,ELEC,CA,10.0
+winterset,ELEC,IA,2.0
+winterville,ELEC,NC,2.0
+winthrop,ELEC,WA,6.0
+wiscasset,ELEC,ME,2.0
+wisconsin dells,ELEC,WI,20.0
+wisconsin rapids,ELEC,WI,1.0
+wixom,ELEC,MI,13.0
+woburn,ELEC,MA,48.0
+wolcott,ELEC,NY,4.0
+wolf creek,ELEC,OR,2.0
+wolfeboro,ELEC,NH,5.0
+wood dale,ELEC,IL,2.0
+wood river,ELEC,IL,2.0
+wood village,ELEC,OR,1.0
+wood-ridge,ELEC,NJ,6.0
+woodbourne,ELEC,NY,2.0
+woodbridge,ELEC,VA,108.0
+woodbridge township,ELEC,NJ,38.0
+woodburn,ELEC,OR,26.0
+woodbury,ELEC,NJ,19.0
+woodcliff lake,ELEC,NJ,31.0
+woodford,ELEC,VA,3.0
+woodhaven,ELEC,MI,4.0
+woodinville,ELEC,WA,42.0
+woodland,ELEC,CA,78.0
+woodland hills,ELEC,CA,27.0
+woodland park,ELEC,CO,7.0
+woodlawn,ELEC,MD,13.0
+woodmere,ELEC,OH,2.0
+woodridge,ELEC,IL,17.0
+woods cross,ELEC,UT,12.0
+woods hole,ELEC,MA,1.0
+woodside,ELEC,CA,12.0
+woodstock,ELEC,NH,79.0
+woodstown,ELEC,NJ,2.0
+woodward,ELEC,OK,20.0
+woodway,ELEC,TX,2.0
+woolwich township,ELEC,NJ,2.0
+woonsocket,ELEC,RI,12.0
+wooster,ELEC,OH,18.0
+worcester,ELEC,MA,257.0
+worthington,ELEC,OH,19.0
+wrentham,ELEC,MA,8.0
+wrightstown,ELEC,WI,1.0
+wrightsville beach,ELEC,NC,1.0
+wrightwood,ELEC,CA,1.0
+wye mills,ELEC,MD,5.0
+wylie,ELEC,TX,3.0
+wynantskill,ELEC,NY,7.0
+wynantskills,ELEC,NY,1.0
+wyncote,ELEC,PA,6.0
+wyndmoor,ELEC,PA,2.0
+wynne,ELEC,AR,1.0
+wynnewood,ELEC,PA,7.0
+wyoming,ELEC,MI,18.0
+wyomissing,ELEC,PA,4.0
+wytheville,ELEC,VA,18.0
+xenia,ELEC,OH,5.0
+yachats,ELEC,OR,10.0
+yadkinville,ELEC,NC,4.0
+yakima,ELEC,WA,49.0
+yamhill,ELEC,OR,4.0
+yampa,ELEC,CO,3.0
+yankton,ELEC,SD,1.0
+yantic,ELEC,CT,1.0
+yaphank,ELEC,NY,5.0
+yardley,ELEC,PA,2.0
+yarmouth,ELEC,ME,14.0
+yazoo city,ELEC,MS,3.0
+yellow springs,ELEC,OH,4.0
+yelm,ELEC,WA,2.0
+yemassee,ELEC,SC,8.0
+yerington,ELEC,NV,10.0
+yermo,ELEC,CA,67.0
+yonkers,ELEC,NY,83.0
+"yonkers,",ELEC,NY,4.0
+yorba linda,ELEC,CA,51.0
+york,ELEC,PA,62.0
+york harbor,ELEC,ME,2.0
+yorktown,ELEC,VA,22.0
+yorktown heights,ELEC,NY,25.0
+yorkville,ELEC,NY,19.0
+yosemite national park,ELEC,CA,10.0
+yosemite valley,ELEC,CA,2.0
+young harris,ELEC,GA,5.0
+youngstown,ELEC,OH,16.0
+yountville,ELEC,CA,20.0
+ypsilanti,ELEC,MI,22.0
+yreka,ELEC,CA,22.0
+yuba city,ELEC,CA,25.0
+yucaipa,ELEC,CA,5.0
+yucca valley,ELEC,CA,22.0
+yukon,ELEC,OK,22.0
+yulan,ELEC,NY,4.0
+yulee,ELEC,FL,24.0
+yuma,ELEC,AZ,45.0
+zachary,ELEC,LA,3.0
+zanesville,ELEC,OH,6.0
+zebulon,ELEC,GA,4.0
+zeeland,ELEC,MI,31.0
+zelienople,ELEC,PA,4.0
+zephyr cove,ELEC,NV,7.0
+zephyrhills,ELEC,FL,5.0
+zieglerville,ELEC,PA,2.0
+zillah,ELEC,WA,4.0
+zion crossroads,ELEC,VA,4.0
+zionsville,ELEC,IN,14.0
