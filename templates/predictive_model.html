@@ -35,8 +35,6 @@
 </div>
 
     <form class="predictive-form" method="POST">
-        <label for="total_ev_chargers">Total EV Chargers:</label>
-        <input type="number" id="total_ev_chargers" name="total_ev_chargers" required><br>
 
         <label for="median_income">Median Income:</label>
         <input type="number" id="median_income" name="median_income" required><br>
@@ -44,13 +42,10 @@
         <label for="total_population">Total Population:</label>
         <input type="number" id="total_population" name="total_population" required><br>
 
-        <label for="city">City:</label>
-        <input type="text" id="city" name="city" required><br>
-
         <input type="submit" value="Predict">
     </form>
     {% if prediction %}
-        <h2>Prediction: {{ prediction }}</h2>
+        <h2>Optimal Amount of EV Charging Stations: {{ prediction }}</h2>
     {% endif %}
 
     <!-- Other content can be placed here -->
