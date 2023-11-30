@@ -151,3 +151,21 @@ body.gradient-background {
 .header-text {
     margin-bottom: 100px;
 }
+
+.tableau-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px; /* Adding space between Tableau visualizations */
+}
+
+/* Style for Tableau Placeholder */
+.tableau-container .tableauPlaceholder {
+    flex: 0 0 calc(50% - 10px);
+    /* Adjust width or use media queries for responsiveness */
+}
+
+@media (max-width: 768px) {
+    .tableau-container .tableauPlaceholder {
+        flex: 0 0 100%;
+    }
+}
