@@ -6,6 +6,8 @@ For our project, our main goal was to predict the number of EV charging stations
 # Methods
 We used Jupyter notebook to conduct data cleaning of data from various online sources, including The United States Census Bureau. We used Scikit-learn to create various prediction models in order to find the best fit such as linear regression, random forest and a neural network model. We created a Flask site to interact with the model in addition to charts and maps in Tableau, embedded into the site. We ran into several challenges when searching for data to support our goal, cleaning downloaded table data from the Census bureau, gathering sufficient and accurate data for our model. 
 
+Tableau Maps, Charts, Graphs, Dashboards, Story: https://public.tableau.com/shared/9SFD2MG7D?:display_count=n&:origin=viz_share_link 
+
 # Conclusion
 In conclusion, we were able to create a flask page that connected with our multiple regression model to create an interactive page that allows the user to input the median income and population of any location to determine how many EV chargers that a place should have. We saw that when median incomes were similar, population was the biggest contributor to a location having more or less EV chargers. When incomes are similar, if a location has a higher population than they will be predicted to have more EV chargers. For future, it would be interesting to use zip code data, population density data and figure out for specific locations how many chargers they should have. 
 
